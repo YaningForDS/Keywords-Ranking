@@ -1,0 +1,46 @@
+WT/DS257/R Page C-1
+
+ANNEX C
+THIRD PARTY RESPONSES TO QUESTIONS FROM THE PANEL
+
+Annex C
+
+Contents European Communities Response to Questions from the Panel at the Third Party Session
+
+Page C-2
+
+WT/DS257/R Page C-2
+ANNEX C
+EUROPEAN COMMUNITIES RESPONSE TO QUESTIONS FROM THE PANEL AT THE THIRD PARTY SESSION
+(24 February 2003)
+Q1: Paragraph(2) of the preamble of the EC regulation 1973/2002 (Exhibit US-15) provides that that when "prices or costs do not exist or are unreliable, then the appropriate benchmark should be determined by resorting to terms and conditions in other markets" (emphasis added). What in the EC's view would be a situation:
+(a) where prices or costs are unreliable and recourse could be had to market conditions in other markets?
+(b) Where prices or costs do not exist and recourse could be had to market conditions in other markets?
+Reply
+1. The European Communities would first observe that the second preambular paragraph of Regulation 1973/2002 ("the amending Regulation") is referring to the issue addressed in the addition to Article 6(d) of Council Regulation (EC) 2026/97 ("the amended Regulation"). This addition provides as follows:
+If there are no such prevailing market terms and conditions for the product or service in question in the country of provision or purchase which can be used as appropriate benchmarks, the following rules shall apply:
+(i) the terms and conditions prevailing in the country concerned shall be adjusted, on the basis of actual costs, prices and other factors available in that country, by an appropriate amount which reflects normal market terms and conditions; or
+(ii) when appropriate, the terms and conditions prevailing in the market of another country or on the world market which are available to the recipient shall be used.
+2. This language addresses the problem that arises where there are no "prevailing market terms and conditions" for a product or service. The second preambular paragraph of the amending Regulation states:
+It is prudent to provide for clarification as to what rules should be followed in cases where a market benchmark does not exist in the country concerned. In such situation the benchmark should be determined by adjusting the terms and conditions prevailing in the country concerned on the basis of actual factors available in that country. If this is not practicable because, inter alia, such prices or costs do not exist or are unreliable, then the appropriate benchmark should be determined by resorting to terms and conditions in other markets.
+
+WT/DS257/R Page C-3
+3. Sub-questions a) and b), as the European Communities understands them, are based on a distinction between situations where prices are unreliable and situations where prices do not exist. The European Communities would like to note that the preambular phrase "prices or costs do not exist or are unreliable" is merely an illustration of circumstances in which terms and conditions in the market of another country or on the world market would need to be used in accordance with the dispositive part of Article 6(d)(ii) of Council Regulation (EC) 2026/97.
+4. As to the question in which situations recourse to terms and conditions outside the market of the country of export will be required, the European Communities regrets that it is not possible to indicate more precisely circumstances in which the criteria contained in Article 6(d) of Council Regulation (EC) 2026/97 as amended would be found to be met, because they have only entered into force in November 2002 and have not yet been tested in actual investigations.
+Q2. Is it the view of the EC that market conditions exist where the government is the price leader, due to its market power, and the private players on the remaining market are mere price takers? Are the prices of the private players in such circumstances reliable in the view of the EC for purposes of establishing in-country market conditions?
+Reply
+5. Article 14(d) of the SCM Agreement envisages the use of "prevailing market conditions" as benchmark for "adequate remuneration". The European Communities notes that the term "price leader" is not provided for under the SCM Agreement. The expression "price leader" is broad and ambiguous. When used in the context of antitrust law, that notion might even refer to a provider who holds a significantly bigger market share in relation to all other suppliers, e.g., 20 per cent market as opposed to others with 1-5 per cent each. However, the mere existence of such "price leader" - be it the government or a private player - does not mean that there are no "prevailing market conditions" where prices are otherwise driven by demand and supply.
+6. The European Communities considers that an assessment of whether there are exceptionally no prevailing market conditions must be made on a case-to-case-basis taking account of all the factors set forth in Article 14(d) of the SCM Agreement. Such assessment is complex and will differ considerably between the myriad types of products (industrial commodities, e.g., computers, renewable and non-renewable natural resources, e.g., lumber or oil) and different types of services. Therefore, it is difficult to elaborate general criteria.
+7. However, as the European Communities pointed out already, where there is evidence for imports of a product in combination with a significant market share of private operators, a finding based on the mere generalisation that this market is distorted solely because the government is a price leader would not be sufficient.1
+Q3. In its oral statement (para. 28), the EC states that the disclosure in a written document sent to the parties is "the usual practice" in the EC pursuant to Article 12.8 SCM Agreement. For the panel's information, what does the EC do in this respect when it does not follow that "usual practice"?
+Reply
+8. The European Communities confirms that disclosure of the essential facts and considerations on the basis of which definitive action will be taken is consistently made in writing.
+1 See, Third Party Submission by the European Communities, para. 32.
+
+WT/DS257/R Page C-4
+Q4. In noting, at paragraph 12 of its oral statement, that "the USDOC did not make a de jure specificity determination although certain stumpage programmes were restricted to certain enterprises owning saw mills", is the EC implying that the USDOC erred in not doing so?
+Reply
+9. The European Communities considers that the USDOC's specificity determination before the Panel is based on a flawed assessment of benefit and therefore did not consider it possible on the basis of the evidence available to it to comment on whether there is an additional violation of Article 2.1 of the SCM Agreement.
+10. The European Communities simply wished to note that on the basis of the factual aspects of the case available to the European Communities, it would have seemed logical to explore first de jure specificity before resorting to the de facto test. However, the difference between a de jure or de facto determination is essentially one of evidence. A de jure case is based on the legislation pursuant to which the granting authority operates, whereas a de facto case requires the compilation of factual evidence concerning the use of the subsidy. It is essentially the choice of the investigating authority which avenue it pursues.
+
+

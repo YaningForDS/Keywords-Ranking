@@ -1,0 +1,426 @@
+WT/DS322/R Page A-1
+
+ANNEX A
+
+REQUEST FOR CONSULTATIONS AND REQUEST FOR THE ESTABLISHMENT OF A PANEL
+
+Annex A-1 Annex A-2
+
+Contents Request for Consultations by Japan Request for the Establishment of a Panel by Japan
+
+Page A-2 A-15
+
+WT/DS322/R Page A-2
+
+ANNEX A-1
+
+REQUEST FOR CONSULTATIONS BY JAPAN
+
+WORLD TRADE ORGANIZATION
+
+WT/DS322/1 G/L/720 G/ADP/D58/1 29 November 2004
+(04-5181)
+Original: English
+
+UNITED STATES ­ MEASURES RELATING TO ZEROING AND SUNSET REVIEWS
+Request for Consultations by Japan
+The following communication, dated 24 November 2004, from the delegation of Japan to the delegation of the United States and to the Chairperson of the Dispute Settlement Body, is circulated in accordance with Article 4.4 of the DSU.
+_______________
+Upon instructions from my authorities, I hereby wish to convey the request of the Government of Japan for consultations with the Government of the United States of America pursuant to Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes (DSU), Article XXII:1 of the General Agreement on Tariffs and Trade 1994 (GATT 1994), and Article 17.2 of the Agreement on Implementation of Article VI of GATT 1994 (the Anti-Dumping Agreement), regarding certain measures imposed by the United States including: (1) the "zeroing" practice by which the United States Department of Commerce ("USDOC") treats transactions with negative dumping margins as having margins equal to zero in determining weighted average dumping margins in anti-dumping investigations, administrative reviews, and sunset reviews, and also in assessing the final anti-dumping duty liability on entries upon liquidation; (2) in sunset reviews, the USDOC's "irrefutable presumption" of the likelihood of continuation or recurrence of dumping in certain specific factual situations; and (3) in sunset reviews, the waiver provisions of US law, which oblige the USDOC, in certain situations, to find a likelihood of continuation or recurrence of dumping without performing a substantive review. This request is, in particular but not exclusively, with respect to:
+(1) the Tariff Act of 1930 ("the Act"), in particular, sections 731, 751, 752, 771(7), 771(35)(A), 771(35)(B), and 777A(d);
+(2) the Statement of Administrative Action that accompanied the Uruguay Round Agreements Act, H.R. Doc. No. 103-316, vol. I;
+
+WT/DS322/R Page A-3
+(3) the implementing regulations of the USDOC, 19 C.F.R. section 351, in particular, sections 351.218 and 351.414;
+(4) the Import Administration Antidumping Manual (1997 edition), including the computer program(s) to which it refers;
+(5) the USDOC's Policy Bulletin 98.3, "Policies Governing the Conduct of Five-Year ("Sunset") Reviews of Antidumping and Countervailing Duty Orders" (16 April 1998) ("Sunset Policy Bulletin"), 63 Federal Register 18871 (16 April 1998);
+(6) the methodology of the United States for determining dumping margins and material injury in anti-dumping investigations;
+(7) the methodology of the United States for determining dumping margins in administrative reviews; and
+(8) the methodology of the United States, in sunset reviews, for determining whether revocation of anti-dumping orders would be likely to lead to continuation or recurrence of dumping, and continuation or recurrence of material injury within a reasonably foreseeable time.
+Japan wishes to consult with the United States not only on these measures "as such," but also on the applications of the measures in specific instances. In this regard, Japan has attached a list of specific cases of an anti-dumping investigation, administrative reviews and sunset reviews covering imports from Japan subject to the Anti-Dumping Agreement in which the United States has applied these measures.
+The matters that the Government of Japan would like to raise in the course of consultations include, but are not limited to, the following:
+(1) in anti-dumping investigations, the zeroing of negative dumping margins when comparing export prices and normal values on a weighted-average to weighted-average basis;
+(2) the impact of zeroing negative dumping margins in the determination of the "dumped imports" in injury investigations by the United States International Trade Commission ("USITC");
+(3) in administrative reviews, the zeroing of negative dumping margins when comparing export prices and normal values on a weighted-average to transaction basis;
+(4) the determination of dumping margins above de minimis levels as a result of zeroing negative dumping margins, and the consequent imposition, continuation, or collection of anti-dumping duties;
+(5) in sunset reviews, the use of margins calculated in anti-dumping investigations and/or administrative reviews, in which negative dumping margins had been zeroed, resulting in the determination that revocation of the anti-dumping orders would be likely to lead to continuation or recurrence of dumping;
+(6) in sunset reviews, the consideration by the USITC of the magnitude of the margin of dumping provided by the USDOC, in determining whether the revocation of an anti-dumping order would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time;
+
+WT/DS322/R Page A-4
+(7) in sunset reviews, the "irrefutable presumption" whereby the USDOC perceives the provisions of Section II.A.3. of the Sunset Policy Bulletin as conclusive in determining that revocation of an anti-dumping order would be likely to lead to continuation or recurrence of dumping;
+(8) in sunset reviews, the waiver provisions of US law, which oblige the USDOC to find the likelihood of continuation or recurrence of dumping without performing a substantive review with regard to interested parties that either affirmatively waived, or are deemed to have waived, their right to participate in the sunset reviews conducted by the USDOC; and
+(9) the level of dumping margins in the absence of zeroing in the cases identified in the attached list.
+The Government of Japan is concerned that these measures, as well as their application in the specific anti-dumping investigation, administrative reviews, and sunset reviews identified in the attached list, are inconsistent with the obligations of the United States under the WTO Agreements. The provisions of the Agreements with which these measures appear to be inconsistent include, but are not limited to, the following:
+(1) Article VI:1 and VI:2 of GATT 1994;
+(2) Articles 1, 2.1, 2.4, 2.4.2, 3, and 5.8 of the Anti-Dumping Agreement (with respect to the calculation of the dumping margins and the determination of injury);
+(3) Articles 6.1 and 6.2 of the Anti-Dumping Agreement (with respect to the right of interested parties to submit information and defend their interests in sunset reviews);
+(4) Article 9 of the Anti-Dumping Agreement (with respect to administrative reviews and the assessment of dumping duties);
+(5) Article 11 of the Anti-Dumping Agreement (with respect to the continued imposition of anti-dumping duties);
+(6) Articles 18.3 and 18.4 of the Anti-Dumping Agreement; and
+(7) Article XVI:4 of the Agreement Establishing the WTO (the Marrakesh Agreement).
+The Government of Japan reserves its right to raise further factual claims and legal issues during the course of consultations.
+We look forward to receiving your reply to this request and to fixing a mutually acceptable date for consultations.
+
+WT/DS322/R Page A-5
+United States ­ Anti-Dumping Duties on Imports of Certain Cut-To-Length Carbon-Quality Steel Plate Products from Japan
+Specific Case No. 1
+The measure
+This case concerns the imposition of anti-dumping duties on Certain Cut-To-Length CarbonQuality Steel Plate Products ("CTL Plate") from Japan (USDOC case number A-588-847, 64 FR 73215, 13 December 1999). The rate of the ad valorem anti-dumping duty was 10.78% for Kawasaki Steel Corporation and all others.
+Use of zeroing
+In the United States Department of Commerce's ("USDOC's") investigation of CTL Plate from Japan, the USDOC utilized a methodology commonly referred to as "zeroing" in calculating dumping margins.
+This methodology is functionally identical to the methodology that was held to be inconsistent with the WTO Anti-Dumping Agreement in European Communities ­ Anti-Dumping Duties on Imports of Cotton-Type Bed Linen from India (Panel Report, WT/DS141/R, and Appellate Body Report, WT/DS141/AB/R, adopted 12 March 2001), and also in United States ­ Final Dumping Determination on Softwood Lumber from Canada (Panel Report, WT/DS264/R, and Appellate Body Report, WT/DS264/AB/R, adopted 31 August 2004).
+In addition, in the United States International Trade Commission's ("USITC's") affirmative determination in Cut-to-Length Carbon Steel Plate from Japan, Investigation No. 731-TA-820, the USITC, pursuant to Section 771(7) of the Act, may have considered the margins of dumping provided by the USDOC, which were calculated using the zeroing practice.
+Dumping margin without zeroing
+By using the above methodology, the USDOC calculated a dumping margin of 10.58% for Kawasaki Steel Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [9.46%].
+United States ­ Anti-dumping Administrative Review on Imports of Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan
+Specific Case No. 2
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan (USDOC case number A-588-054, 66 Fed. Reg. 15078, 15 March 2001). The period of review is 1 October 1998 through 30 September 1999, and the rate of the ad valorem anti-dumping duty was 14.86% for Koyo Seiko Co., Ltd.
+
+WT/DS322/R Page A-6
+Use of zeroing
+In this administrative review of Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan, the USDOC utilized the zeroing methodology in a manner closely similar, but not identical, to that used in the investigation identified in Specific Case No. 1.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 14.86% for Koyo Seiko Co., Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-1.27%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan
+Specific Case No. 3
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan (USDOC case number A-588-604, 65 Fed. Reg. 11767, 6 March 2000). The period of review is 1 October 1997 through 30 September 1998, and the rate of the ad valorem anti-dumping duty was 17.58% for NTN Corporation.
+Use of zeroing
+In this administrative review of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 17.58% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-6.01%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan
+Specific Case No. 4
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan (USDOC case number A-588-604, 66 Fed. Reg. 15078, 15 March 2001). The period of review is 1 October 1998 through 30 September 1999, and the rate of the ad valorem anti-dumping duty was 17.94% for Koyo Seiko Co., Ltd.
+
+WT/DS322/R Page A-7
+Use of zeroing
+In this administrative review of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 17.94% for Koyo Seiko Co., Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [13.32%].
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 5
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 62 Fed. Reg. 2081, 15 January 1997). The period of review is 1 May 1994 through 30 April 1995, and the rate of the ad valorem anti-dumping duty was 45.83% for Nippon Pillow Block Co., Ltd.
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 45.83% for Nippon Pillow Block Co., Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been significantly lower. The exact figure cannot yet be determined, because the case is currently on remand to the USDOC from the US Court of International Trade, and the remand proceedings have not yet been completed.
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 6
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 6.14% for NTN Corporation.
+
+WT/DS322/R Page A-8
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 6.14% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-25.15%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Cylindrical Roller Bearings and Parts Thereof From Japan
+Specific Case No. 7
+The measure
+This case concerns the imposition of anti-dumping duties on Cylindrical Roller Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 3.49% for NTN Corporation.
+Use of zeroing
+In this administrative review of Cylindrical Roller Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 3.49% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-25.24%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Spherical Plain Bearings and Parts Thereof From Japan
+Specific Case No. 8
+The measure
+This case concerns the imposition of anti-dumping duties on Spherical Plain Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 2.78% for NTN Corporation.
+
+WT/DS322/R Page A-9
+Use of zeroing
+In this administrative review of Spherical Plain Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 2.78% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-26.06%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 9
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 30 April 2000, and the rates of the ad valorem anti-dumping duty were 10.10% for Koyo Seiko Co., Ltd., 9.16% for NTN Corporation, and 4.22% for NSK Ltd.
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated dumping margins of 10.10% for Koyo Seiko Co., Ltd., 9.16% for NTN Corporation, and 4.22% for NSK Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margins would have been [-5.51%] for Koyo Seiko Co., Ltd., [-15.21%] for NTN Corporation, and [-20.76%] for NSK Ltd., and no anti-dumping duties would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Cylindrical Roller Bearings and Parts Thereof From Japan
+Specific Case No. 10
+The measure
+This case concerns the imposition of anti-dumping duties on Cylindrical Roller Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 31 December 1999, and the rates of the ad valorem anti-dumping duty were 5.28% for Koyo Seiko Co., Ltd. and 16.26% for NTN Corporation.
+
+WT/DS322/R Page A-10
+Use of zeroing
+In this administrative review of Cylindrical Roller Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated dumping margins of 5.28% for Koyo Seiko Co., Ltd. and 16.26% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margins would have been [-11.70%] for Koyo Seiko Co., Ltd. and [-8.08%] for NTN Corporation, and no anti-dumping duties would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Spherical Plain Bearings and Parts Thereof From Japan
+Specific Case No. 11
+The measure
+This case concerns the imposition of anti-dumping duties on Spherical Plain Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 31 December 1999, and the rate of the ad valorem anti-dumping duty was 3.60% for NTN Corporation.
+Use of zeroing
+In this administrative review of Spherical Plain Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated a dumping margin of 3.60% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-10.31%], and no anti-dumping duty would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 12
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof, From Japan (USDOC case number A-588-804, 67 Fed. Reg. 55780, 30 August 2002, as amended by 67 Fed. Reg. 63608, 15 October 2002). The period of review is 1 May 2000 through 30 April 2001, and the rates of the ad valorem anti-dumping duty were 6.07% for NSK Ltd., 2.51% for Asahi Seiko Co., Ltd., and 9.34% for NTN Corporation.
+
+WT/DS322/R Page A-11
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated dumping margins of 6.07% for NSK Ltd., 2.51% for Asahi Seiko Co., Ltd., and 9.34% for NTN Corporation, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margins would have been [-18.78%] for NSK Ltd., [-26.83%] for Asahi Seiko Co., Ltd., and [-12.17%] for NTN Corporation, and no anti-dumping duties would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 13
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 68 Fed. Reg. 35623, 16 June 2003). The period of review is 1 May 2001 through 30 April 2002, and the rates of the ad valorem anti-dumping duty were 4.51% for NTN Corporation and 2.68% for NSK Ltd.
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated dumping margins of 4.51% for NTN Corporation and 2.68% for NSK Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margins would have been [-25.99%] for NTN Corporation and [-29.90%] for NSK Ltd., and no anti-dumping duties would have been collected.
+United States ­ Anti-dumping Administrative Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 14
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 69 Fed. Reg. 55574, 15 September 2004). The period of review is 1 May 2002 through 30 April 2003, and the rates of the ad valorem anti-dumping duty were 5.56% for Koyo Seiko Co., Ltd., 2.74% for NTN Corporation, and 2.46% for NSK Ltd.
+
+WT/DS322/R Page A-12
+Use of zeroing
+In this administrative review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same "zeroing" methodology as that used in Specific Case No. 2.
+Dumping margin without zeroing
+By using this methodology, the USDOC calculated dumping margins of 5.56% for Koyo Seiko Co., Ltd., 2.74% for NTN Corporation, and 2.46% for NSK Ltd., while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margins would have been [-10.83%] for Koyo Seiko Co., Ltd., [-25.86%] for NTN Corporation, and [-29.61%] for NSK Ltd., and no anti-dumping duties would have been collected.
+United States ­ Sunset Review of Antifriction Bearings From Japan
+Specific Case No. 15
+The measure
+This case concerns the Final Results of the USDOC in the Expedited Sunset Review of Antifriction Bearings from Japan, in which the USDOC found that revocation of the anti-dumping order on Ball Bearings from Japan would be likely to lead to continuation or recurrence of dumping (USDOC case number A-588-804, 64 Fed. Reg. 60275, 4 November 1999); and the Determination of the USITC in Certain Bearings from China, France, Germany, Hungary, Italy, Japan, Romania, Singapore, Sweden, and the United Kingdom, Investigations Nos. AA-1921-143, 731-TA-341, 731-TA-343-345, 731-TA-391-397, and 731-TA-399 (Review), that revocation of the anti-dumping order on Ball Bearings from Japan would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.
+Use of zeroing
+In making this determination, the USDOC specifically relied on the "margins determined in the investigation and subsequent administrative reviews," and concluded that because "dumping has continued over the life of the orders, the [USDOC] determines that dumping is likely to continue if the orders were revoked." (64 Fed. Reg. at 60278.) Japan submits that because the USDOC's likelihood determination was based on margins in both the investigation and subsequent administrative reviews that were calculated using the zeroing practice, which is inconsistent with the Anti-Dumping Agreement, the USDOC's decision not to revoke the anti-dumping order on Ball Bearings from Japan is equally inconsistent with the Anti-Dumping Agreement.
+In addition, Japan submits that because the USITC may have considered the margins of dumping provided by the USDOC, which were calculated using the zeroing practice, the USITC's likelihood determination and the decision not to revoke the anti-dumping order on Ball Bearings from Japan are also inconsistent with the Anti-Dumping Agreement.
+Recourse to irrefutable presumption
+In making this determination, the USDOC relied on Section II.A.3 of the Sunset Policy Bulletin, which provides that the DOC will normally determine that revocation of an anti-dumping duty order is likely to lead to continuation or recurrence of dumping in a case in which dumping continued at any level above de minimis after the issuance of the order.
+
+WT/DS322/R Page A-13
+The provisions of Section II.A.3. of the Sunset Policy Bulletin were held to be inconsistent with the WTO Anti-Dumping Agreement in United States ­ Sunset Reviews of Anti-Dumping Measures on Oil Country Tubular Goods from Argentina (Panel Report, WT/DS268/R, 16 July 2004).
+Recourse to affirmative and deemed waiver
+In making this determination, the USDOC resorted to the affirmative and deemed waiver provisions of US law ­ including Section 751(c)(4) of the Act, Section 351.218(d)(2) of the implementing regulations of the USDOC, and the Statement of Administrative Action ("SAA") that accompanied the Uruguay Round Agreements Act, H.R. Doc. No. 103-316, vol. I ­ by which the USDOC is obliged to make an affirmative finding of likelihood of continuation or recurrence of dumping with regard to interested parties that waive their right to participate before the USDOC in a sunset review.
+This practice under the provisions mentioned above is identical to that which was held to be inconsistent with the WTO Anti-Dumping Agreement in United States ­ Sunset Reviews of Anti-Dumping Measures on Oil Country Tubular Goods from Argentina (Panel Report, WT/DS268/R, 16 July 2004).
+United States ­ Sunset Review of Corrosion-Resistant Carbon Steel Flat Products From Japan
+Specific Case No. 16
+The measure
+This case concerns the Final Results of the USDOC in the Full Sunset Review of CorrosionResistant Carbon Steel Flat Products From Japan, in which the USDOC concluded that revocation of the anti-dumping order on Corrosion-Resistant Carbon Steel Flat Products from Japan would be likely to lead to continuation or recurrence of dumping (USDOC case number A-588-826, 65 Fed. Reg. 47380, 2 August 2000); and the Determination of the USITC in Certain Carbon Steel Products from Australia, Belgium, Brazil, Canada, Finland, France, Germany, Japan, Korea, Mexico, Netherlands, Poland, Romania, Spain, Sweden, Taiwan, and United Kingdom, Investigations Nos. AA-1921-197, 701-TA-231, 319-320, 322, 325-328, 340, 342, and 348-350, and 731-TA-573-576, 578, 582-587, 604, 607-608, 612, and 614-618 (Review), that revocation of the anti-dumping order on CorrosionResistant Carbon Steel Flat Products from Japan would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.
+Use of zeroing
+In making this determination, the USDOC specifically relied on the margins determined in the investigation, and concluded that because "dumping has continued to occur throughout the life of the order," dumping was likely to continue if the order was revoked. USDOC, Issues and Decision Memo for the Full Sunset Review of Corrosion-Resistant Carbon Steel Flat Products from Japan; Final Results at Comment 1 (2 August 2000). Japan submits that because the USDOC's likelihood determination was based on margins in the investigation that were calculated using the zeroing practice, which is inconsistent with the Anti-Dumping Agreement, the USDOC's decision not to revoke the anti-dumping order on Corrosion-Resistant Carbon Steel Flat Products From Japan is equally inconsistent with the Anti-Dumping Agreement.
+
+WT/DS322/R Page A-14
+In addition, Japan submits that because the USITC may have considered the margins of dumping provided by the USDOC, which were calculated using the zeroing practice, the USITC's likelihood determination and the decision not to revoke the anti-dumping order on Corrosion-Resistant Carbon Steel Flat Products from Japan are also inconsistent with the Anti-Dumping Agreement.
+Recourse to irrefutable presumption
+In making this determination, the USDOC relied on Section II.A.3 of the Sunset Policy Bulletin, which provides that the DOC will normally determine that revocation of an anti-dumping duty order is likely to lead to continuation or recurrence of dumping in a case in which dumping continued at any level above de minimis after the issuance of the order.
+The provisions of Section II.A.3 of the Sunset Policy Bulletin were held to be inconsistent with the WTO Anti-Dumping Agreement in United States ­ Sunset Reviews of Anti-Dumping Measures on Oil Country Tubular Goods from Argentina (Panel Report, WT/DS268/R, 16 July 2004).
+_______________
+
+WT/DS322/R Page A-15
+
+ANNEX A-2
+
+REQUEST FOR THE ESTABLISHMENT OF A PANEL BY JAPAN
+
+WORLD TRADE ORGANIZATION
+
+WT/DS322/8 7 February 2005
+(05-0498)
+Original: English
+
+UNITED STATES ­ MEASURES RELATING TO ZEROING AND SUNSET REVIEWS
+Request for the Establishment of a Panel by Japan
+The following communication, dated 4 February 2005, from the delegation of Japan to the Chairperson of the Dispute Settlement Body, is circulated pursuant to Article 6.2 of the DSU.
+_______________
+Upon instructions from my authorities, I hereby wish to convey the request of the Government of Japan for the establishment of a panel pursuant to Article XXIII of the General Agreement on Tariffs and Trade 1994 (the "GATT 1994"), Articles 4 and 6 of the Understanding on Rules and Procedures Governing the Settlement of Disputes (the "DSU"), and Article 17 of the Agreement on Implementation of Article VI of GATT 1994 (the "Anti-Dumping Agreement") regarding certain measures imposed by the United States.
+A. Consultations
+On 24 November 2004, the Government of Japan requested consultations with the Government of the United States under Article 4 of the DSU, Article XXII:1 of the GATT 1994, and Article 17.2 of the Anti-Dumping Agreement.1 Consultations were held on 20 December 2004, which allowed a better understanding of the positions of the parties, but failed to achieve a mutually agreed solution of the dispute.
+B. Measures and Claims
+Pursuant to Article 6 of the DSU and Article 17 of the Anti-Dumping Agreement, Japan considers that the specific measures identified in this request are inconsistent with the United States'
+1 WT/DS322/1 (24 November 2004).
+
+WT/DS322/R Page A-16
+obligations under the Marrakesh Agreement Establishing the World Trade Organization (the "Marrakesh Agreement"), including the agreements annexed thereto. By infringing those obligations, the United States' measures nullify or impair benefits accruing to Japan directly or indirectly under such agreements, as set forth in Article 3.8 of the DSU. Specifically, the United States has acted in a manner inconsistent with the provisions of the Anti-Dumping Agreement, the GATT 1994, and the Marrakesh Agreement that are identified below.
+1. The Government of Japan considers that the United States measures including laws, regulations and administrative procedures, as such, are inconsistent with certain provisions of the Anti-Dumping Agreement, the GATT 1994, and the Marrakesh Agreement, for the following reasons.
+(a) In original investigations, periodic reviews, new shipper reviews, sunset reviews and changed circumstances reviews where the redetermination of margins of dumping occurs, the United States Department of Commerce ("USDOC") disregards intermediate negative dumping margins calculated by comparing normal value and export price, including on a weighted-average-to-weighted-average basis, weightedaverage-to-transaction basis, and transaction-to-transaction basis, through the USDOC's AD Margin Calculation computer program and other related procedures, in the process of establishing the overall dumping margin for the product as a whole (hereinafter collectively referred to as "Zeroing"). As a result, the USDOC artificially inflates the dumping margins. Zeroing is inconsistent with:
+(i) Articles 2.1, 2.4 and 2.4.2 of the Anti-Dumping Agreement because the comparison of normal value and export price is not in conformity with those provisions;
+(ii) Articles 9.1, 9.2 and 9.3 of the Anti-Dumping Agreement through the imposition and collection of anti-dumping duties in excess of the margin or amount of dumping as properly determined pursuant to Article 2 of the AntiDumping Agreement;
+(iii) as to original investigations, Article 5.8 of the Anti-Dumping Agreement insofar as de minimis dumping margins are determined to be greater than de minimis as a result of the impermissible use of the Zeroing procedure, and the Zeroing procedure results in the failure to immediately terminate an investigation;
+(iv) as to original investigations, Article 3.3 of the Anti-Dumping Agreement insofar as the Zeroing procedure results in the cumulative assessment of the effect of imports for which dumping margins are erroneously determined to be greater than de minimis;
+(v) as to new shipper reviews, changed circumstances reviews and sunset reviews, Articles 9.5, 11.1, 11.2 and 11.3 of the Anti-Dumping Agreement to the extent that dumping margins calculated by using the impermissible Zeroing procedure results in erroneous determination; and
+(vi) Article 1 of the Anti-Dumping Agreement, and Articles VI:1 and VI:2 of the GATT 1994 to the extent that the Zeroing procedure and the resulting imposition and collection of anti-dumping duties are inconsistent with the Anti-Dumping Agreement.
+
+WT/DS322/R Page A-17
+(b) Injury investigations by the United States International Trade Commission ("USITC") are inconsistent with:
+(i) Article 3, including Articles 3.1, 3.2, 3.4 and 3.5, of the Anti-Dumping Agreement insofar as the injury and causation determinations are based on the examination of the inflated dumping margin and volume of "dumped imports" that include imports from companies which would have been excluded as non-dumped imports (due to the calculation of de minimis or zero margins) had the margins been calculated without using the Zeroing procedure;
+(ii) Article 3.3 of the Anti-Dumping Agreement insofar as the Zeroing procedure allows the cumulative assessment of the effect of imports for which dumping margins are erroneously determined to be greater than de minimis;
+(iii) Article 5.8 of the Anti-Dumping Agreement insofar as the volume of dumped imports or injury is determined not to be negligible as a result of the impermissible use of the Zeroing procedure, and the USITC consequently fails to immediately terminate the investigation; and
+(iv) Articles 1 of the Anti-Dumping Agreement, and Articles VI:1 and VI:2 of the GATT 1994 to the extent that the injury investigation and the resulting imposition and collection of anti-dumping duties are inconsistent with the Anti-Dumping Agreement.
+(c) In sunset reviews, the USDOC and the USITC base their determinations that the expiry of an anti-dumping duty would be likely to lead to continuation or recurrence of dumping and injury on margins previously calculated using the Zeroing procedure. Thus, the sunset reviews by the US authorities are inconsistent with:
+(i) Articles 11.1 and 11.3 of the Anti-Dumping Agreement, insofar as the likelihood determinations in the sunset reviews are based on dumping margins determined using the Zeroing procedure that is inconsistent with Article 2 including Articles 2.4 and 2.4.2 of the Anti-Dumping Agreement; and
+(ii) Article 1 of the Anti-Dumping Agreement and Articles VI:1 and VI:2 of the GATT 1994 to the extent that the sunset reviews and the resulting continued imposition and collection of anti-dumping duties are inconsistent with the Anti-Dumping Agreement.
+(d) Changed circumstances reviews are inconsistent with:
+(i) Articles 11.1 and 11.2 of the Anti-Dumping Agreement insofar as the determinations in the changed circumstances reviews are based on dumping margins determined using the Zeroing procedure that is inconsistent with Article 2, including Articles 2.4 and 2.4.2 of the Anti-Dumping Agreement; and
+(ii) Article 1 of the Anti-Dumping Agreement and Articles VI:1 and VI:2 of the GATT 1994 to the extent that the changed circumstances reviews and the resulting continued imposition and collection of anti-dumping duties are inconsistent with the Anti-Dumping Agreement.
+
+WT/DS322/R Page A-18
+(e) By adopting and maintaining the WTO-inconsistent measures identified above, the United States has violated its obligations under Article 18.4 of the Anti-Dumping Agreement and Article XVI:4 of the Marrakesh Agreement, because the United States has failed to take all necessary steps, of a general or particular character, to ensure the conformity of its laws, regulations and administrative procedures with the provisions of GATT 1994 and the Anti-Dumping Agreement.
+2. The Government of Japan also considers that the United States laws, regulations and administrative procedures described above were applied in the specific original investigation, periodic reviews and sunset reviews identified in the Annex to this panel request. As a result of the application of the Zeroing procedure, the anti-dumping orders and determinations adopted in the proceedings identified in the Annex are inconsistent with the following provisions of the Anti-Dumping Agreement, the GATT 1994, and the Marrakesh Agreement for the same reasons as set out in point B.1.(a)­(e) above:
+(a) in the original investigation:
+(i) Articles 1, 2.1, 2.4, 2.4.2, 3.1, 3.2, 3.3, 3.4, 3.5, 5.8, 9.1, 9.2 and 9.3 of the Anti-Dumping Agreement, and Articles VI:1 and VI:2 of the GATT 1994; and
+(ii) Article 18.4 of the Anti-Dumping Agreement and Article XVI:4 of the Marrakesh Agreement ; and
+(f) in the periodic and sunset reviews:
+(i) Articles 1, 2.1, 2.4, 2.4.2, 9.1, 9.2, 9.3, 11.1 and 11.3 of the Anti-Dumping Agreement, and Articles VI:1 and VI:2 of the GATT 1994; and
+(ii) Article 18.4 of the Anti-Dumping Agreement and Article XVI:4 of the Marrakesh Agreement.
+3. The foregoing measures include, and/or are adopted or applied pursuant to, the following United States laws, regulations, and administrative procedures:
+(1) the Tariff Act of 1930, as amended (in particular, by the Uruguay Round Agreements Act of 1994 (the "URAA")), in particular, sections 731, 751, 752, 771(7), 771(35)(A), 771(35)(B) and 777A(d);
+(2) the Statement of Administrative Action that accompanied the URAA, H.R. Doc. No. 103-316, vol. I;
+(3) the implementing regulations of the USDOC, 19 C.F.R. section 351; and
+(4) the USDOC Import Administration's Antidumping Manual (1997 edition), including the AD Margin Calculation computer program(s) to which it refers.
+The foregoing text identifies the specific measures at issue and describes in brief the legal bases for the Government of Japan's claims, and is without prejudice to any arguments that the Government of Japan may develop and present to the Panel regarding the WTO-inconsistency of the measures at issue.
+*****
+
+WT/DS322/R Page A-19
+Accordingly, the Government of Japan requests the establishment of a panel pursuant to Article XXIII of the GATT 1994, Articles 4 and 6 of the DSU, and Article 17 of the Anti-Dumping Agreement. The terms of reference shall be the terms set out in Article 7 of the DSU and Article 17 of the Anti-Dumping Agreement. The Government of Japan requests that the establishment of a panel in this matter be placed on the agenda of the meeting of the Dispute Settlement Body on 17 February 2005.
+United States ­ Anti-Dumping Duties on Imports of Certain Cut-To-Length Carbon-Quality Steel Plate Products from Japan
+Specific Case No. 1
+The measure
+This case concerns the imposition of anti-dumping duties on Certain Cut-To-Length CarbonQuality Steel Plate Products ("CTL Plate") from Japan (USDOC case number A-588-847, 64 FR 73215, 13 December 1999). The rate of the ad valorem anti-dumping duty was 10.78% for Kawasaki Steel Corporation and all others.
+Use of Zeroing
+In the United States Department of Commerce's ("USDOC's") original investigation of CTL Plate from Japan, the USDOC utilized the Zeroing procedure by which the USDOC disregards negative dumping margins calculated for averaging groups in the process of establishing the dumping margin for the product as a whole.
+This procedure is functionally identical to the procedure that was held to be inconsistent with the WTO Anti-Dumping Agreement in European Communities ­ Anti-Dumping Duties on Imports of Cotton-Type Bed Linen from India (Panel Report, WT/DS141/R, and Appellate Body Report, WT/DS141/AB/R, adopted 12 March 2001), and also in United States ­ Final Dumping Determination on Softwood Lumber from Canada (Panel Report, WT/DS264/R, and Appellate Body Report, WT/DS264/AB/R, adopted 31 August 2004).
+In addition, in the United States International Trade Commission's ("USITC's") affirmative determination in Cut-to-Length Carbon Steel Plate from Japan, Investigation No. 731-TA-820, the USITC, pursuant to Section 771(7) of the Act, relied on a "magnitude of dumping" and "volume of dumped imports," that were inflated by the use of the Zeroing procedure.
+Dumping margin without Zeroing
+By using the above procedure, the USDOC calculated a dumping margin of 10.58% for Kawasaki Steel Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [lower].
+
+WT/DS322/R Page A-20
+United States ­ Anti-Dumping Periodic Review on Imports of Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan
+Specific Case No. 2
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan (USDOC case number A588-054, 66 Fed. Reg. 15078, 15 March 2001). The period of review is 1 October 1998 through 30 September 1999, and the rate of the ad valorem anti-dumping duty was 14.86% for Koyo Seiko Co., Ltd.
+Use of Zeroing
+In this periodic review of Tapered Roller Bearings, Four Inches or Less in Outside Diameter, and Components Thereof, From Japan, the USDOC utilized the Zeroing procedure by which the USDOC disregards negative dumping margins calculated for the export transactions under review in the process of establishing the dumping margin for the product as a whole.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 14.86% for Koyo Seiko Co., Ltd., while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Periodic Review on Imports of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan
+Specific Case No. 3
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan (USDOC case number A-588-604, 65 Fed. Reg. 11767, 6 March 2000). The period of review is 1 October 1997 through 30 September 1998, and the rate of the ad valorem anti-dumping duty was 17.58% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan, the USDOC utilized the same zZeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 17.58% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+
+WT/DS322/R Page A-21
+United States ­ Anti-Dumping Periodic Review on Imports of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan
+Specific Case No. 4
+The measure
+This case concerns the imposition of anti-dumping duties on Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan (USDOC case number A-588-604, 66 Fed. Reg. 15078, 15 March 2001). The period of review is 1 October 1998 through 30 September 1999, and the rate of the ad valorem anti-dumping duty was 17.94% for Koyo Seiko Co., Ltd.
+Use of Zeroing
+In this periodic review of Tapered Roller Bearings and Parts Thereof, Finished and Unfinished, From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 17.94% for Koyo Seiko Co., Ltd., while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [lower].
+United States ­ Anti-Dumping Periodic Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 5
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 6.14% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 6.14% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+
+WT/DS322/R Page A-22
+United States ­ Anti-Dumping Periodic Review on Imports of Cylindrical Roller Bearings and Parts Thereof From Japan
+Specific Case No. 6
+The measure
+This case concerns the imposition of anti-dumping duties on Cylindrical Roller Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 3.49% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Cylindrical Roller Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 3.49% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Periodic Review on Imports of Spherical Plain Bearings and Parts Thereof From Japan
+Specific Case No. 7
+The measure
+This case concerns the imposition of anti-dumping duties on Spherical Plain Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 65 Fed. Reg. 49219, 11 August 2000). The period of review is 1 May 1998 through 30 April 1999, and the rate of the ad valorem anti-dumping duty was 2.78% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Spherical Plain Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 2.78% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+
+WT/DS322/R Page A-23
+United States ­ Anti-Dumping Periodic Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 8
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 30 April 2000, and the rates of the ad valorem anti-dumping duty were 10.10% for Koyo Seiko Co., Ltd., 9.16% for NTN Corporation, and 4.22% for NSK Ltd.
+Use of Zeroing
+In this periodic review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated dumping margins of 10.10% for Koyo Seiko Co., Ltd., 9.16% for NTN Corporation, and 4.22% for NSK Ltd., while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margins would have been [negative] for Koyo Seiko Co., Ltd., [negative] for NTN Corporation, and [negative] for NSK Ltd., and no anti-dumping duties would have been collected.
+United States ­ Anti-Dumping Periodic Review on Imports of Cylindrical Roller Bearings and Parts Thereof From Japan
+Specific Case No. 9
+The measure
+This case concerns the imposition of anti-dumping duties on Cylindrical Roller Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 31 December 1999, and the rates of the ad valorem anti-dumping duty were 5.28% for Koyo Seiko Co., Ltd. and 16.26% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Cylindrical Roller Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated dumping margins of 5.28% for Koyo Seiko Co., Ltd. and 16.26% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margins would have been [negative] for Koyo Seiko Co., Ltd. and [negative] for NTN Corporation, and no anti-dumping duties would have been collected.
+
+WT/DS322/R Page A-24
+United States ­ Anti-Dumping Periodic Review on Imports of Spherical Plain Bearings and Parts Thereof From Japan
+Specific Case No. 10
+The measure
+This case concerns the imposition of anti-dumping duties on Spherical Plain Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 66 Fed. Reg. 36551, 12 July 2001). The period of review is 1 May 1999 through 31 December 1999, and the rate of the ad valorem anti-dumping duty was 3.60% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Spherical Plain Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated a dumping margin of 3.60% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margin would have been [negative], and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Periodic Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 11
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 67 Fed. Reg. 55780, 30 August 2002, as amended by 67 Fed. Reg. 63608, 15 October 2002). The period of review is 1 May 2000 through 30 April 2001, and the rates of the ad valorem anti-dumping duty were 6.07% for NSK Ltd., 2.51% for Asahi Seiko Co., Ltd., and 9.34% for NTN Corporation.
+Use of Zeroing
+In this periodic review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated dumping margins of 6.07% for NSK Ltd., 2.51% for Asahi Seiko Co., Ltd., and 9.34% for NTN Corporation, while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margins would have been [negative] for NSK Ltd., [negative] for Asahi Seiko Co., Ltd., and [negative] for NTN Corporation, and no anti-dumping duties would have been collected.
+
+WT/DS322/R Page A-25
+United States ­ Anti-Dumping Periodic Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 12
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 68 Fed. Reg. 35623, 16 June 2003). The period of review is 1 May 2001 through 30 April 2002, and the rates of the ad valorem anti-dumping duty were 4.51% for NTN Corporation and 2.68% for NSK Ltd.
+Use of Zeroing
+In this periodic review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated dumping margins of 4.51% for NTN Corporation and 2.68% for NSK Ltd., while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margins would have been [negative] for NTN Corporation and [negative] for NSK Ltd., and no anti-dumping duties would have been collected.
+United States ­ Anti-Dumping Periodic Review on Imports of Ball Bearings and Parts Thereof From Japan
+Specific Case No. 13
+The measure
+This case concerns the imposition of anti-dumping duties on Ball Bearings and Parts Thereof From Japan (USDOC case number A-588-804, 69 Fed. Reg. 55574, 15 September 2004). The period of review is 1 May 2002 through 30 April 2003, and the rates of the ad valorem anti-dumping duty were 5.56% for Koyo Seiko Co., Ltd., 2.74% for NTN Corporation, 2.46% for NSK Ltd., and 3.37% for Nippon Pillow Block Co., Ltd.
+Use of Zeroing
+In this periodic review of Ball Bearings and Parts Thereof From Japan, the USDOC utilized the same Zeroing procedure as that used in Specific Case No. 2.
+Dumping margin without Zeroing
+By using this procedure, the USDOC calculated dumping margins of 5.56% for Koyo Seiko Co., Ltd., 2.74% for NTN Corporation, 2.46% for NSK Ltd., and 3.37% for Nippon Pillow Block Co., Ltd., while without the Zeroing procedure (i.e. with the negative unit margins included), the dumping margins would have been [negative] for Koyo Seiko Co., Ltd., [negative] for NTN Corporation, [negative] for NSK Ltd., and [negative] for Nippon Pillow Block Co., Ltd., and no antidumping duties would have been collected.
+
+WT/DS322/R Page A-26
+United States ­ Sunset Review of Antifriction Bearings From Japan
+Specific Case No. 14
+The measure
+This case concerns the Final Results of the USDOC in the Expedited Sunset Review of Antifriction Bearings from Japan, in which the USDOC found that revocation of the anti-dumping order on Ball Bearings from Japan would be likely to lead to continuation or recurrence of dumping (USDOC case number A-588-804, 64 Fed. Reg. 60275, 4 November 1999); and the Determination of the USITC in Certain Bearings from China, France, Germany, Hungary, Italy, Japan, Romania, Singapore, Sweden, and the United Kingdom, Investigations Nos. AA-1921-143, 731-TA-341, 731TA-343-345, 731-TA-391-397, and 731-TA-399 (Review), that revocation of the anti-dumping order on Ball Bearings from Japan would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.
+Use of Zeroing
+In making this determination, the USDOC specifically relied on the "margins determined in the original investigation and subsequent periodic reviews," and concluded that because "dumping has continued over the life of the orders, the [USDOC] determines that dumping is likely to continue if the orders were revoked." (64 Fed. Reg. at 60278.) Japan submits that because the USDOC's likelihood determination was based on margins in both the original investigation and subsequent periodic reviews that were calculated using the Zeroing procedure, which is inconsistent with the Anti-Dumping Agreement, the USDOC's decision not to revoke the anti-dumping order on Ball Bearings from Japan is equally inconsistent with the Anti-Dumping Agreement.
+In addition, Japan submits that because the USITC relied on a "magnitude of dumping" and "volume of dumped imports" that were inflated by the use of the Zeroing procedure,, the USITC's likelihood determination and the decision not to revoke the anti-dumping order on Ball Bearings from Japan are also inconsistent with the Anti-Dumping Agreement.
+United States ­ Sunset Review of Corrosion-Resistant Carbon Steel Flat Products From Japan
+Specific Case No. 15
+The measure
+This case concerns the Final Results of the USDOC in the Full Sunset Review of CorrosionResistant Carbon Steel Flat Products From Japan, in which the USDOC concluded that revocation of the anti-dumping order on Corrosion-Resistant Carbon Steel Flat Products from Japan would be likely to lead to continuation or recurrence of dumping (USDOC case number A-588-826, 65 Fed. Reg. 47380, 2 August 2000); and the Determination of the USITC in Certain Carbon Steel Products from Australia, Belgium, Brazil, Canada, Finland, France, Germany, Japan, Korea, Mexico, Netherlands, Poland, Romania, Spain, Sweden, Taiwan, and United Kingdom, Investigations Nos. AA-1921-197, 701-TA-231, 319-320, 322, 325-328, 340, 342, and 348-350, and 731-TA-573-576, 578, 582-587, 604, 607-608, 612, and 614-618 (Review), that revocation of the anti-dumping order on CorrosionResistant Carbon Steel Flat Products from Japan would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.
+
+WT/DS322/R Page A-27
+Use of Zeroing
+In making this determination, the USDOC specifically relied on the margins determined in the investigation, and concluded that because "dumping has continued to occur throughout the life of the order," dumping was likely to continue if the order was revoked. USDOC, Issues and Decision Memo for the Full Sunset Review of Corrosion-Resistant Carbon Steel Flat Products from Japan; Final Results at Comment 1 (2 August 2000). Japan submits that because the USDOC's likelihood determination was based on margins in the original investigation that were calculated using the Zeroing procedure, which is inconsistent with the Anti-Dumping Agreement, the USDOC's decision not to revoke the anti-dumping order on Corrosion-Resistant Carbon Steel Flat Products From Japan is equally inconsistent with the Anti-Dumping Agreement.
+In addition, Japan submits that because the USITC relied on a "magnitude of dumping" and "volume of dumped imports" that were inflated by the use of the Zeroing procedure, the USITC's likelihood determination and the decision not to revoke the anti-dumping order on CorrosionResistant Carbon Steel Flat Products from Japan are also inconsistent with the Anti-Dumping Agreement.
+__________
+
+

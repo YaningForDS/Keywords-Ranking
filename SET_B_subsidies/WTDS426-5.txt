@@ -1,0 +1,70 @@
+WORLD TRADE ORGANIZATION
+
+WT/DS426/5 10 January 2012
+(12-0144)
+Original: English
+
+CANADA ­ MEASURES RELATING TO THE FEED-IN TARIFF PROGRAM
+Request for the Establishment of a Panel by the European Union
+The following communication, dated 9 January 2012, from the delegation of the European Union to the Chairperson of the Dispute Settlement Body, is circulated pursuant to Article 6.2 of the DSU.
+_______________
+On 11 August 2011, the European Union requested consultations with the Government of Canada ("Canada") pursuant to Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes ("DSU"), Article XXII:1 of the General Agreement on Tariffs and Trade 1994 ("GATT 1994"), Article 8 of the Agreement on Trade-Related Investment Measures (the "TRIMs Agreement"), and Articles 4(1) and 30 of the Agreement on Subsidies and Countervailing Measures (the "SCM Agreement"), regarding Canada's measures relating to domestic content requirements in the feed-in tariff program (the "FIT Program").1 The request was circulated on 16 August 2011 as document WT/DS426/1, G/L/959, G/TRIMS/D/28, G/SCM/D87/1.2
+Consultations were held on 7 September 2011 with a view to reaching a mutually satisfactory solution. Unfortunately, the consultations failed to resolve the dispute.
+As a result, the European Union respectfully requests that a Panel be established to examine this matter pursuant to Articles 4.7 and 6 of the DSU, Article XXIII of the GATT 1994, Article 8 of the TRIMs Agreement, and Articles 4.4 and 30 of the SCM Agreement.
+The measures that are the subject of this request are those relating to the FIT Program established by the Canadian province of Ontario in 2009 providing for guaranteed, above-market, long-term pricing for the output of renewable energy generation facilities3 that contain a minimum percentage of domestic content. These measures include the following:
+ the Electricity Act, 1998,4 as amended,5 including in particular Part II (Independent Electricity System Operator), Part II.1 (Ontario Power Authority) and Part II.2
+1 "FIT Program" referred to in this request includes both projects over 10 kilowatts (kW) and projects of 10 kW or less (microFIT). See http://fit.powerauthority.on.ca/.
+2 An addendum to the European Union's request for consultations was circulated on 24 August 2011 since the statement of available evidence with regard to the existence and nature of the subsidies in question was erroneously omitted from the request for consultations.
+3 In particular, facilities utilising windpower with a contract capacity greater than 10 kW, and facilities utilising solar (PV).
+4 S.O. 1998, c. 15, Sched. A. 5 The latest amendment was by: 2010, c. 15, s. 223.
+
+WT/DS426/5 Page 2
+(Management of Electricity Supply, Capacity and Demand) thereof, including in particular Section 25.35 (Feed-in tariff program);
+ an Act to enact the Green Energy Act, 2009 and to build a green economy, to repeal the Energy Conservation Leadership Act, 2006 and the Energy Efficiency Act and to amend other statutes (the "Green Energy and Green Economy Act, 2009"),6 including in particular Schedule B amending the Electricity Act, 1998;
+ an Act to amend the Electricity Act, 1998 and the Ontario Energy Board Act, 1998 and to make consequential amendments to other Acts (the "Electricity Restructuring Act, 2004"),7 including in particular Schedule A, Sections 29-32, enacting Part II.1 of the Electricity Act, 1998, and Sections 33-38, enacting Part II.2 of the Electricity Act, 1998, and Schedule B, Sections 17-18, enacting Sections 78.3-78.4 of the Ontario Energy Board Act, 1998;
+ Ontario Regulation 578/05 made under the Ontario Energy Board Act, 1998 entitled "Prescribed Contracts Re Sections 78.3 and 78.4 of the Act";
+ Independent Electricity System Operator ("IESO") Market Manual, including in particular Part 5.5 ("Physical Markets Settlement Statements");
+ IESO Market Rules, including in particular Chapter 7 ("System Operations and Physical Markets"), Chapter 9 ("Settlements and Billing") and Chapter 11 ("Definitions");
+ FIT direction dated 24 September 2009, from George Smitherman, Deputy Premier and Minister of Energy and Infrastructure, to Colin Andersen, Chief Executive Officer, Ontario Power Authority ("OPA"), directing OPA to develop a FIT Program and include a requirement that the applicant submit a plan for meeting the domestic (i.e., Ontario) content goals in the FIT rules;
+ the FIT Rules, Version 1.5.1 (31 October 2011), and the microFIT Rules, Version 1.6.1 (10 August 2011), issued by the OPA;
+ the FIT Contract, Version 1.5.1 (31 October 2011), including General Terms and Conditions, Exhibits, and Standard Definitions, the microFIT Contract, Version 1.6.1 (31 October 2011), including Appendices, and the Conditional Offer of microFIT Contract, Version 1.6.1, issued by the OPA;
+ the FIT Application Form (1 December 2009), and online microFIT Application, issued by the OPA;
+ the FIT Price Schedule (3 June 2011), and the microFIT Price Schedule (13 August 2010), issued by the OPA;
+6 S.O. 2009, c. 12. 7 S.O. 2004, c. 23.
+
+WT/DS426/5 Page 3
+ the FIT Program Interpretations of the Domestic Content Requirements (14 December 2009, as updated on 4 October 2010 and 26 April 2011), issued by the OPA;8
+ individual FIT and microFIT contracts executed by the OPA since the inception of the FIT Program on 24 September 2009;9 and
+ any amendments or extensions of the foregoing, any replacement measures, any renewal measures, any implementing measures, and any related measures.10
+These measures are inconsistent with Canada's obligations under the SCM Agreement, the GATT 1994, and the TRIMs Agreement because they constitute a prohibited subsidy, and also discriminate against imports of equipment and components for renewable energy generation facilities. In particular, the European Union considers that these measures are inconsistent with the following provisions:
+1. Articles 3.1(b) and 3.2 of the SCM Agreement, because the measures are subsidies within the meaning of Article 1.1 of the SCM Agreement that are provided contingent upon the use of domestic over imported goods, namely contingent upon the use of equipment and components for renewable energy generation facilities produced in Ontario over such equipment and components imported from other WTO Members, including the European Union;
+2. Article III:4 of the GATT 1994, because the measures accord less favourable treatment to imported equipment and components for renewable energy generation facilities than accorded to like products originating in Ontario; and
+3. Article 2.1 of the TRIMs Agreement, in conjunction with paragraph 1(a) of the Agreement's Illustrative List, because the measures are trade-related investment measures inconsistent with Article III:4 of the GATT 1994 which require the purchase or use by enterprises of equipment and components for renewable energy generation facilities of Ontario origin or source.
+Accordingly, the European Union respectfully requests the establishment of a Panel with standard terms of reference in accordance with Article 7.1 of the DSU. The European Union asks that this request be placed on the agenda for the meeting of the Dispute Settlement Body to be held on 20 January 2012.
+__________
+
+8 See "http://fit.powerauthority.on.ca/domestic-content-0, and http://fit.powerauthority.on.ca/table-
+
+final-interpretations". 9 These contracts include, but are not limited to, those referenced at
+
+"http://fit.powerauthority.on.ca/Storage/10989_FIT_Contracts_Offered_April_8_10_-
+
+_Applicant_Legal_Name_Order3.pdf"
+
+and
+
+http://fit.powerauthority.on.ca/Storage/11216_FIT_Contract_Awards_-_Final_List_-_February_24,_2011.pdf. 10 The European Union notes that, as a matter of convenience, the above list identifies the most recent
+
+versions available as of the date of this request of the FIT Rules, microFIT Rules, FIT Contract, microFIT
+
+Contract, FIT Application Form, microFIT Application, FIT Price Schedule, microFIT Price Schedule, and FIT
+
+Program Interpretations of the Domestic Content Requirements (see "http://fit.powerauthority.on.ca/what-feed-
+
+tariff-program/; and http://microfit.powerauthority.on.ca/". The European Union's request, however,
+
+encompasses all versions of these measures adopted since the inception of the FIT Program on
+
+24 September 2009.
+
+

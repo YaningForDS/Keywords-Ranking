@@ -1,0 +1,320 @@
+WORLD TRADE ORGANIZATION
+
+WT/DS350/1 G/L/786 G/ADP/D70/1 3 October 2006
+(06-4600)
+Original: English
+
+UNITED STATES ­ CONTINUED EXISTENCE AND APPLICATION OF ZEROING METHODOLOGY
+Request for Consultations by the European Communities
+The following communication, dated 2 October 2006, from the delegation of the European Communities to the delegation of the United States and to the Chairman of the Dispute Settlement Body, is circulated in accordance with Article 4.4 of the DSU.
+_______________
+The European Communities request consultations with the United States of America (the "United States") under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes (the "DSU"); Article XXII:1 of the General Agreement on Tariffs and Trade 1994 (the "GATT 1994"); and Articles 17.2 and 17.3 of the Agreement on implementation of Article VI of the General Agreement on Tariffs and Trade 1994 (the "AD Agreement") with regard to the practice and methodologies for calculating dumping margins involving the use of zeroing, and the application of zeroing in certain specified anti-dumping measures.
+1. The facts
+(a) When carrying out reviews of anti-dumping measures, the United States re-investigates and determines the margin of dumping on the basis of a comparison of a weighted average normal value for each "averaging group" and individual export prices. When adding up the results of these comparisons to determine the total amount or margin of dumping of the product under investigation, the United States puts at zero any negative amounts of "dumping". As a result, the United States calculates a margin of dumping and collects an amount of anti-dumping duty in excess of the actual margin of dumping practised by the companies concerned. The United States uses this methodology systematically in all its annual reviews of antidumping orders, so-called administrative reviews, and indeed in all types of review (including new shipper and changed circumstances reviews) in which it is required to calculate a dumping margin.
+The Appellate Body, in the case United States ­ Laws, Regulations and Methodology for Calculating Dumping Margins ("Zeroing") (WT/DS294/AB/R), found that the United States' use of zeroing in its "administrative reviews" was inconsistent with Article 9.3 of the AD Agreement and Article VI:2 of GATT 1994. The Appellate Body also confirmed that the United States Department of Commerce (the "DOC") employed a "zeroing methodology" in calculating the margin of dumping in its "administrative reviews" as described above.
+
+WT/DS350/1 G/L/786 G/ADP/D70/1 Page 2
+This zeroing methodology is applied pursuant, in particular, to:
+­ the implementing regulation1 of the DOC, in particular section 351.414(c)(2); and
+­ the Import Administration Antidumping Manual (1997 edition) (the "IA AD Manual") including the computer program(s) to which it refers.
+The zeroing methodology described above was applied in the determinations of the margin of dumping by the DOC in the final results of the anti-dumping administrative reviews listed in Annex I, and any assessment instructions issued pursuant to those final results.
+(b) In original investigations, the United States identifies sub-groups of products within the product under investigation ("averaging groups") on a per model basis as well as on the basis of other criteria such as the level of trade. Within each of the averaging groups, a weighted average export price is established and compared to the corresponding weighted average normal value. The results of these comparisons on an "averaging group" basis are added up to establish the dumping margin of the product under investigation as a whole; however, in this process, any negative margins or amounts of "dumping" resulting from the comparison of weighted average normal values with weighted average export prices on an "averaging group" basis are put at zero. As a result, the United States calculates a margin and amount of dumping in excess of the actual margin of dumping practised by the companies concerned. The panel and the Appellate Body in United States­Laws, Regulations and Methodology for Calculating Dumping Margins ("Zeroing") (WT/DS294/R and WT/DS294/AB/R) have confirmed that such a methodology is inconsistent with Article 2.4.2 of the AD Agreement. This methodology was used by the DOC for the determination of the margins of dumping in the original investigations listed in Annex III, and in any automatic assessment instructions issued pursuant to those measures.
+(c) In sunset reviews, the US makes determinations with reference to previously established margins of dumping which were usually calculated using a zeroing methodology.2 In the case listed in Annex II, DOC determined that dumping was likely to continue or recur if the anti-dumping order were revoked, notably because dumping had continued at levels above de minimis after the issuance of the order. To find that dumping had continued after the issuance of the order, DOC relied on dumping margins calculated in the original investigation and in administrative reviews using zeroing.
+2. Subject of consultations
+The matters, which the EC would like to raise in the course of the consultations include, but are not limited to, the following:
+1 19 CFR Section 351. 2 These dumping margins will normally have been established in original investigations, in which the zeroing methodology condemned in DS 294 will usually have been used; Section 752(c)(3) of the Tariff Act of 1930, Section 315.218(e)(2)(i) of the DOC implementing regulation and paragraphs II.B of the Sunset Policy Bulletin.
+
+WT/DS350/1 G/L/786
+G/ADP/D70/1 Page 3
+(a) The United States regulations, zeroing methodology, practice, administrative procedures and measures for determining the dumping margin in reviews mentioned under point 1(a) above and which the EC considers are inconsistent with several provisions of the AD Agreement, GATT 1994 and the Marrakesh Agreement establishing the World Trade Organization:
+· Articles 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994, because the US did not determine a dumping margin for the product as a whole ;
+· Articles 2.4 and 2.4.2 of the AD Agreement insofar as the comparison made by the United States is inconsistent with those provisions;
+· Articles 9.1 and 9.3 of the AD Agreement insofar as there is as a result the imposition and collection of an anti-dumping duty in excess of the margin of dumping determined pursuant to Article 2 of the AD Agreement;
+· Articles 9.5 and 11 (including Articles 11.2 and 11.3) of the AD Agreement insofar as the determinations of dumping in review investigations contemplated by these provisions are not made in compliance with Article 2 of the AD Agreement;
+· Articles 1 and 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994 insofar as there is as a result the imposition and collection of an anti-dumping duty which is inconsistent with the AD Agreement; and consequently of
+· Article XVI:4 of the Marrakesh Agreement establishing the World Trade Organization and Article 18.4 of the AD Agreement insofar as the United States has not taken all necessary steps, of a general or particular character, to ensure the conformity of its laws, regulations and administrative procedures with the provisions of GATT 1994 and the AD Agreement.
+(b) The specific anti-dumping administrative reviews listed in Annex I to the present request, and any assessment instructions issued pursuant to them in which the United States applied the regulations, zeroing methodology, practice, administrative procedures and measures described under point 1(a) above. As a consequence, the European Communities consider that the outcome of the administrative reviews as detailed in Annex I is inconsistent with Articles 1, 2.1 2.4, 2.4.2, 9.1, 9.3, 11.2 and 18.4 of the AD Agreement, Articles VI:1 and VI:2 of the GATT 1994 and Article XVI:4 of the Marrakesh Agreement establishing the World Trade Organization for the reasons set out above under point (a).
+(c) The specific dumping determination in the original investigations listed in Annex III to the present request, and any automatic assessment instructions issued pursuant to them, in which the United States applied the zeroing methodology described under point 1(b) above. As a consequence, the European Communities consider that the imposition of definitive duties in the original investigations detailed in Annex III is inconsistent with:
+
+WT/DS350/1 G/L/786 G/ADP/D70/1 Page 4
+· Articles 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994, because the US did not determine a dumping margin for the product as a whole ;
+· Articles 2.4 and 2.4.2 of the AD Agreement insofar as the comparison made by the United States is inconsistent with those provisions;
+· Article 5.8 of the AD Agreement insofar as a de minimis dumping margin is erroneously determined to be not de minimis;
+· Articles 9.1 and 9.3 of the AD Agreement insofar as there is as a result the imposition and collection of an anti-dumping duty in excess of the margin or amount of dumping as determined pursuant to Article 2 of the AD Agreement;
+· Articles 1 and 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994 insofar as there is as a result the imposition and collection of an anti-dumping duty which is inconsistent with the AD Agreement; and consequently of
+· Article XVI:4 of the Marrakesh Agreement establishing the World Trade Organization and Article 18.4 of the AD Agreement insofar as the United States has not taken all necessary steps, of a general or particular character, to ensure the conformity of its laws, regulations and administrative procedures with the provisions of GATT 1994 and the AD Agreement.
+(d) The specific Sunset review determination in the case listed in Annex II to the present request. The United States relied in its determination on dumping margins that were calculated in the original investigation and in administrative reviews using the methodology described under point 1(a) above. As a consequence, the European Communities consider that the continuation of the anti-dumping in this case is inconsistent with:
+· Articles 11.1 and 11.3 of the AD Agreement insofar as the United States relied on a dumping margin which was not established for the product as a whole and not conform to Articles 2.4 and 2.4.2 of the AD Agreement;
+· Articles 2.4 and 2.4.2 of the AD Agreement insofar as the comparison made by the United States is inconsistent with those provisions;
+· Articles 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994, because the US did not determine a dumping margin for the product as a whole ;
+· Articles 9.1 and 9.3 of the AD Agreement insofar as there is as a result the imposition and collection of an anti-dumping duty in excess of the margin or amount of dumping as determined pursuant to Article 2 of the AD Agreement;
+
+WT/DS350/1 G/L/786
+G/ADP/D70/1 Page 5
+· Articles 1 and 2.1 of the AD Agreement and Articles VI:1 and VI:2 of the GATT 1994 insofar as there is as a result the imposition and collection of an anti-dumping duty which is inconsistent with the AD Agreement; and consequently of
+· Article 18.3 of the AD Agreement insofar the United States has not applied the provision of this Agreement to a review of existing measures initiated after the entry into force for the United States of the WTO Agreement
+· and Article XVI:4 of the Marrakesh Agreement establishing the World Trade Organization and Article 18.4 of the AD Agreement insofar as the United States has not taken all necessary steps, of a general or particular character, to ensure the conformity of its laws, regulations and administrative procedures with the provisions of GATT 1994 and the AD Agreement.
+The European Communities reserve the right to raise additional claims and legal matters during the course of the consultations.
+The European Communities look forward to receiving the United States' reply to this request and to setting a mutually convenient date for these consultations.
+
+ANNEX: LIST OF CASES
+
+WT/DS350/1 G/L/786 G/ADP/D70/1 Page 6
+
+Product
+1. Ball Bearings
+2. Ball Bearings
+3. Ball Bearings
+4. Stainless Steel Sheet & Strip Coils 5. Certain Pasta
+6. Stainless Steel Sheet & Strip coils 7. Certain Hotrolled Carbon Steel Flat 8. Stainless Steel Bar 9. Stainless Steel Bar 10. Antifriction Bearings and Parts thereof 11. Antifriction Bearings and Parts thereof 12. Antifriction Bearings and Parts thereof
+
+I. ADMINISTRATIVE REVIEWS
+
+MS
+
+USDOC No
+
+Final Results
+
+F A-427-801 68 FR 35623, June 16, 2003
+
+G A-428-801 68 FR 35623, June 16,2003
+
+I A-475-801 68 FR 35623, June 16, 2003
+I A-475-824 68 FR 69382 December 12, 2003
+I A-475-818 69 FR 6255, February 10, 2004
+
+G A-428-825 69 FR 6262, February 10, 2004
+Nl A-421-807 69 FR 115, June 16, 2004
+
+Amended Final Results
+68 FR 43712, July 24, 2003
+69 FR 81, April 27, 2004
+
+Company
+France SNR Roulements SKF
+FAG Torrington Paul Mueller SKF
+FAG SKF
+Thyssenkrupp Acciai Terni SpA
+Garofalo Indalco PAM Tomasello Zaffiri
+TKN
+
+69 FR 43801, July 22, 2004
+
+Corus
+
+G A-428-830 69 FR 113, June 14, 2004
+I A-475-829 69 FR 113, June 14, 2004
+F A-427-801 69 FR 55574, September 15, 2004
+
+69 FR 62023, October 22, 2004
+
+BGH
+Foroni Ugine-Savoi-Imphy SA Numerous
+
+G A-428-801 69 FR 55574, September 15, 2004
+
+69 FR 63507,
+
+Numerous
+
+November 2, 2004
+
+I A-475-801 69 FR 55574,
+
+69 FR 62023,
+
+Numerous
+
+September 15, 2004
+
+October 22, 2004
+
+Dumping margin 3,52% 6,70% 1,45% 70,41% 0,19% 3,38% 2,87% 5,08% 1,62%
+2,57% 2,85% 45,49% 4,59% 7,23% 3,72%
+4,80%
+0,52%
+4,03% 33,00% 66,42% (43) to less than 7% (3) 70, 41% (43) to less than 7% (4) 68, 29% (43) to less than 5% (3)
+
+Period covered by the review 1 May 2001­30 April 2002 1 May 2001­30 April 2002
+1 May 2001­30 April 2002 1 July 2001­30 June 2002 1 July 2001­30 June 2002
+1 July 2001­30 June 2002 3 May 2001­31 October 2002 2 August 2001­28 February 2003 2 August 2001­28 February 2003
+1 May 2002­30 April 2003 1 May 2002­30 April 2003 1 May 2002­30 April 2003
+
+Product
+13. Antifriction Bearings and Parts thereof 14. Stainless Steel Plate in Coils 15. Stainless Steel Sheet and Strip in Coils 16. Steel Concrete Reinforcing Bars 17. Certain Pasta
+18. Certain hotrolled carbon steel flat products 19. Stainless steel bar 20. Stainless steel bar 21. Ball Bearings and parts thereof 22. Ball Bearings and parts thereof
+23. Ball Bearings and parts thereof 24. Ball Bearings and parts thereof
+
+I. ADMINISTRATIVE REVIEWS
+
+MS
+
+USDOC No
+
+Final Results
+
+UK A 412-801 69 FR 55574, September 15, 2004
+
+Amended Final Results
+69 FR 62023, October 22, 2004
+
+Company
+Aeroengine Bearings Barden/FAG
+
+B A-423-808 69 FR 74495, December 14, 2004
+G A-428-825 69 FR 75930, December 20, 2004
+
+70 FR 2999, January 19, 2005
+
+U&A Belgium Thyssen Krupp Nirosta
+
+LV A-449-804 69 FR 74498, December 14, 2004
+I A-475-818 70 FR 6832, February 9, 2005
+NL A-421-807 70 FR 18366, April 11, 2005
+
+LM
+Barilla Corticella/Combattenti Indalco PAM Riscossa Russo Corus
+
+G A-428-830 71 FR 42802, July 28, 2006
+F A-427-820 70 FR 46482, August 10, 2005
+F A-427-801 70 FR 54711, September 16, 2005
+G A-428-801 70 FR 54711, September 16, 2005
+I A-475-801 70 FR 54711, September 16, 2005
+UK A-412-801 70 FR 54711, September 16, 2005
+
+71 FR 52063, September 1, 2006
+
+BGH Group Ugitech S.A.
+
+SKF SNR
+FAG/INA GRW SKF Germany
+FAG Italy SKF Italy
+Barden/FAG
+SKF IK
+
+Dumping margin 61,14% 4,10%
+2,71%
+7,03%
+3, 01%
+7,25% 4% 6,03% 4,78% 1,05% 7,36% 4,42%
+0,73%
+14,98%
+8,41% 11,93% 5,65% 4,58% 16,06% 5,88% 2,59% 2,78% 61,14%
+
+Period covered by the review 1 May 2002­30 April 2003 1 May 2002­30 April 2003 1 July 2002­30 June 2003
+1 September 2002­31 August 2003 1 July 2002­30 June 2003
+1 November 2002­31 October 2003 1 March 2004­28 February 2005 1 March 2003­29 February 2004 1 May 2003­30 April 2004 1 May 2003­30 April 2004 1 May 2003­30 April 2004 1 May 2003­30 April 2004
+
+WT/DS350/1 G/L/786
+G/ADP/D70/1 Page 7
+
+WT/DS350/1 G/L/786 G/ADP/D70/1 Page 8
+
+Product
+25. Certain Pasta
+26. Stainless steel plate in coils 27. Stainless steel sheet and strip in coils 28. Steel concrete reinforcing bars 29. Stainless Steel Bar 30. Ball Bearings and parts thereof 31. Ball Bearings and parts thereof
+32. Ball Bearings and parts thereof 33. Steel concrete reinforcing bars
+
+I. ADMINISTRATIVE REVIEWS
+
+MS
+
+USDOC No
+
+Final Results
+
+I A-475-818 70 FR 71464, November 29, 2005
+
+B A-423-808 70 FR 72789, December 7 2005
+G A-428-825 70 FR 73729 December 13, 2005
+
+Amended Final Results
+
+Company
+Barilla Corticella/Combattenti Indalco Pagani Riscossa Ugine & ALZ Belgium NV TKN
+
+LV A-449-804 71 FR 7016, February 10, 2006
+F A-427-820 71 FR 30873, May 31 2006
+F A-427-801 71 FR 40064, July 14, 2006
+G A-428-801 71 FR 40064, July 14, 2006
+I A-475-801 71 FR 40064, July 14, 2006
+LV A-449-804 71 FR 45031, August 8, 2006 (preliminary results, final results to be issued by early December 2006)
+
+Liepajas Metalurgs
+Ugitech S.A.
+SKF France SNR FAG/INA GRW SKF Germany FAG Italy SKF Italy Liepajas Metalurgs
+
+Dumping margin 20,68% 3,41% 2,59% 2,76% 2,03% 2,96%
+9,5%
+5,24%
+9,68%
+12,57% 11,75% 4,04% 1,14% 7,35% 2,52% 7,65% 6,03%
+
+Period covered by the review 1 July 2003­30 June 2004
+1 May 2003­30 April 2004 1 July 2003­30 June 2004
+1 September 2003­31 August 2004 1 March 2004­28 February 2005
+1 May 2004­30 April 2005 1 May 2004­30 April 2005
+1 May 2004­30 April 2005 1 September 2004­31 August 2005
+
+Product 34. Brass sheet & strip
+
+MS G
+
+USDOC Case No A-428-602
+
+II. SUNSET REVIEW
+
+DOC Final Determination 71 FR 4348, January 26, 2006
+
+ITC Case Number
+731-TA-317
+
+ITC Determination
+71 FR 14719, March 23, 2006
+
+Continuation Order 71 FR 16552, April 3, 2006
+
+Product
+35. Purified carboxymethylcellulose 36. Purified carboxymethylcellulose 37. Purified carboxymethylcellulose 38. Chlorinated Isocyanurates
+
+MS SW NL FIN SP
+
+USDOC Case No A-401-808
+
+III. IMPOSITION OF ANTI-DUMPING DUTY
+
+DOC Final Determination 70 FR 28278, May 17, 2005
+
+ITC Case Number
+731-TA-1087
+
+A-421-811
+
+70 FR 28275, May 17, 2005
+
+731-TA-1086
+
+A-405-803
+
+70 FR 28279, May 17, 2005
+
+731-TA-1084
+
+A-469-814
+
+70 FR 24506, May 10, 2005
+
+731-TA-1083
+
+ITC Determination
+70 FR 39334, July 7, 2005 70 FR 39334, July 7, 2005 70 FR 39334, July 7, 2005 70 FR 36205, June 22, 2005
+
+AD Order 70 FR 39734, July 11, 2005 70 FR 39734, July 11, 2005 70 FR 39734, July 11, 2005 70 FR 36562, June 24, 2005
+
+__________
+
+WT/DS350/1 G/L/786
+G/ADP/D70/1 Page 9
+
+

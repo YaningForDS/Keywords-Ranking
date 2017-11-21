@@ -1,0 +1,252 @@
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-1
+
+ANNEX E
+
+Annex E
+
+Contents European Communities and Certain Member States ­ Measures Affecting Trade in Large Civil Aircraft, (WT/DS316), Additional Working Procedures for DS316­ Procedures for the Protection of Business Confidential Information and Highly Sensitive Business Information, 9 November 2007 ("BCI/HSBI procedures")
+
+Page E-2
+
+WT/DS316/R Page E-2
+
+BCI deleted, as indicated [***]
+
+ANNEX E
+EUROPEAN COMMUNITIES AND CERTAIN MEMBER STATES ­ MEASURES AFFECTING TRADE IN LARGE CIVIL AIRCRAFT, (WT/DS316),
+ADDITIONAL WORKING PROCEDURES FOR DS316 ­ PROCEDURES FOR THE PROTECTION OF BUSINESS CONFIDENTIAL INFORMATION
+AND HIGHLY SENSITIVE BUSINESS INFORMATION ("BCI/HSBI PROCEDURES")
+(Revised 9 November 2007)
+
+I. GENERAL
+The following Procedures apply to all business confidential information ("BCI") and highly sensitive business information ("HSBI") on the Panel record, including BCI and HSBI submitted during the information-gathering process under Annex V of the SCM Agreement and transmitted by the Facilitator as part of his report to the Panel. These Procedures do not diminish the rights and obligations of the parties to request and disclose any information within the scope of the SCM Agreement and Article 13 of the DSU.
+II. DEFINITIONS
+For the purposes of these Procedures,
+1. "Approved Persons" means:
+(a) Representatives or Outside Advisors of a Party, or Employees of the Secretariat, when designated in accordance with these procedures;
+(b) Panel members;
+(c) the Facilitator; and
+(d) PGE members or experts appointed by the Panel who in the opinion of the Panel require access to BCI and/or HSBI.
+2. "Business Confidential Information" or "BCI" means any business information that a Party or Third Party has "Designated as BCI" regardless of whether contained in a document provided by a public or private body because it is not otherwise available in the public domain. Each Party and Third Party shall act in good faith and exercise restraint in designating information as BCI, and will endeavour to designate information as BCI only if its disclosure would cause harm to the originators of the information.
+2bis "Designated Reading Room" means a room, located on the premises of the WTO, where a Third Party BCI Approved Person may use to access Party's submission that contains Party-BCI.
+3. "Conclusion of the Panel Process" means the earliest to occur of the following events:
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-3
+
+(a) pursuant to Article 16.4 of the DSU, the Panel report is adopted by the DSB, or the DSB decides by consensus not to adopt the report;
+(b) a Party formally notifies the DSB of its decision to appeal pursuant to Article 16.4 of the DSU;
+(c) pursuant to Article 12.12 of the DSU, the authority for establishment of the Panel lapses; or
+(d) pursuant to Article 3.6 of the DSU, a mutually satisfactory solution is notified to the DSB.
+4. "Designated as BCI" means:
+(a) for printed information, text that is set off with bold square brackets in a document clearly marked with the notation 'BUSINESS CONFIDENTIAL INFORMATION' and with the name of the Party or Third Party that submitted the information;
+(b) for electronic information, characters that are set off with bolded square brackets (or with a heading with bolded square brackets on each page) in an electronic file that contains the notation 'BUSINESS CONFIDENTIAL INFORMATION', has a file name that contains the letters "BCI", and is stored on a storage medium with a label marked 'BUSINESS CONFIDENTIAL INFORMATION' and indicating the name of the Party or Third Party that submitted the information; and
+(c) for uttered information, declared by the speaker to be "Business Confidential Information" prior to utterance.1
+(d) The above provisions shall apply to all submissions, including exhibits, by a Party or Third Party.
+5. "Designated as HSBI" means:
+(a) for electronic information, in characters that are set off with double bolded square brackets (or a heading with double bolded square brackets on each page) in an electronic file that contains the notation 'HIGHLY SENSITIVE BUSINESS INFORMATION', has a file name that contains the letters "HSBI", and is stored on a storage medium with a label marked 'HIGHLY SENSITIVE BUSINESS INFORMATION' and indicating the name of the Party or Third Party that submitted the information; and
+(b) for uttered information, declared by the speaker to be "Highly Sensitive Business Information" prior to utterance.2
+(c) The above provisions shall apply to all submissions, including exhibits, by a Party or Third Party.
+1 The erroneous failure by a speaker to make such a prior declaration shall not affect the designation of the BCI in question.
+2 The erroneous failure by a speaker to make such a prior declaration shall not affect the designation of the HSBI in question.
+
+WT/DS316/R Page E-4
+
+BCI deleted, as indicated [***]
+
+6. "Electronic information" means any information stored in an electronic form (including but not limited to binary-encoded information).
+7. "Employee of the Secretariat" means a person employed or appointed by the Secretariat who has been authorized by the Secretariat to work on the dispute, and includes translators and interpreters as well as any transcribers present at Panel meetings involving BCI and/or HSBI.
+8. "Facilitator" means the person designated by the DSB for the purpose of the DS316 dispute in accordance with paragraph 4 of Annex V of the SCM Agreement.
+9. "Highly Sensitive Business Information" or "HSBI" means any business information regardless of whether contained in a document provided by a public or private body that a Party or Third Party has "Designated as HSBI" because it is not otherwise available in the public domain and its disclosure could, in the Party's or Third Party's view, cause exceptional harm to its originators. Each Party and Third Party shall act in good faith and exercise the utmost restraint in designating information as HSBI. Each Party and Third Party may at any time designate as non-BCI/HSBI or as BCI information designated by that Party or Third Party as HSBI.
+(a) The following categories of information may be Designated as HSBI:
+(i) information indicating the actual selling or offered price of any large civil aircraft (LCA) manufacturer's products or services3, and, except as provided in subparagraph (d)(i) below, any graphs or other use of the data which reflect the movement of prices, pricing trends or actual prices of an LCA model or a family of LCA;
+(ii) information gathered or produced in the context of LCA sales campaigns;
+(iii) information concerning market forecasts, analyses, business plans and share/business valuations generated by LCA producers, consultants, investment banks or the European Investment Bank, with regard to LCA products; or
+(iv) information concerning an LCA manufacturer's costs of production, including but not limited to data regarding pricing by suppliers.
+(b) Each Party and Third Party may also designate as HSBI other categories of business information that is not otherwise available in the public domain and the disclosure of which could, in the Party's view, cause exceptional harm to its originators.
+
+3 This category includes (but is not limited to) information on individual LCA prices, prices per seat, or information allowing the operating cost per seat of an LCA to be determined, calculated or reflected; the negotiated or offered prices for the airframe; all concessions offered or agreed to by an LCA manufacturer including financing, spare parts, maintenance, pilot training, asset value and other guarantees, buy back options, remarketing arrangements or other forms of credit support. This category shall also include the actual pricing information relating to any number of individual LCA offers and prices (including concessions) aggregated by model or other category.
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-5
+
+(c) Each Party and Third Party shall Designate as HSBI any information described in subparagraph (a) that pertains to LCA produced by an LCA manufacturer headquartered within the territorial jurisdiction of either of the Parties.
+(d) The following categories of information may not be Designated as HSBI:
+(i) aggregated pricing data for a particular LCA model or family of LCA within a particular market that is indexed (i.e., does not reflect actual prices but rather movements in prices off a base of 100 for a particular year). Such data shall be treated as BCI;
+(ii) general legal conclusions based on HSBI (e.g., that HSBI demonstrates that a producer engaged in price undercutting). Such conclusions shall be treated as neither BCI nor HSBI;
+(iii) contracts on the granting of launch aid or reimbursable launch investment and project appraisal documents relating thereto, other than information described in subparagraph (a);
+(iv) the terms and conditions of loans, other than information described in subparagraph (a); and
+(v) intergovernmental agreements and government decisions, other than information described in subparagraph (a).
+(e) Information may not be Designated as HSBI simply because it is subject to bank secrecy or banker-client confidentiality.
+(f) Except for BCI and HSBI submitted during the information-gathering process under Annex V of the SCM Agreement and transmitted by the Facilitator as part of his report to the Panel BCI or HSBI, in case either Party objects to the designation of information as HSBI under paragraphs 9(a)-(e), the dispute shall be resolved by the Panel. If the Panel disagrees with designation of information as HSBI, the submitting Party or Third Party may either designate it as BCI, as non-BCI/HSBI or withdraw the information. The Panel shall either destroy such information or return it to the submitting Party or Third Party. Each Party or Third Party may at any time designate as non-BCI/HSBI or as BCI information previously designated by that Party or Third Party as HSBI.
+10. "HSBI Approved Person" means Approved Persons specifically designated by the Parties, the Panel or the Director-General of the WTO or his designee as having the right to access HSBI (according to the procedures laid down in Section IV), as well as the Panel members.
+11. "HSBI location" means a room to be kept locked when not occupied and the access to which shall be possible only for HSBI Approved Persons, located:
+(a) for the HSBI submitted by the United States, the European Communities, and any Third Parties, on the premises of the WTO (Centre William Rappard, Rue de Lausanne 154, Geneva, Switzerland);
+(b) for HSBI submitted by the United States, on the premises of the United States Mission to the European Union in Brussels;
+
+WT/DS316/R Page E-6
+
+BCI deleted, as indicated [***]
+
+(c) for HSBI submitted by the European Communities, on the premises of the Delegation of the European Commission to the United States in Washington;
+(d) for HSBI submitted by a Third Party, on the premises of its Geneva Mission to the WTO, should that Third Party so wish.
+12. "Locked CD" means a CD-ROM that is not rewritable.
+13. "Outside Advisor" means a legal counsel or other advisor of a Party or Third Party, who:
+(a) advises a Party or Third Party in the course of the dispute;
+(b) is not an employee, officer or agent of an entity or an affiliate of an entity engaged in the manufacture of LCA, the provision of supplies to an entity engaged in the manufacture of LCA, or the supply of air transportation services; and
+(c) is subject to an enforceable code of professional conduct that includes an obligation to protect confidential information, or has been retained by another outside advisor who assumes responsibility for compliance with these procedures and is subject to such a code of professional conduct.
+For purposes of this paragraph, outside legal counsel representing an LCA producer headquartered in the territory of one of the Parties or Third Parties in connection with these proceedings or outside consultants who have been retained by such counsel to provide advice with regard to these proceedings are not considered agents of an entity listed in subparagraph (b).
+14. "Panel" means the DS316 Panel composed on 17 October 2005.
+15. "Party" means the European Communities or the United States.
+15bis "Party-BCI" means BCI originally submitted by a Party.
+16. "Representative" means an employee of a Party or Third Party.
+17. "Sealed laptop computer" means a laptop computer having (software and hardware) characteristics considered necessary by the submitting Party for protection of that HSBI, provided that it has software installed that permits such HSBI to be searched and printed in accordance with paragraph 44. However, HSBI may not be edited on the sealed laptop computer.
+18. "Secure site" means a facility to be kept locked when not occupied and the access to which shall be possible only for Approved Persons, located:
+(a) in the case of the Panel, the Facilitator, PGE members or experts appointed by the Panel in accordance with paragraph 1(d), and the Secretariat, on the premises of the WTO (Centre William Rappard, Rue de Lausanne 154, Geneva, Switzerland);
+(b) in the case of the European Communities, the offices of External Relations Team of the Legal Service of the European Commission (Rue de la Loi 200, Brussels, Belgium), the offices of Directorate General for Trade of the European Commission (Rue de la Loi 170, Brussels, Belgium), the offices of the Permanent Delegation of
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-7
+
+the European Communities to the International Organisations in Geneva (Rue du Grand-Pré 66, 1202 Geneva, Switzerland), and three additional sites specified in accordance with subparagraph (d);
+(c) in the case of the United States, the offices of the General Counsel of the Office of the United States Trade Representative (600 17th Street, NW, Washington, DC, USA), the offices of the Import Administration, United States Department of Commerce (600 17th Street, NW, Washington, DC, USA), the Mission of the United States to the World Trade Organization (11, route de Pregny, 1292 Chambésy, Switzerland), and three additional sites specified in accordance with subparagraph (d); and
+(d) three sites other than a government office that are designated by each Party for use by its Outside Advisors; provided that the identity of those sites has been submitted to the other Party and the Panel, and the other Party has not objected to the designation of that site within ten days of such submission.
+(e) Any objections raised under subparagraph (d) may be resolved by the Panel.
+19. "Stand-alone computer" means a computer that is not connected to a network.
+20. "Stand-alone printer" means a printer that is not connected to a network.
+20bis "Submission" means any written, electronic, or uttered information transmitted to the Panel, including but not limited to, correspondence, written submissions, exhibits, oral statements, and answers to questions.
+21. "Third party" means a Member having notified its interest in the dispute to the DSB pursuant to DSU Article 10.
+22. "Third Party BCI Approved Person" means a representative or Outside Advisor of a third party granted access to BCI pursuant to paragraphs 27, 34, 34bis and 39bis.
+III. SCOPE
+23. These procedures apply to all BCI and HSBI received by an Approved Person as a result of the Annex V procedures and/or the Panel process and to all BCI reviewed, in accordance with these procedures, by a Third Party BCI Approved Person. As soon as the Facilitator transfers the BCI and HSBI to the Panel as envisaged in his 24 February transmittal letter accompanying his Annex V report to the Panel and Approved Persons are designated in accordance with paragraph 30, these procedures shall supersede the BCI/HSBI Procedures adopted by the Facilitator.
+24. Unless specifically otherwise provided herein, these procedures do not apply to a Party's or Third Party's treatment of its own BCI and HSBI.
+25. The Panel is aware that the European Communities may need to submit information that it internally classifies as "EU Top Secret", "EU Secret" or "EU Confidential". The Panel will to the extent possible implement procedures for the protection of such classified information in the event that either Party informs the Secretariat that it will be submitting such classified information and has not already designated it as BCI or HSBI. In such cases, the submitting Party shall propose appropriate procedures for the protection of such classified information.
+
+WT/DS316/R Page E-8
+
+BCI deleted, as indicated [***]
+
+IV. DESIGNATION OF APPROVED PERSONS
+26. At the latest on 23 October 2006, each Party shall submit to the other Party and Third Parties, and to the Panel, a list of the names and titles of any Representatives and Outside Advisors who need access to BCI submitted by the other Party and/or Third Parties and whom it wishes to have designated as Approved Persons, along with any clerical or support staff that would have access to the BCI. On that list, each Party shall indicate which Approved Persons need access to HSBI submitted by the other Party and/or Third Parties and whom it wishes to have designated as HSBI Approved Persons.
+27. There shall be no Third Party HSBI Approved Persons. The designation of Third Party BCI Approved Persons shall be governed by paragraphs 34 and 34bis.
+28. Each Party shall keep the number of Approved Persons as limited as possible. Each Party may designate no more than a total of 30 Representatives and 20 Outside Advisors as "HSBI Approved Persons".
+29. The Panel Members, the Facilitator, any PGE members or experts appointed by the Panel in accordance with paragraph 1(d) shall have access to BCI and HSBI. The Director-General of the WTO, or his designee, shall submit to the Parties and Third Parties, and the Panel, a list of the employees of the Secretariat who need access to BCI and/or HSBI.
+30. Unless a Party objects to the designation of an Outside Advisor of the other Party or an Employee of the Secretariat, the Panel shall designate those persons as Approved Persons. A Party also may object within ten days of becoming aware of information that was not available to the Party at the time of the filing of a list under paragraphs 26 or 29 that would suggest that designation of an individual is not appropriate. If a Party objects, the Panel shall decide on the objection within ten working days.
+31. An objection may be based on the failure to satisfy the definition of "Outside Advisor" or on any other compelling basis, including conflicts of interest.
+32. The Parties or the Director-General of the WTO, or his designee, may submit amendments to their lists at any time, subject to the overall limits set out in paragraph 28 and to objections for the addition of new Approved Persons in accordance with paragraph 31.
+V. BCI
+33. Only Approved Persons and Third Party BCI Approved Persons may have access to BCI submitted in this proceeding. Third Party BCI Approved Persons may not have access to Party-BCI other than that included in the submissions. Approved Persons and Third Party BCI Approved Persons shall use BCI only for the purposes of this dispute. No Approved Person shall disclose BCI, or allow it to be disclosed, to any person except another Approved Person or Third Party BCI Approved Person. No Third Party BCI Approved Person shall disclose BCI, or allow it to be disclosed, to any person except another Approved Person or Third Party BCI Approved Person.
+34. Each Third Party that wants to access Party-BCI contained in the first submission of a Party shall submit to the other Party and Third Parties, and to the Panel, a list of the names and titles of any Representatives and Outside Advisors (including clerical or support staff) who need access to such BCI and whom it wishes to have designated as Approved Persons. Each Third Party shall keep the number of Approved Persons as limited as possible. Each Third Party may designate no more than a total of 5 Representatives and Outside Advisors as Approved Persons.
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-9
+
+34bis. Unless a Party objects to the designation of an Outside Advisor of a Third Party, the Panel shall designate those persons as Approved Persons. A Party also may object within ten days of becoming aware of information that was not available to the Party at the time of the filing of a list under paragraph 34 above that would suggest that designation of an individual is not appropriate. If a Party objects, the Panel shall decide on the objection within ten working days. An objection may be based on the failure to satisfy the definition of "Outside Advisor" or on any other compelling basis, including conflicts of interest.
+35. A Party shall make no more than one copy of any BCI submitted by the other Party or a Third Party for each Secure site provided for that Party in paragraph 18.
+36. Parties may incorporate BCI in internal memoranda for the exclusive use of Approved Persons. Any memorandum and the BCI it contains shall be marked in accordance with paragraph 4.
+37. BCI submitted pursuant to these procedures shall not be copied, distributed, or removed from the Secure site, except as necessary for submission to the Panel.
+38. The treatment in a Party's submissions to the Panel of any BCI shall be governed by the provisions of this paragraph, which shall prevail to the extent of any conflict with the other provisions of the Working Procedures (including these Procedures) relating to BCI.
+(a) Parties may incorporate BCI in submissions to the Panel, marked as indicated in paragraph 4. In exceptional cases, parties may include BCI in an appendix to a submission.
+(b) A Party submitting a submission or appendix containing BCI shall also submit, within a time period to be set by the Panel, a version redacting any BCI. This shall be referred to as the "Non-BCI Version". However, a Party is not required to submit a "Non-BCI Version" of any exhibit containing BCI, unless specifically directed to do so by the Panel;
+(c) A Non-BCI Version shall be sufficient to permit a reasonable understanding of its substance. In order to prepare such a Non-BCI Version:
+(i) A Party may request the Party that originally submitted the BCI, as soon as possible, to indicate with precision portions of documents containing BCI that may be included in the non-BCI Version and, if necessary to permit a reasonable understanding of the substance of the information, produce a NonBCI summary in sufficient detail to achieve this aim.
+(ii) Upon receipt of such a request, the Party that originally submitted the BCI shall, as soon as possible, indicate with precision portions of documents containing BCI that may be included in the Non-BCI Version and, if necessary to permit a reasonable understanding of the substance of the information, produce a Non-BCI summary in sufficient detail to achieve this aim.
+(iii) The Panel shall resolve any disagreement as to whether the Party that originally submitted the BCI failed to indicate with sufficient precision portions of documents containing BCI that may be included in the Non-BCI Version and to produce, if necessary, a Non-BCI summary in sufficient detail
+
+WT/DS316/R Page E-10
+
+BCI deleted, as indicated [***]
+
+to permit a reasonable understanding of the substance of the information, and may take appropriate action to ensure that the provisions of this paragraph are satisfied.
+(d) The responding Party may designate the personal offices of up to four of its Approved Persons as additional Secure sites for the sole purpose of storing and permitting review of the BCI versions of the Parties' submissions to the Panel. All of the protections applicable to BCI under these procedures, including the storage rules in Paragraph 41, shall apply to such submissions. BCI exhibits to submissions may not be stored or reviewed at these additional Secure sites. The responding Party shall submit the address (including room number) of each of the additional Secure sites to the Panel and the complaining Party.
+39. Any document containing BCI shall not be copied in excess of the number of copies required by the Approved Persons. All copies of such documents shall be consecutively numbered. The making of electronic copies shall be avoided whenever possible. Such documents may be transmitted electronically only by using secure e-mail. If a Party or Third Party submits to the Panel an original document that cannot be transmitted electronically, it shall on the day of submission deliver a copy of that document to the first secure site listed for the Parties/Third Parties in paragraph 18.
+39bis Notwithstanding paragraph 19 of the Working Procedures4, the following procedures apply to the access by Third Parties to a Party's submission that contains Party-BCI.
+(a) A Party's Submission containing Party-BCI shall not be serviced to Third Parties unless both Parties agree otherwise.
+(b) Third Party Approved Persons may view Party-BCI contained in a Party's first written submission only in a Designated Reading Room. Third Party BCI Approved Person may not bring into that room any electronic recording or transmitting devices. Third Party BCI Approved Person may not remove a Party's Submission containing PartyBCI from that room, but may take handwritten notes of the Party-BCI contained therein. Such notes shall be used exclusively for this dispute (that is, DS316). Each person viewing a Party's Submission containing Party-BCI shall complete and sign a log identifying the submission the person reviewed. The WTO Secretariat shall maintain such log until one year after the Conclusion of the Panel Process. Before entering and when leaving the room, Outside Advisors who are Third Party BCI Approved Persons may be subject to appropriate controls.
+(c) If a Third Party BCI Approved Person removes from the Designated Reading Room a handwritten memo in accordance with subparagraph (b) above, that Third Party BCI Approved Person shall store the memo only in a locked security container. Such memo shall be appropriately protected against improper inspection and eavesdropping when being consulted and will be transmitted in sealed heavy duty double envelopes only. The content of such memo shall not be incorporated, electronically or in handwritten form, into the Non-BCI Version, as defined in paragraph 38(b).
+(d) All Third Parties that have designated Third Party BCI Approved Persons must inform the Panel and both Parties the identity of the specific room (including the
+4 Concerning service of documents.
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-11
+
+address and the room number) in which the locked security container, as referred to in subparagraph (c) above, is located.
+(e) If a Third Party BCI Approved Person removes from the Designated Reading Room a handwritten memo in accordance with subparagraph (b) above, such memo shall not be copied in excess of the number of copies required by the Third Party BCI Approved Persons. All copies of such documents shall be consecutively numbered. The making of electronic copies of such memo shall be prohibited.
+(f) A Third Party may not incorporate into the body of its submission any Party-BCI. If a Third Party wishes to refer to any Party-BCI , the relevant arguments including such BCI should be incorporated into a separate Appendix. Such Appendix shall not be serviced to other Third Parties.
+(g) On the date determined by the Panel as the deadline to make the Third Party submission, a Third Party shall service its submission only to the Parties and to the Panel. The submission shall be serviced to the other Third Parties only after the Parties have confirmed that the submission does not contain or disclose Party-BCI. A Party shall make this confirmation or otherwise advise of any necessary change to the relevant Third Party within 2 working days of receiving the submissions of Third Parties.
+40. A Party or Third Party that wishes to submit or refer to BCI at a Panel meeting shall so inform the Panel and the other Party, and Third Parties as appropriate. The Panel shall exclude persons who are not Approved Persons or, as appropriate, Third Party BCI Approved Persons from the meeting for the duration of the submission and discussion of BCI.
+41. Approved Persons shall store BCI only in locked security containers. BCI shall be appropriately protected against improper inspection and eavesdropping when being consulted and will be transmitted in sealed heavy duty double envelopes only. All work papers (e.g., draft submissions, worksheets, etc.) containing BCI shall, when no longer needed, be shredded or burned consistent with normal government practice for destroying sensitive documents.
+42. The Panel shall not disclose BCI in its report, but may make statements or draw conclusions that are based on the information drawn from the BCI.
+VI. HSBI
+43. Unless otherwise provided below, HSBI shall be subject to all the restrictions in Section V applicable to BCI.
+44. HSBI shall be submitted to the WTO in electronic form, using locked CDs or two Sealed laptop computers connectable to 19" - 21" monitors. HSBI shall be stored at the HSBI location indicated in paragraph 11(a) and shall be made available for viewing and use by HSBI Approved Persons pursuant to paragraph 47 below. Each Party shall maintain an additional copy (electronic or hard) of the HSBI it submits to the WTO for access by HSBI Approved Persons acting on behalf of the other Party in the HSBI location listed in paragraph 11 located within the other Party's territory. A Stand-alone printer may be used to make hard copies of any HSBI. Such hard copies shall be made on distinctively colored paper. Such hard copies shall either be stored in a safe at the relevant HSBI location, or destroyed at the end of the relevant working session.
+
+WT/DS316/R Page E-12
+
+BCI deleted, as indicated [***]
+
+45. If a Third Party submits HSBI, it shall notify the Parties of the fact that such submission has been made.
+46. Except as otherwise provided in these procedures, HSBI shall not be stored, transmitted or copied either in written or electronic form.
+47. HSBI Approved Persons of a Party may view HSBI on the Sealed laptop computer submitted by the other Party /a Third Party or, in the case of HSBI submitted on Locked CDs on a Stand-alone computer, only in a designated room at one of the HSBI locations indicated in paragraph 11, unless otherwise mutually agreed by the Parties. The designated room shall be available to HSBI Approved Persons from 9:00 a.m. to 5:00 p.m. during official working days at the respective HSBI location, except at the location indicated in paragraph 11(a) where the room will be available at any time, including weekends, to the Panel, the Facilitator and the PGE members or experts appointed by the Panel in accordance with paragraph 1(d), and to HSBI Approved Persons designated by the Director-General of the WTO or his designee. HSBI Approved Persons may not bring into that room any electronic recording or transmitting devices. HSBI Approved Persons may not remove HSBI from that room, except in the form of handwritten notes or aggregated information generated on a Stand-alone computer. In either case, such notes or information shall be used exclusively for this dispute in connection with which the HSBI has been submitted. Each person viewing the HSBI in the HSBI location shall complete and sign a log identifying the HSBI that the person reviewed or, alternatively, such a log can be generated automatically. Each Party shall, for the HSBI location within its territory referenced in paragraph 11, maintain such log until one year after the Conclusion of the Panel Process. Before entering and when leaving the room, Outside Advisors who are HSBI Approved Persons may be subject to appropriate controls. Viewing of HSBI at the location indicated in paragraph 11(a) by HSBI Approved Persons designated by the Parties shall be conducted under the observation of a WTO security guard or employee.
+48. No Approved Person shall disclose HSBI to any person except another HSBI Approved Person, and then only for the purpose of this dispute.
+49. HSBI may be processed only on Stand-alone computers. Any memorandum containing HSBI shall not be transmitted electronically, whether by e-mail, facsimile, or otherwise.
+50. A Party or Third Party that wishes to submit or refer to HSBI at a Panel meeting shall so inform the Panel and the other Party, and Third Parties as appropriate. The Panel shall exclude persons who are not HSBI Approved Persons from the meeting for the duration of the submission and discussion of HSBI.
+51. All HSBI shall be stored in a safe at the relevant HSBI location.
+52. The treatment in a Party's submissions to the Panel of any HSBI shall be governed by the provisions of this paragraph, which shall prevail to the extent of any conflict with the other provisions of the Working Procedures (including these Procedures) relating to HSBI.
+(a) HSBI may be incorporated into a separate appendix to, but not the body of, a Party's submission, which appendix shall be comprehensible in itself. The document containing the HSBI shall be referred to as the "Full HSBI Version Appendix" ;
+(b) A Party submitting an appendix containing HSBI shall also submit, within a time period to be set by the Panel, a version redacting any HSBI. This shall be referred to as the "Redacted Version Appendix";
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-13
+
+(c) At the request of a Party, information contained in the Redacted Version Appendix may be treated as BCI, in accordance with the provisions of Section V;
+(d) A Redacted Version Appendix shall be sufficient to permit a reasonable understanding of its substance. In order to prepare such a Redacted Version Appendix:
+(i) A Party may request that the Party that originally submitted the HSBI, as soon as possible, indicate with precision portions of documents containing HSBI that may be included in the Redacted Version Appendix and, if necessary to permit a reasonable understanding of the substance of the information, produce a non-HSBI summary in sufficient detail to achieve this aim.
+(ii) Upon receipt of such a request, the Party that originally submitted the HSBI shall, as soon as possible, indicate with precision portions of documents containing HSBI that may be included in the Redacted Version Appendix and, if necessary to permit a reasonable understanding of the substance of the information, produce a non-HSBI summary in sufficient detail to achieve this aim.
+(iii) The Panel shall resolve any disagreement as to whether the Party that originally submitted the HSBI failed to indicate with sufficient precision portions of documents containing HSBI that may be included in the Redacted Version Appendix and to produce, if necessary, a non-HSBI summary in sufficient detail to permit a reasonable understanding of the substance of the information, and may take appropriate action to ensure that the provisions of this paragraph are satisfied.
+(e) The Full HSBI Version Appendix shall be kept in an HSBI Location in the form of a locked CD. If that is not practical, the Party may keep it in a locked security container in a Secure Site in the form of a locked CD.
+(f) The locked CD containing the Full HSBI Version Appendix shall bear the label marked 'FULL VERSION OF HSBI APPENDIX TO SUBMISSION' and indicate the name of the Party that submitted the HSBI. In addition, the HSBI Appendix itself shall be marked with heading with double bolded square brackets on each page in an electronic file that contains the notation 'FULL VERSION OF HSBI APPENDIX TO SUBMISSION'. The electronic file containing the HSBI Appendix shall have a file name that contains the letters "HSBI VERSION".
+(g) The Party shall submit one copy of the Full HSBI Version Appendix to the Panel (c/o the DS Registry), and two copies to the other Party in the form of two locked CDs. The Full HSBI Version Appendix shall not be transmitted via e-mail. Parties shall agree between themselves beforehand on the name of the Approved Person that is to receive the locked CD.
+(h) The Party shall commence transfer of the locked CDs containing the Full HSBI Version Appendix no later than the deadline for the submission concerned, and, at the same time, provide the Panel and the other Party with proof that this has been done.
+
+WT/DS316/R Page E-14
+
+BCI deleted, as indicated [***]
+
+(i) No more than one working day in advance of a Panel meeting with the parties, a Party may, exclusively at that Party's Permanent Mission in Geneva, use the locked CD to produce no more than one hard copy of the Full HSBI Version Appendix for each HSBI Approved Person planning to attend that Panel meeting.
+(j) Panelists, the Facilitator and the PGE members or experts appointed by the Panel in accordance with paragraph 1(d) and HSBI Approved Persons designated by the Director-General of the WTO or his designee may, exclusively on the WTO premises, produce paper versions of the Full HSBI Version Appendix for the purpose of, and immediately prior to, a Panel meeting with the parties and/or an internal meeting.
+(k) Any hard copy of an Full HSBI Version shall be destroyed immediately upon the conclusion of a Panel meeting with the parties and/or an internal meeting.
+(kbis) Parties are encouraged to submit versions of exhibits containing HSBI from which all HSBI has been deleted. Such exhibits shall be referred to as "HSBI-Redacted Version Exhibits". HSBI-Redacted Version Exhibits may contain BCI.
+(i) A Party may submit HSBI-Redacted Version Exhibits prepared by that Party to the Panel, and serve them on the other Party in accordance with the applicable procedures, at the time it serves the submission to which the exhibit relates.
+(ii) If a HSBI-Redacted Version Exhibit is not submitted by the Party submitting the exhibit, an HSBI-Approved Person representing the other Party may prepare an HSBI-Redacted Version Exhibit of any such exhibit.
+(iii) HSBI-Redacted Version Exhibits may be prepared by an HSBI-Approved person, at an HSBI location, by deleting the HSBI in the exhibit (identified by double brackets) from such exhibit and either printing or photo-copying the resulting document containing no HSBI. The deletion of HSBI from the resulting document shall be verified by a person authorized for this purpose by the Party that submitted the exhibit(s) in question. The resulting document containing no HSBI (but which may contain BCI) will constitute the HSBI-Redacted Version Exhibit of such exhibit, and may be removed from the HSBI location.
+(iv) The Parties shall cooperate to the maximum extent possible to make available necessary facilities, including printers, photo-copiers, and physical means for the deletion of text from a document, to enable the preparation of HSBI-Redacted Version Exhibits, including making available an HSBI-Approved Person for purposes of the verification provided for in paragraph (iii) above. HSBI-Redacted Version Exhibits may be prepared by HSBI-Approved Persons upon request during the times the designated room at the relevant HSBI location is available, as provided for in paragraph 47 of these Procedures.
+(v) The Panel shall resolve any disagreement arising from the operation of this sub-paragraph, and may take appropriate action to ensure that the provisions of this paragraph are satisfied.
+
+BCI deleted, as indicated [***]
+
+WT/DS316/R Page E-15
+
+(l) The Panel reserves the right, after consulting the parties, to amend the provisions of this paragraph at any time in order to accommodate situations arising during Panel meetings, and the preparation of the interim report and the final report.
+53. The Panel shall not disclose HSBI in its report, but may make statements or draw conclusions that are based on the information drawn from the HSBI.
+VII. RESPONSIBILITY FOR COMPLIANCE
+54. Each Party and Third Party is responsible for ensuring that its Approved Persons and Third Party BCI Approved Persons comply with these procedures to protect BCI and HSBI submitted by each Party and Third Party, as well as with enforceable codes of professional conduct to which its approved persons or other outside advisors are subject. The Secretariat is responsible for ensuring that its employees comply with these procedures to protect BCI and HSBI submitted by a Party or Third Party and for adhering to the requirements to provide access in the WTO to Approved Persons and to control the use by HSBI Approved Persons when reviewing the material in the WTO premises. The Panel shall comply with these procedures to protect BCI and HSBI submitted by a Party or Third Party.
+VIII. ADDITIONAL PROCEDURES
+55. After consulting with the Parties, the Panel may apply any other additional procedures that it considers necessary to provide additional protections to the confidentiality of BCI or HSBI or other types of information not explicitly covered by these Procedures.
+56. The Panel may, with the consent of both Parties, waive any part of these procedures. Such "waiver" shall be specifically set forth in writing and signed by a representative of both Parties.
+IX. RETURN AND DESTRUCTION
+57. After the Conclusion of the Panel Process as defined in paragraphs 3(a), 3(c) or 3(d), within a period fixed by the Panel, the Panel, any PGE members or experts appointed by the Panel, the Facilitator, the Secretariat, the Parties and Third Parties (along with all Approved Persons) shall destroy or return all documents (including electronic material) or other recordings containing BCI to the Party or Third Party that submitted such documents or other recordings. The Panel, Secretariat and Parties shall destroy and/or return any electronic material submitted by a Party or Third Party that contains HSBI.
+58. After the Conclusion of the Panel Process as defined in paragraph 3(b), the Panel will inform the Appellate Body of these procedures and will transmit to the Appellate Body any BCI/HSBI governed by these Procedures. Such transmission shall occur separately from the rest of the Panel record, to the extent possible.
+59. The hard drive of all Stand-alone computers and all media used to back up such computers shall be destroyed at the Conclusion of the Panel Process.
+
+_______________
+
+

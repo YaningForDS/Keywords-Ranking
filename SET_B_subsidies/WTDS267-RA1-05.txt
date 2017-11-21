@@ -1,0 +1,442 @@
+WT/DS267/R/Add.1 Page E-55
+ANNEX E-5
+CANADA'S FURTHER THIRD PARTY SUBMISSION
+3 October 2003
+Canada's systemic interest in this case lies in the interpretation of the provisions of Article 13 and Annex 2 of the Agreement on Agriculture, as they related to certain US domestic support measures. It also lies in the interpretation of the export subsidy provisions of both the Agreement on Agriculture and the SCM Agreement, as they related to US export credit guarantee programmes.
+Regarding US domestic support measures, were the Panel to accept the evidence presented by Brazil, it would find that US PFC payments and direct payments do not satisfy the policy-specific criteria in paragraph 6 of Annex 2 of the Agreement on Agriculture. The Panel should also count US counter-cyclical payments going to US producers of upland cotton as "support to a specific commodity" under Article 13(b)(ii) of the Agreement.
+Regarding US export credit guarantees, were the Panel to find that the programs provide export subsidies within the meaning of Article 1(e) of the Agreement on Agriculture, then it would also find that the United States has violated Articles 8 and 10.1 at the very least in respect of exports of upland cotton. In this respect, the Panel should confirm that neither the Agreement on Agriculture nor the SCM Agreement contain an exemption for any US export credit guarantee subsidy found to exist in this case.
+Canada has no further views to provide to the Panel at this point in the proceedings.
+
+WT/DS267/R/Add.1 Page E-56
+ANNEX E-6
+FURTHER THIRD PARTY SUBMISSION OF THE EUROPEAN COMMUNITIES
+3 October 2003
+TABLE OF CONTENTS 1. Introduction.......................................................................................................................... 57 2. The meaning of "significant" in Article 6.3 (c) of the SCM Agreement ......................... 57 3. Continuing effects of recurring subsidies .......................................................................... 58 4. World Market Share in Article 6.3(d)................................................................................ 59 5. Threat of injury.................................................................................................................... 59 6. Per se claims ......................................................................................................................... 62
+
+WT/DS267/R/Add.1 Page E-57
+1. Introduction
+1. The European Communities (the "EC") makes this submission because of its systemic interest in the correct interpretation of the Agreement on Subsidies and Countervailing Measures (the "SCM Agreement"), the Agreement on Agriculture (the "AA") and the General Agreement on Tariffs and Trade 1994 (the "GATT").
+2. This submission provides the views of the EC with respect to Brazil's further submission of 9 September 2003. Due to the short deadline imparted to third parties, this submission does not address the further submission made by United States on 30 September 2003. The EC intends to provide its comments on the US submission at the meeting with the Panel.
+3. Many of the issues raised in Brazil's further submission concern factual matters on which the EC is not in a position to comment. Accordingly, the EC will limit itself to provide its views with respect to a number of issues of legal interpretation to which it attaches particular importance. More specifically, the EC will argue in this submission that:
+ in assessing the "significance" of price depression or suppression for the purposes of Article 6.3 (c) of the SCM Agreement, only their impact on the producers concerned is relevant;
+ Brazil cannot complain about the continuing effects of recurring subsidies while expensing the full amount of such subsidies to the year in which they were granted;
+ the phrase "world market share" in Article 6.3(d) of the SCM Agreement includes also the market of the subsidising Member;
+ the mere fact that a subsidy is not subject to "pre-established limitations" is not sufficient for a finding of "threat of serious prejudice";
+ Articles 5 and 6 of the SCM Agreement do not prohibit per se legislation that mandates subsidies that threaten serious prejudice "in certain circumstances".
+4. The EC reserves the right to address other issues raised by Brazil's further submission at the meeting with the Panel.
+2. The meaning of "significant" in Article 6.3 (c) of the SCM Agreement
+5. Brazil argues that, in assessing the "significance" of price depression or suppression for the purposes of Article 6.3 (c), it is relevant to consider not only their impact on the producers concerned, but also on the Government of the complaining Member. Specifically, Brazil contends that
+A developing country Government facing foreign reserve or fiscal problems may find the loss of foreign exchange or tax revenue from its producers to be significant even if the level of price suppression is relatively small. In this regard, the amount of actual and potential revenue losses suffered by a complaining Member as a result of price suppression may be evidence of the significance of the price suppression.1
+1 Brazil's submission, para. 96.
+
+WT/DS267/R/Add.1 Page E-58
+6. The EC takes issue with this interpretation. As rightly argued by Brazil elsewhere in its submission2, the existence of serious prejudice must be presumed whenever it is established that the effect of the subsidy is to cause inter alia significant price depression or suppression, without it being necessary to show, as an additional and separate requirement, that such price depression or suppression causes a serious prejudice to the interest of the Member concerned. Brazil's interpretation, however, amounts to reading such a separate requirement into the term "significant".
+7. In Indonesia ­ Autos, which is cited with approval by Brazil, the panel held that
+Although the term `significant' is not defined, the inclusion of this qualifier in Article 6.3(c) presumably was intended to ensure that margins of undercutting so small that they could not meaningfully affect suppliers of the imported product whose price was undercut are not considered to rise to serious prejudice ...3
+8. The above interpretation takes into account only the effects of price undercutting on the performance of the domestic producers of the complaining party, to the exclusion of any indirect effects on Government revenue. By the same token, where serious prejudice takes the form of price suppression or price depression, its significance should be evaluated only with respect to the producers concerned.
+9. In any event, the EC rejects Brazil's suggestion that the threshold for establishing the existence of serious prejudice should be lower when the complaining party is a developing country Member. Article 6.3 (c) is not a provision on Special and Differential Treatment. There is no basis for giving different meanings to the term "significant" depending on the identity of the parties to a dispute.
+3. Continuing effects of recurring subsidies
+10. Brazil alleges that the effects of the subsidies paid during Marketing Years ("MY") 19992002 continue after they have been provided. More precisely, according to Brazil, by providing farmers with a significant source of income, these payments result in increased investment and production.
+11. The EC finds it difficult to understand what point, if any, Brazil is trying to make. Brazil does not seem to be arguing that part of the benefit conferred by the subsidies granted during MY 19992002 should be allocated to subsequent years. That position would depart from the usual practice of most countervailing duty authorities, which is to consider that recurring subsidies must, in principle, be deemed "expensed" during the time period in which they are made. Similarly, the report of the Informal Group of Experts concerning Article 6.1(a) of the SCM Agreement recommended that subsidies should be expensed rather than allocated unless: (1) the purpose of the subsidy is linked to the purchase of fixed assets; (2) the subsidy is non-recurring or large; (3) the subsidy is oriented towards future production; (4) the subsidy consists of equity; or (5) is carried forward in the recipient's accounting records.4
+12. Elsewhere in its submission Brazil appears to have expensed the full amount of the subsidies paid during each marketing year to that marketing year, rather than allocate it over a number of marketing years. Brazil cannot have it both ways. If it considers that part of the benefit should be allocated to subsequent marketing years, it should justify that position in light of the criteria outlined
+2 Ibid., paras 437-443. 3 Panel report, Indonesia ­ Automobiles, WT/DS54/R, para. 14.254. 4 Report by the Informal Group of Experts to the Committee on Subsidies and Countervailing Measures, 25 July 1997, G/SCM/W/415, paras. 5-12.
+
+WT/DS267/R/Add.1 Page E-59
+above and provide the Panel with a detailed allocation. Moreover, Brazil should deduct the amounts allocated to subsequent years from the yearly amounts for the period 1999-2001, so as to avoid any "double counting" of benefits. Needless to say, this could make more difficult for Brazil to establish that the subsidies paid during MY 1999 ­ 2001 have caused serious prejudice during that period.
+13. In any event, while Brazil claims that the subsidies continue to have effects after MY 19992001, the alleged continuing effects (increased investments and production) do not of themselves amount to "serious prejudice" within the meaning of Article 5. Brazil has not explained, let alone proved, how those effects translated into one of the categories of "serious prejudice" described under Article 6.3 after 2001.
+4. World Market Share in Article 6.3(d)
+14. Brazil contends that the phrase "world market share" in Article 6.3(d) of the SCM Agreement means the "share of world market for exports".5 The EC sees no basis for this proposition. The ordinary meaning of "world market" is the sum of all the geographical markets for the product concerned, including also the domestic market of the subsidising Member.
+15. This reading is supported by the context. As evidenced by paragraph (a) of Article 6.3, the notion of "serious prejudice" may include also the prejudice suffered in the market of the subsidising Member. There is no reason, therefore, why the effects of a subsidy in that market should be excluded from the analysis under paragraph (d).
+16. The phrase "world market share" may be contrasted with the phrase "share of world export trade", which is used in Article XVI:3 of the GATT. Surely, if the drafters of Article 6.3(d) had meant the "share of world market for exports", as argued by Brazil, they would have used the same terms as in Article XVI:3. Moreover, in the context of Article XVI:3, it makes perfect sense to use as a benchmark the "share of the world market for exports" because that provision is concerned exclusively with export subsidies, which have no direct effect on the domestic market of the subsidising Member. In contrast, the disciplines on "serious prejudice" contained in Articles 5 and 6 of the SCM Agreement apply equally to both export and domestic subsidies and, in practice, are meant to address primarily the effects of the latter, since export subsides are prohibited by Article 3 (except where provided in conformity with the Agreement on Agriculture or Article 27 of the SCM Agreement).
+5. Threat of injury
+17. Brazil sets forth two legal standards in order to analyse the existence of threat of serious prejudice. According to the first standard, there is threat of serious prejudice whenever "the legislation and practice of granting subsidies has no effective limits in terms of the volume of exports or domestic subsidies production eligible to receive subsidies".6 Brazil contends that this standard can be "distilled" from the two GATT panel reports in EC ­ Sugar and from the Appellate Body report in US ­ FSC.7
+18. For the reasons explained below, the EC considers that, while the fact that a subsidy is not subject to any "pre-established limitations" is certainly a relevant factor in considering the existence of threat of serious prejudice, it is not necessarily dispositive.
+5 Brazil's submission, para. 265. 6 Brazil's submission, para. 301. 7 Ibid.
+
+WT/DS267/R/Add.1 Page E-60
+19. The two GATT reports in EC ­ Sugar are of questionable authority on this point. Neither of the panels made any attempt to provide a generally applicable interpretation of the notion of "threat of serious prejudice". The findings cited by Brazil are just bare assertions, without any supporting reasoning. Furthermore, other passages of the reports indicate that both panels took the view that the unlimited availability of subsidies could not be, of itself, a cause of serious prejudice. Thus, the panel in EC ­ Sugar (Australia) noted that
+The Panel felt that since the Community sugar exporters were leading the world market for white sugar, traditionally covering more than half of the world market for refined sugar, the availability of exportable Community surpluses of sugar combined with the possibility of non-limited amounts available to cover export refunds, may well have had a depressing effect on world market prices for both white and raw sugar.8
+Similarly, the panel in EC ­ Sugar (Brazil) observed that
+The Panel concluded that in view of the Community sugar made available for export with maximum refunds and the non-limited funds available to finance export refunds, the Community system of granting export refunds on sugar had been applied in a manner which in the particular situation prevailing in 1978 and 1979contributed to depress sugar prices in the world market, and that this constitutes a serious prejudice to Brazilian interests, in terms of Article XVI:1.9
+20. The above passages suggest that both panels considered that the unlimited availability of the EC subsides was a cause of serious prejudice only because, in conjunction with the availability of supplies of sugar in the EC and with the "particular situation" prevailing during the years 1978 and 1979, it had a depressing effect on prices. It follows that, unless the same or similar circumstances were also present or imminent in this case, the mere availability of subsidies could not be considered to pose, as such, a threat of serious prejudice.
+21. Brazil's arguments based on US ­ FSC are also without merit. Unlike Articles 5 and 6 of the SCM Agreement, Article 10.1 of the Agreement on Agriculture is not subject to a "trade effects" test. It prohibits any export subsidies not covered by Article 9, which exceed, or threaten to exceed, a Member's reduction commitments (in terms of budgetary outlays or exported volumes), regardless of the trade effects of the subsidy. In contrast, Articles 5 and 6 do not stipulate any limitations on the volume or value of subsidies. Rather, they prohibit the granting of subsidies in so far as they have certain "adverse effects" for the interests of another Member. Whether or not a subsidy has such effects will depend not only on the amount of the subsidy or the volume of subsided goods but also on other circumstances. For that reason, the mere fact that a subsidy is not subject to "pre-established limitations" is not a sufficient reason to conclude that it threatens to cause serious prejudice.
+22. Brazil appears to agree with the view that the elements of a threat of serious prejudice injury are the same as those of a serious prejudice case, the only difference between the two being that "in a serious prejudice case, all the elements already exist, whereas in a threat of serious prejudice case, all of the elements need not have come to pass."10 Yet that view cannot be reconciled with Brazil's first standard. Article 6 of the SCM Agreement makes it clear that the existence of "serious prejudice" cannot be established by looking only at the value of the subsidy (with the exception of the no-longer operational presumption in Article 6.1 (a)) or to the absolute volume of subsidised goods (as opposed
+8 Panel report, European Communities ­ Refunds on Exports of Sugar (Australia), BISD 26S/290, para. 4.31
+9 Panel report, European Communities ­Refunds on Exports of Sugar (Brazil), BISD 27S/69, V(f). 10 Brazil's submission, para. 304.
+
+WT/DS267/R/Add.1 Page E-61
+to their market share). Therefore, a determination of threat of serious prejudice cannot be based on those factors alone either.
+23. The EC considers that Article 15.7 of the SCM Agreement provides relevant context for the interpretation of the notion of "threat of serious prejudice". Both "injury to the domestic industry" and "serious prejudice" are "adverse effects" within the meaning of Article 5. There is no good reason why the threshold for establishing the existence of "threat of injury" should be higher than the threshold for establishing the existence of "threat of serious prejudice". The EC is of the view, therefore, that the requirements set out in Article 15.7 of the SCM Agreement must be deemed implicit in the notion of "threat of serious prejudice". Accordingly, a determination of threat of serious prejudice, like a determination of injury, must "be based on facts and not merely on allegation, conjecture or remote possibility". Also, the relevant "changes in circumstances" must be "clearly foreseen and imminent".
+24. As recalled by Brazil, Article 15.7(i) of the SCM Agreement provides that the "nature of the subsidy or subsidies in question and the trade effects likely to arise therefrom" is one of the factors that should be considered for the purposes of a threat of injury determination.11 The EC agrees that this is also one of the factors that should be considered for the purposes of a determination of threat of serious prejudice. But it is not the only relevant factor. Brazil glosses over the last sentence of Article 15.7, which provides that no one of the factors listed in that provision "can necessarily give guidance". Rather, "the totality of the factors considered must lead to the conclusion that further subsidised exports are imminent and that, unless protective action is taken, material injury would occur". This confirms that, while the absence of "pre-established limitations" is a relevant factor, it is not necessarily dispositive.
+25. Brazil further asserts that the other factors listed in Article 15.7 "are not directly relevant to a threat of serious prejudice case because they address the situation of imports that would harm the domestic industry in the country of importation."12 This is, of course, correct. Nonetheless, Article 15.7 suggests that analogous factors may be relevant for a determination of serious prejudice. For example, the following factors could be relevant for establishing the existence of serious prejudice in an export market:
+ a significant rate of increase of subsidised exports to the export market;
+ sufficiently freely disposable, or an imminent, substantial increase in, capacity of the exporter indicating the likelihood of substantially increased subsidised exports, taking into account the availability of other export markets to absorb any additional exports;
+ whether subsidised exports are entering into the export market at prices that will have a significant depressing or suppressing effect in prices, and would likely increase demand for further imports; and
+ inventories of the product investigated.
+26. In sum, the EC is of the view that, while the fact that a subsidy is not subject to any "preestablished limitations" as regards the value of the subsidies or the volume of subsidised goods is a relevant factor in order to establish the existence of threat of serious prejudice, it is not necessarily dispositive. Other factors, including in particular factors analogous to those listed in Article 15.7 (ii)(v) of the SCM Agreement, may also be relevant and should be examined as well.
+11 Ibid., para. 302. 12 Ibid., para. 303.
+
+WT/DS267/R/Add.1 Page E-62
+6. Per se claims
+27. Brazil claims that the US legislation conferring the subsidies at issue in this case is inconsistent per se with Article 5(c) of the SCM Agreement and Article XVI:3 of the GATT because it mandates the payment of subsidies that will necessarily threaten serious prejudice in certain circumstances. This claim is based on the assumption that
+It is established under WTO law that a Member can challenge measures of another Member on a per se basis when those measures mandate, in certain circumstances, a violation of its WTO obligations.13
+28. The above proposition, however, is nowhere stated in the WTO Agreement and, as noted already in its first submission14, the EC disputes its validity. True, some panels have asserted this position on the basis of an erroneous interpretation of the panel report in US - Superfund. Other panels, however, have taken a contrary, or at least more qualified view.15 In particular, the panel in US ­ Section 301 observed that
+we believe that resolving the dispute as to which type of legislation, in abstract, is capable of violating WTO obligations is not germane to the resolution of the type of claims before us. In our view the appropriate method in cases such as this is to examine with care the nature of the WTO obligation at issue and to evaluate the Measure in question in the light of such examination. The question is then whether, on the correct interpretation of the specific WTO obligation at issue, only mandatory or also discretionary national laws are prohibited. We do not accept the legal logic that there has to be one fast and hard rule covering all domestic legislation. After all, is it so implausible that the framers of the WTO Agreement, in their wisdom, would have crafted some obligations which would render illegal even discretionary legislation and crafted other obligations prohibiting only mandatory legislation? Whether or not Section 304 violates Article 23 depends, thus, first and foremost on the precise obligations contained in Article 23.16
+29. The Appellate Body has not pronounced itself yet clearly on this issue. Thus, in US ­ 1916 Act, which is sometimes cited erroneously as an endorsement of the principle invoked by Brazil, the Appellate Body noted that
+... the 1916 Act is clearly not discretionary legislation, as that term has been understood for purposes of distinguishing between mandatory and discretionary legislation. Therefore, we do not find it necessary to consider, in these cases, whether
+13 Brazil's submission, para. 417. 14 EC's First Third Party Submission, paras. 4-7. 15 See e.g. the Panel report on United States ­ Countervailing Measures Concerning Certain products from the European Communities, WT/DS212/R, para. 7.123: While only legislation that mandates a violation of WTO obligations can be WTOinconsistent, we are of the view that the existence of some form of executive discretion alone is not enough for a law to be prima facie WTO - consistent, what is important is whether the government has an effective discretion to interpret and apply its legislation in a WTOinconsistent manner. 16 Panel report, United States ­ Sections 301-310 of the Trade Act of 1974, WT/DS152/R, para. 7.53. [footnotes omitted]
+
+WT/DS267/R/Add.1 Page E-63
+Article 18.4, or any other provision of the Anti-Dumping Agreement, has supplanted or modified the distinction between mandatory and discretionary legislation.17
+30. The Appellate Body was even more cautious in a subsequent case, US ­ Lead and Bismuth II, where it noted that
+We are not, by implication, precluding the possibility that a Member could violate its WTO obligations by enacting legislation granting discretion to its authorities to act in violation of its WTO obligation. We make no finding in this respect.18
+31. The EC agrees with the panel in US ­ Section 301 that whether or not discretionary legislation may be subject to challenge depends on the specific obligations imposed by each provision of the WTO Agreement. Thus, for example, it is arguable that Article XI:1 of the GATT prohibits not only mandatory legislation, but also legislation which authorises expressly the executive branch to apply an import restriction under well specified circumstances, because such authorisation, of itself, may have a chilling effect on imports.
+32. For the same reasons, it would be mistaken to assume, as Brazil does, that legislation which mandates action that would result in a violation of a WTO provision in certain circumstances is necessarily inconsistent with that provision. As illustrated by the present case, this notion would have absurd and unacceptable results when applied to WTO provisions which, like Article 5(c) of the SCM Agreement and Article XVI:3 of the GATT, incorporate a "trade effects" test. The EC considers that, once again, whether or not legislation that mandates a violation in certain circumstances can be challenged per se will depend on the specific obligations impose by the WTO provision at issue.
+33. It is often overlooked that in US­ Superfund the panel justified its finding that the tax legislation at issue could be challenged, even though it had not entered into effect, by reasoning that Article III of the GATT is not concerned with trade volumes, but rather with competitive opportunities19:
+The Panel noted that the United States objected to an examination of this tax because it did not go into effect before 1 January 1989, and - having no immediate effect on trade and therefore not causing nullification or impairment ­ fell outside the framework of Article XXIII. [...]
+[...] The general prohibition of quantitative restrictions under Article XI, which the Panel on Japanese Measures on Imports of Leather examined, and the national treatment obligation of Article III ... have essentially the same rationale, namely to protect expectations of the contracting parties as to the competitive relationship between their products and those of the other contracting parties. Both articles are not only to protect current trade but also to cerate the predictability needed to plan future trade. That objective could not be attained if contracting parties could not challenge existing legislation mandating actions at variance with the General Agreement until the administrative acts implementing it had actually been applied to their trade. Just as the very existence if a regulation providing for a quota, without it restricting particular imports, has been recognized to constitute a violation of Article XI;1, the
+17 Appellate Body report, United States ­ Anti-Dumping Act of 1916, WT/DS136/AB/R, WT/DS162/AB/R, para. 99.
+18 Appellate Body report, United States ­ Countervailing Measures Concerning Certain Products from the European Communities, WT/DS212/AB/R, footnote 334.
+19 Panel report, United States ­ Taxes on Petroleum and Certain Imported Products, BISD 34/136, 160, paras.5.2.1-5.2.2.
+
+WT/DS267/R/Add.1 Page E-64
+very existence of mandatory legislation providing for an internal tax, without it being applied to a particular imported product, should be regarded as falling within the scope of Article III:2, first sentence. ...
+34. It is also a common mistake to assume that, like Articles III or IX of the GATT, all other WTO provisions are concerned also with competitive opportunities. Some WTO provisions, however, are not concerned with competitive opportunities, but instead with trade effects. Article 5(c) of the SCM Agreement and Article XVI:3 of the GATT fall within that category. They prohibit the granting of subsidies only to the extent that the subsidies cause "adverse effects" in the form of "serious prejudice". Such effects must be actual or threatened, not just theoretical.
+35. The "mandatory" standard invoked upon by Brazil would result in the creation of third category of prohibited adverse effects in addition to actual and threatened serious prejudice, which is nowhere mentioned in Article 5(c): the mere possibility of threat of serious prejudice in certain circumstances. Furthermore, as a result, Brazil's interpretation would render redundant the two categories of effects which are mentioned in Article 5(c). As explained above, threat of serious prejudice must be imminent and foreseeable. Yet, on Brazil's interpretation, it would be sufficient, in order to establish a per se violation, to show that the legislation at issue mandates action that threatens serious prejudice in certain circumstances, no matter how remote the likelihood that such circumstances will ever materialise. For example, on Brazil's interpretation, it would be enough to show that the legislation mandates the payment of subsidies that will threaten serious prejudice in a purely hypothetical situation where world prices fall to an extremely low level, even if the chances that prices may actually fall to such level are negligible in practice.
+36. In sum, Brazil's per se claim is an ingenious but misguided attempt to avoid the requirements of Article 5(c) of the SCM Agreement, which should be rejected by the Panel.
+
+WT/DS267/R/Add.1 Page E-65
+ANNEX E-7
+FURTHER THIRD PARTY SUBMISSION OF NEW ZEALAND
+3 October 2003
+TABLE OF CONTENTS
+I. INTRODUCTION ............................................................................................................... 66 II. PRESENT SERIOUS PREJUDICE................................................................................... 66
+1. The effect of the United States subsidies is significant price suppression............. 67 (i) Interpretation of Article 6.3............................................................................... 68 (a) "Significant" ............................................................................................ 70 (b) Time-period for Demonstrating Causal Effects ...................................... 72
+2. The effect of the United States subsidies is an increase in the United States world market share ............................................................................ 73
+3. The United States has a "more than equitable share" of world export trade in upland cotton ............................................................................................... 73
+4. Issues relating to particular United States subsidies .............................................. 74 (i) Market Loan Payments...................................................................................... 74 (ii) Step 2 Payments................................................................................................. 74 (iii) Market loss assistance/Counter-cyclical payments ........................................... 74
+III. THREAT OF SERIOUS PREJUDICE.............................................................................. 75 IV. EXPORT CREDIT GUARANTEE PROGRAMMES ..................................................... 76 V. CONCLUSION .................................................................................................................... 77
+
+WT/DS267/R/Add.1 Page E-66
+I. INTRODUCTION
+1.01 Although New Zealand is not a producer or exporter of cotton, New Zealand has a systemic interest in ensuring the continued integrity of important WTO disciplines applicable to agricultural trade and has therefore joined this dispute as a third party. As outlined in New Zealand's First Submission to the Panel1, New Zealand is concerned to ensure that Members are able to utilise their rights under the Agreement on Subsidies and Countervailing Measures (the SCM Agreement) and GATT 1994 to take action in respect of domestic support measures and export subsidies where the requirements of the "peace clause" have not been respected.
+1.02 New Zealand believes that Brazil has demonstrated that the "peace clause" has not been respected in relation to domestic support and export subsidies provided by the United States to upland cotton in the marketing years ("MY") 1999, 2000, 2001 and 2002, and that accordingly Brazil is entitled to bring actionable and prohibited subsidy claims against the United States under the GATT 1994 and the SCM Agreement.
+1.03 In its Further Submission to the Panel,2 Brazil has provided the legal and factual basis upon which the Panel should conclude that the United States subsidies cause or threaten to cause serious prejudice to the interests of Brazil within the meaning of Articles 5(c), 6.3(c) and 6.3(d) of the SCM Agreement and violate GATT Article XVI. New Zealand therefore considers that the Panel should make the findings and recommendations requested by Brazil.
+1.04 This submission addresses issues raised in the Further Submissions of Brazil and the United States3 and should be read in conjunction with New Zealand's First Submission. As recognised by the Panel in its communication of 24 September 2003, New Zealand has had only limited time to consider the Further Submission of the United States and therefore reserves the right present arguments in addition to those set out in this written submission in its oral statement to the Panel on 8 October 2003.
+II. PRESENT SERIOUS PREJUDICE
+2.01 Brazil has demonstrated that the United States subsidies4 cause serious prejudice to the interests of Brazil within the meaning of Articles 5(c), 6.3(c) and 6.3(d) of the SCM Agreement and violate GATT Article XVI.
+2.02 Brazil has demonstrated that the United States subsidies during marketing year (MY) 19992002:
+ cause present significant price suppression5 in the world and Brazilian markets, as well as in markets where Brazilian producers export, within the meaning of Article 6.3(c) of the SCM Agreement;
+1 United States ­ Subsidies on Upland Cotton, Third Party Submission of New Zealand, 15 July 2003 ("New Zealand's First Submission").
+2 United States ­ Subsidies on Upland Cotton, Brazil's Further Submission to the Panel, 9 September 2003 ("Further Submission of Brazil").
+3 United States ­ Subsidies on Upland Cotton, Further Submission of the United States of America, 30 September 2003 ("Further Submission of the US").
+4 New Zealand uses that term as it is used by Brazil in its Further Submission (para 7). Details of these programmes were provided by Brazil in its First Submission to the Panel Regarding the "Peace Clause" and Non-"Peace Clause" Related Claims, 24 June 2003 ("First Written Submission of Brazil"), paras 45 ­ 106.
+5 New Zealand uses the term as it is used by Brazil in its Further Submission to also encompass circumstances showing price depression characteristics.
+
+WT/DS267/R/Add.1 Page E-67
+ had the effect of increasing the United States share of the world upland cotton market within the meaning of Article 6.3(d) of the SCM Agreement, and
+ contributed significantly to the United States having more than an equitable share of world export trade within the meaning of GATT Article XVI:3.
+New Zealand will focus in particular on Brazil's claim that the United States subsidies cause "significant price suppression".
+1. The effect of the United States subsidies is significant price suppression
+2.03 Brazil has demonstrated that the United States subsidies during marketing year (MY) 19992002 cause present significant price suppression in the Brazilian and world markets, including in markets where Brazilian and United States producers export, within the meaning of Article 6.3(c) of the SCM Agreement and thus cause serious prejudice. Brazil has demonstrated that the United States subsidies suppressed A-index prices by an average of 12.6% over MY 1999-2002.6 That translates into a total amount of lost revenue for Brazilian producers of $478 million7 and suppressed revenue worldwide of $3.587 billion.8
+2.04 With subsidisation at levels of 95 per cent on average9, subsidies are the greater part of farmers' incomes and have a major impact on farmers' production decisions. Producers of upland cotton in the United States are thereby largely insulated from the effects of the market. Thus, when prices for upland cotton were falling10, and the value of the United States dollar11 and costs of production were rising12, production of upland cotton and United States exports of upland cotton significantly increased.13 United States farmers planted 13.5 per cent more acres with upland cotton.14 United States production hit a record high.15 United States exports and the United States share of the world market increased.16
+2.05 Professor Sumner estimates that if all United States government support to upland cotton were eliminated, United States exports would have been 41 per cent less in MY 1999-2002.17 By contrast, with the subsidies the United States world market share in fact more than doubled over that period.18
+2.06 This subsidy-fuelled production and export growth resulted in significant price suppression within the meaning of Article 6.3(c). Prices were suppressed by the increased world supply of upland cotton and increased competition from United States upland cotton in world markets. Brazil has also outlined the influence that the United States has on world prices for upland cotton19 - the sheer size of
+6 Further Submission of Brazil, para 229. 7 Ibid, para 446. 8 Ibid, para 256. 9 Ibid, para 105. 10 Ibid, part 3.3.4.2. 11 Ibid, part 3.3.4.4. 12 Ibid, Part 3.3.4.3. Brazil has demonstrated that by the end of MY 2001 the cost-revenue gap had increased to 39 cents per pound (para 121). 13 See Ibid, para 105. Between 1998 and 2001 production increased by 45.5 per cent and exports by 161 per cent. 14 Ibid, para 130. 15 In MY 2001 United States production reached 19.603 million bales (Ibid, para 131). 16 Ibid, para 132. 17 Ibid, para 288. 18 Ibid, para 283. 19 Ibid, para 3.3.4.6.
+
+WT/DS267/R/Add.1 Page E-68
+the United States share of total world production20 and of world exports magnifies the trade distorting effects of the United States subsidies. Any doubt about the impact that United States subsidies have on the world market for upland cotton should be quickly dispelled by the graphic demonstration of United States dominance of the world market illustrated by Brazil in Figure 26.
+2.07 New Zealand agrees with Brazil that the absolute size and average subsidisation level of the United States subsidies creates a strong de facto presumption of production, export and price effects.21 However Brazil has not simply relied on such a presumption. Brazil has produced econometric analysis demonstrating that the United States subsidies caused significant price suppression, as actual market prices throughout MY 1999-2002 would have been higher but for the effects of the United States subsidies.22
+2.08 At no point in its submission does the United States dispute the accuracy of this econometric analysis. Instead, in response to Brazil's claims, the United States seeks to argue that Brazil's case "suffers from a failure of factual proof"23 and that Brazil has failed to make a prima facie case of serious prejudice or more than equitable market share because Brazil has done no more than assert that causation is established because there were large United States outlays during marketing years with low prevailing upland cotton prices.24 According to the United States, factors other than United States subsidies "were the causes of the dramatic plunge in cotton prices experienced in recent years,"25 namely: competition from low price polyester; flat retail consumption of cotton outside of the United States; slow world economic growth; burgeoning United States textile imports leading to more United States cotton exports; a stronger United States dollar leading to weakened commodity prices and China's trade position.
+2.09 However Brazil's argument is not that declining cotton prices were due solely to the impact of the United States subsidies. Nor does Article 6.3(c) require that to be the case. It is Brazil's contention, backed up by sound econometric analysis, that the United States subsidies have a significant price-suppressing effect. And that effect exists regardless of whether cotton prices are rising or falling.26 Nor did Brazil's analysis fail to take into account the impact of other adverse factors affecting upland cotton prices as alleged by the United States.27 The econometric models used by Brazil, in particular FAPRI, hold other relevant factors affecting the price of cotton constant while cotton subsidies are removed, thereby isolating the effect of those subsidies. Therefore Brazil's analysis did not attribute to cotton subsidies the effects of other factors affecting cotton prices. As noted above, at no point in its submission does the United States question the integrity of the models referred to by Brazil and upon which the estimated impacts of the removal of United States cotton subsidies is based.
+(i) Interpretation of Article 6.3(c)
+2.10 New Zealand disagrees with the United States interpretation of Article 6.3. Essentially the United States reached the wrong conclusion from its comparison of the language of Article 6.1 with that of Article 6.3. The United States concluded that because Article 6.3 used the phrase "may arise in
+20 19.5 per cent in MY 2002 (Ibid, para 135). 21 Ibid, paras 106 and 107. 22 Evidence adduced by Brazil, specifically the Quantitative Simulation Analysis by Professor Daniel Sumner, shows that but for the United States subsidies A-Index prices between MY 1999-2002 would have been, on average, 12.6 per cent higher. 23 Further Submission of the US, para 16. 24 Ibid, para 17. 25 Ibid. 26 Further Submission of Brazil, para 231. 27 Further Submission of the US, para 80.
+
+WT/DS267/R/Add.1 Page E-69
+any case where one or several of the following apply", whereas Article 6.1 states "serious prejudice shall be deemed to exist in the case of ...", that this means that serious prejudice "need not arise even under Article 6.3 even where one of the listed effects is found".28 The United States goes on to infer from this difference in language that a complainant, in addition to demonstrating the existence of one of the listed effects, must also meet a separate "serious prejudice" standard ­ the content of which is undefined by the SCM Agreement. The United States states that a complainant must show that the "prejudice" suffered is "serious".29
+2.11 First, the example given by the United States in footnote 43 seems to be covered by the terms of Article 6.4. Second, and more importantly, there is no basis for drawing from a comparison of language used in Articles 6.1 and 6.3 the conclusion that there is some other standard, independent of Article 6, that must be demonstrated in order to show "serious prejudice". In fact, as New Zealand will show, a comparison of both the language and substance of Articles 6.1 and 6.3, in the context of Articles 5 and 6 of the SCM Agreement, supports the contrary conclusion ­ that if a complainant has demonstrated the existence of one or more of the effects enumerated in Article 6.3 there is "serious prejudice" that is an adverse effect of the subsidy within the meaning of Article 5.
+2.12 That is because the difference in language simply reflects the different way in which both Article 6.1 and Article 6.3 give meaning to the term "serious prejudice". Both must be seen in the context of concern in this part of the SCM Agreement with the effects of subsidies on other Members. In relation to Article 6.1, "serious prejudice" was given meaning by reference to specific types of subsidies or qualities of a subsidy that were "deemed" to have effects that were adverse to the interests of other Members. However, it was open to a subsidising Member under Article 6.2 to overturn that presumption by showing that in fact the subsidy did not cause serious prejudice ­ i.e. that the subsidy had not resulted in any of the effects enumerated in Article 6.3.
+2.13 The terms of Article 6.2 make it clear that the effects enumerated in Article 6.3 equate to "serious prejudice" and that nothing more than demonstration that one of those effects exists is necessary to find serious prejudice.
+2.14 Further, by contrast with Article 6.1, Article 6.3 looks more broadly at the effects of the subsidy, rather than its specific characteristics. There is thus no need to "deem" certain effects to arise from certain types or characteristics of a subsidy as there was in Article 6.1. Instead Article 6.3 is more broadly cast to take an effects-based approach ­ in essence it is designed to encompass any kind of subsidy that has the adverse effects enumerated and is therefore "actionable". However there is no basis to draw from this difference in approach, and therefore in language, the conclusion that more is required under Article 6.3 than simply demonstrating that one or more of the prescribed effects exists in order show that there is serious prejudice. Such an interpretation undermines the careful structure of Article 6 and the clear intent of Article 5 and must be rejected.
+2.15 Nor does the use of the word "may" in Article 6.3 lead to any other conclusion. In that respect it is important to note that Article 5(c) incorporates, as specified in Footnote 13 to the Agreement, GATT Article XVI.1 which includes inter alia the threat of serious prejudice. Therefore it was appropriate to state that serious prejudice in the sense of paragraph (c) of Article 5 may arise where any of the listed effects exists because there may be other circumstances in which serious prejudice can be demonstrated, including, for example, where there is a threat of serious prejudice. If the word "shall" had been used this would have been taken to mean that Article 6.3 provides the definitive set of circumstances in which serious prejudice can arise. By virtue of Footnote 13 that is not the case.
+28 Ibid, para 77. 29 Ibid, para 79.
+
+WT/DS267/R/Add.1 Page E-70
+2.16 Consideration of Article 6.3 in the context of the rest of Article 6 provides further support for the interpretation outlined above. First, it makes little sense to have gone to such detail in Article 6.4 to describe what is required to meet the requirements of Article 6.3(b) if there is another set of undefined requirements that must also be demonstrated in order to find serious prejudice.
+2.17 Second, in terms of Article 6.2, if there were other elements outside those in Article 6.3 that had to be demonstrated to show serious prejudice, why would a subsidising Member not also have had to show that those elements were not present in order to avoid the presumption in Article 6.1?
+2.18 Third, Article 27.8 (although now defunct because Article 6.1 is no longer in effect), also provides that serious prejudice arising from subsidies by developing country Members "shall be demonstrated by positive evidence, in accordance with the provisions of paragraphs 3 through 8 of Article 6". This makes it clear that serious prejudice need only be determined by reference to Articles 6.3­6.8 of the SCM Agreement.
+2.19 Finally, Article 6.8 provides that "in the absence of circumstances referred to in paragraph 7, the existence of serious prejudice should be determined on the basis of the information submitted in accordance with the provisions of Annex V". This confirms that paragraph 7 of Article 6 outlines the only set of circumstances in which it is not possible to make a determination as to the existence of serious prejudice when one of the situations in Article 6.3 is demonstrated to exist. The direction in Article 6.8 to determine the "existence" of serious prejudice on the basis of the record would be deprived of meaning if a determination of serious prejudice also had to be made by reference to additional criteria not specified by the SCM Agreement that could lead to a materially different outcome as a matter of fact and law.
+2.20 Serious prejudice is not the abstract concept the United States attempts to portray it as. Serious prejudice refers to the concrete adverse effects of a subsidy on the interests of another Member that are clearly elaborated in Article 6.3. However, even if the United States is right and a complainant, having demonstrated the existence of significant price suppression within the meaning of Article 6.3(c), must also meet a separate test of "serious prejudice" under Article 5(c), Brazil has demonstrated that serious prejudice exists by providing the Panel with additional information outlining the harm caused to its upland cotton producers as well as to the Brazilian economy.30
+(a) "Significant"
+2.21 Article 6.3(c) of the SCM Agreement requires that the level of price suppression caused by the United States subsidies must be "significant", that is, it may not be so small as to have no meaningful effect on other producers or suppliers of the same product.31 Logically, price suppression that is so small as to have no meaningful effect could not give rise to serious prejudice. However, such an interpretation does not mean that a very small level of price suppression may not have a meaningful effect, for example where large volumes of a product may be traded.32 As Brazil demonstrates, even a 1 cent per pound price-suppressing effect can reduce worldwide export revenue by $552 million. Average price declines of 12.6 per cent for upland cotton clearly have a meaningful affect on
+30 Further Submission of Brazil, Part 6. 31 Panel Report, Indonesia ­ Certain Measures Affecting the Automobile Industry, WT/DS54/R, WT/DS55/R, WT/DS59/R, WT/DS64/R, adopted 23 July 1998 ("Indonesia ­ Automobiles"). The Panel considered (at para 254) the meaning of "significant" in the context of Article 6.3(c) and concluded: Although the term "significant" is not defined, the inclusion of this qualifier in Article 6.3(c) presumably was intended to ensure that margins of undercutting so small that they could not meaningfully effect suppliers of the imported product whose price was being undercut are not considered to give rise to serious prejudice. 32 Further Submission of Brazil, para 95and para 256.
+
+WT/DS267/R/Add.1 Page E-71
+Brazilian producers of upland cotton. New Zealand fully agrees with Brazil that such price suppression is thus "far beyond any legitimate threshold of `significance'".33
+2.22 The United States argues that Brazil's interpretation of "significant" collapses the concept of "significant price suppression or depression" with the concept of "serious prejudice" because Brazil's assessment of the significance of the price suppression has wrongly focussed on the effect of the subsidy on producers rather than on prices. As outlined in paragraphs 2.10­2.20 above, in New Zealand's view the construction of Articles 5 and 6 makes it clear that "significant price suppression or depression" is simply a form or manifestation of "serious prejudice" and therefore it is artificial to make into two separate inquiries what is clearly meant to be only one.
+2.23 In any event the United States argument that the significance of the price suppressive effect of the subsidy can only be determined by reference to the effect on `price' should be rejected. Articles 5 and 6 are concerned with the adverse effects of a subsidy ­ Article 5 states that "no Member should cause, through the use of any subsidy ... adverse effects to the interests of other Members." Therefore it is entirely appropriate under Article 6.3(c) to consider whether price suppression is "significant" by reference to the effect of the price suppression on the Member alleging adverse effects to its interests. In other words, what renders price suppression significant or insignificant is whether or not it causes adverse effects to the Member concerned, not whether or not an arbitrary level of numeric significance is achieved as implied by the United States. Under the United States approach, a numerically small suppressive effect on prices could be disregarded, even though it may have significant adverse effects on the complainant Member. Thus, using the example given by Brazil, price suppression by only 1 cent per pound may not be "significant" enough under the United States standard and therefore could not give rise to serious prejudice, even though that level of price suppression would reduce worldwide export revenue by $552 million.34
+2.24 Nor does the United States explain how `significance' is to be determined under its proposed approach. That is because such an approach would require Panels to apply some kind of arbitrary standard of significance ­ would 5 per cent be significant? Would 10 per cent or 20 per cent? Would the level of required significance vary from case to case, and if so how is a Panel to determine what that level should be?
+2.25 By contrast, the approach taken by Brazil of interpreting "significant" as requiring the level of price suppression to be "meaningful" in its effect, reflecting the Panel's reasoning in Indonesia ­ Automobiles, provides a more logical and consistent basis upon which to determine whether the price suppression is "significant". It is also consistent with the objective of Articles 5 and 6 which is to address subsidies that have an adverse effect on the interests of other WTO members. Nor is such an approach inconsistent with the United States assertion that the drafters of Article 6.3(c) used the term "significant" to create a threshold to ensure that not just "any theoretical price effect"35 would suffice. In fact the Panel in Indonesia ­ Automobiles appears to have made the same assessment of the intention of the drafters when it stated that
+the inclusion of this qualifier (ie "significant") in Article 6.3(c) presumably was intended to ensure that margins of undercutting so small that they could not
+33 Ibid, para 95. 34 This example is of course based on the effect of subsidies on "like products", which, as Brazil has demonstrated (Further Submission of Brazil, part 3.3.2), United States upland cotton and Brazilian upland cotton are. 35 Further Submission of the US, para 84.
+
+WT/DS267/R/Add.1 Page E-72
+meaningfully affect suppliers of the imported product whose price was being undercut are not considered to give rise to serious prejudice.36
+2.26 Nor does the United States argument find support in the reference to the price suppression being "in the same market" in Article 6.3(c). The United States argues this means that the price suppression must be significant in "market terms" and therefore the question is the effect of the price suppression on the market and not on the Member concerned.37 While New Zealand agrees that the effect of the price suppression on the market may be relevant to considering whether that price suppression is "significant", New Zealand notes that the phrase "in the same market" simply serves to locate the price suppressive effects rather than define their substance. In fact the United States acknowledges as much further on it in its submission.38 Further, the United States has not attempted to claim that its exports are not to the same market as exports from Brazil. And of course it cannot, because, as Brazil has demonstrated, Brazilian upland cotton and United States upland cotton are like products and are treated by upland cotton traders as interchangeable and substitutable.39
+2.27 Finally, New Zealand notes that the United States arguments do not seek to suggest that the level of price suppression found to exist in the present case - 12.6 per cent - is not "significant" within the meaning of Article 6.3(c). Therefore the Panel should find that "significant price suppression" exists as a result of the United States subsidies and that therefore the United States subsidies cause serious prejudice to the interests of Brazil.
+(b) Time Period for Demonstrating Causal Effects
+2.28 The United States argues that "a past subsidy no longer exists as of the time a new subsidy payment in respect of current production is made".40 Therefore, argues the United States, subsidies prior to the most recent period, MY 2002, can have no "effect" within the meaning of Article 6.3 and the "effect of the subsidy must be demonstrated in each year and for each year that Brazil has challenged".41
+2.29 By the United States reasoning a complainant may only take a serious prejudice case in the year in which the serious prejudice is caused. To say that a "past subsidy no longer exists" once a further payment is made under the same subsidy scheme is entirely artificial. Leaving aside the practical difficulties the United States approach would pose given the nature of the evidence that is required and the timelines for WTO dispute settlement ­ which would effectively preclude any Members from ever taking serious prejudice cases ­ this approach ignores that fact that the subsidy programmes are in existence for a period of years and have effects on the decisions of producers beyond simply the year in which they have been paid.42 Producers expectations of continued subsidies are integral to planting decisions and it is clear that United States producers expect ongoing subsidies as these have been legislatively mandated until MY 2007.
+2.30 Similarly the serious prejudice caused to a WTO Member over the lifetime of a subsidy programme is not easily compartmentalised into a particular year and such an artificial constraint on the appropriate time period for consideration by a Panel would seem to undermine the object and
+36 Panel Report, Indonesia ­ Automobiles, para 14.254. 37 Further Submission of the US, para 87. 38 Ibid, para 90. 39 Further Submission of Brazil, para 80. 40 Further Submission of the US, para 94. 41 Ibid, para 95. 42 Brazil has demonstrated that the effects of the United States subsidies continue after they have been provided because, for example, they have "wealth" and "investment" effects (Further Submission of Brazil, part 3.3.4.7.7).
+
+WT/DS267/R/Add.1 Page E-73
+purpose of the disciplines on actionable subsidies in the Agreement. New Zealand therefore agrees with Brazil that MY 1999-2002 is a reasonable period for the Panel to use for the present serious prejudice claims.
+2. The effect of the United States subsidies is an increase in the United States world market share
+2.31 Brazil has demonstrated that the United States subsidies resulted in an increase in the United States world market share for upland cotton in MY 2001 within the meaning of Article 6.3(d). The data provided by Brazil shows that the United States world market share in MY 2001 of 38.3 per cent is considerably higher than the previous three-year average,43 and that this was due to the effect of the United States subsidies.44
+2.32 The United States argues that the term "world market share" refers to "all consumption" of upland cotton and thus would include "consumption by a country of its own cotton production". The United States appears to suggest that Article 6.3(d) is thus concerned with the effect of the subsidy on world consumption of cotton.
+2.33 It is true that GATT Article XVI:3 uses the phrase "world export trade". However it is quite a leap of logic to then conclude that because Article 6.3(d) uses the term "world market share" then it must refer to a Member's share of world consumption. The United States makes this leap on the basis that the relevant context for determining what "world market share" means is GATT Article XVI:3. However the first point of reference should in fact be Article 6.3 itself, and Article 5 to which it is so integrally related. Thus the appropriate context in which to give meaning to "world market share" is the aim of Articles 5 and 6, ie to address the adverse effects of subsidies on the interests of other Members.
+2.34 Subsidies are the concern of WTO members to the extent that they distort trade ­ hence the differentiation in treatment of trade-distorting and non-trade distorting subsidies. Therefore the adverse effects with which Article 6.3 is concerned is the effect of subsidies on trade in the world market. Specifically, it is concerned with adverse effects to other Members caused when one Member uses subsidies in order to increase its share of the world market for a particular product. To construe "world market share" as referring to a Member's share of world consumption of a product would therefore completely subvert the underlying rationale of Article 6.3(d).
+3. The United States has a "more than equitable share" of world export trade in upland cotton
+2.35 Brazil has demonstrated that the United States subsidies have operated to increase United States exports of upland cotton resulting in the United States having a "more than equitable share" of world export trade in upland cotton within the meaning of GATT Article XVI:3 and has thus caused serious prejudice to the interests of Brazil within the meaning of GATT Article XVI:1.45
+2.36 The United States seeks to dismiss the relevance of GATT Article XVI:3 by reference to preUruguay Round comment by the Panel on Wheat Flour46, addressing the Tokyo Round Subsidies Code, in an unadopted report, that there are "difficulties inherent in the concept of `more than equitable share'."47 The United States also seeks to assert that "Members are generally permitted to
+43 Further Submission of Brazil, para 267 and Figure 24. 44 Ibid, paras 271 ­ 272. 45 Further Submission of Brazil, part 3.5. 46 GATT Panel Report, EEC ­ Subsidies on Export of Wheat Flour, SCM/42, (unadopted). 47 Further Submission of the US, paras 108 and 109.
+
+WT/DS267/R/Add.1 Page E-74
+provide subsidies."48 That is true up to the point at which those subsidies cause serious prejudice to the interests of the other Members. And in this context the Panel should consider whether, as the world's largest exporter of upland cotton with average levels of subsidisation of 95 per cent, the United States has a "more than equitable" share of world export trade. New Zealand submits that Brazil has demonstrated that the United States does.
+4. Issues relating to particular United States subsidies
+2.37 Brazil sets out arguments relating to the full complement of United States subsidies and the serious prejudice they cause both individually and collectively. New Zealand will comment only on marketing loan payments, Step 2 payments and market loss assistance/counter-cyclical payments.
+(i) Marketing Loan Payments
+2.38 Brazil has highlighted that these payments are considered by the USDA and by other economists as having the greatest production and export enhancing effects and thus the greatest AIndex price suppressing effects of all the United States subsidies.49 Brazil has described how the effect of the marketing loan programme is to increase production, increase exports of upland cotton, and suppress upland cotton prices (on average by 5.75% in MY 1999-2002).50 The marketing loan programme is thus responsible for almost half of the estimated average price suppressing effects of the United States subsidies.
+(ii) Step 2 Payments
+2.39 The availability of Step 2 payments increases production in the United States, displaces imports of lower priced foreign upland cotton and enables additional United States exports of upland cotton. The Step 2 payment programme is specifically designed to stimulate export demand for United States upland cotton. Brazil has shown that the trade distorting effect of the Step 2 payments is widely acknowledged.51 Professor Sumner estimates that Step 2 payments suppressed world prices between MY 1999-2002 by 3.04 per cent.52
+2.40 Brazil has demonstrated that Step 2 domestic payments are a prohibited subsidy under Article 3.1(b) of the SCM Agreement in that the payments are contingent on the use of domestic over imported upland cotton and thus also violate Article III.4 of GATT 1994.
+(iii) Market loss assistance/Counter-cyclical payments
+2.41 The United States continues to argue that market loss assistance payments and countercyclical payments (CCP) are not linked to production and accordingly cannot have "effects" for the purposes of Article 6.3(c) nor operate to increase exports as required by GATT Article XVI:3.53 The United States implies that their production effects are less than one percent.54 However Professor Sumner's analysis shows that although their production effects were less than one percent in 1999, since then they have been significantly higher and are projected to increase in the future.55 He
+48 Ibid, para 105. 49 Further Submission of Brazil, para 17. 50 Ibid, para 157. 51 Ibid, para 287. 52 Ibid, Table 12. 53 Further Submission of the US, para 74. 54 Ibid, paras 73 and 74. 55 Further Submission of Brazil, Annex 1, Table I.4.
+
+WT/DS267/R/Add.1 Page E-75
+concluded that these payments have a production impact because their effect is to keep land in the production of upland cotton that would not be otherwise because of low prices.56
+2.42 As outlined by New Zealand in its First Written Submission to the Panel, the CCP payments create incentives for farmers with upland cotton base acreage to maintain upland cotton production.57 New Zealand pointed out that in fact under the CCP programme the only way a farmer can guarantee a particular income is to continue to grow the same crop, otherwise the farmer runs the risk of missing out. For example, if he or she chooses to produce wheat and cotton prices are high enough that no CCP payment is made but wheat prices fall, the farmer will make a loss they would not have made had they stayed with cotton production. This, combined with other factors set out by Brazil,58 for example the investment by farmers in cotton-specific machinery, virtually guarantees farmers will continue to produce cotton. The CCP payments are thus far from "de-coupled" in effect.
+2.43 In fact Professor Sumner concluded that the CCP payments (as the institutionalised marketing loss assistance payments are now known under the Farm Security and Rural Investment Act 200259) create more production incentive than the market loss payments, through base and yield updating and the increased per pound amount of support.60 Professor Sumner determined that the market loss assistance payments and the CCP payments stimulated production by an average of 1.34% during MY 1999-2002.61 And, as noted by Brazil, the full effects of the greater production incentives inherent in the CCP programme will only be realised in MY 2003.
+III. THREAT OF SERIOUS PREJUDICE
+3.01 Brazil has brought evidence to show that the United States subsidies are not only causing serious prejudice to Brazil's interests today, but also threaten to cause serious prejudice to Brazil's interests in the future. Brazil has demonstrated that the United States subsidies cause a threat of serious prejudice to Brazil's interests within the meaning of Articles 5(c), 6.3(c) and 6.3(d) of the SCM Agreement, as well as GATT Article XVI:3 in the period MY 2003-2007 because of the continued operation of the Farm Security and Rural Investment Act 2002 and the Agricultural Risk Protection Act 2000.
+3.02 Brazil has demonstrated that the very same factors creating present serious prejudice also create a threat of serious prejudice in the future. The United States subsidies are mandated to continue until MY 2007. They are effectively unlimited. Brazil has demonstrated that they have already caused serious prejudice to Brazil's interests. Their continued operation for a further four years cannot but be considered to threaten further serious prejudice to Brazil's interests.
+3.03 The United States argues that the two standards proposed by Brazil are incorrect and that Brazil has, in any event, met neither of them.
+3.04 To take Brazil's first proposed legal standard, Brazil argues, drawing on the findings of the GATT Panel in EC ­ Sugar Exports I62 and EC ­ Sugar Exports II63 and the Appellate Body in US ­
+56 Ibid, para 169. 57 New Zealand's First Submission, para 2.20. 58 Further Submission of Brazil, para 207. 59 Ibid, para 62. 60 Ibid, para 171. 61 Ibid, para 172. 62 GATT Panel Report, European Communities ­ Refunds on Exports of Sugar (Complaint by Australia), L4833 ­ 26S/290, adopted 6 November 1979. 63 GATT Panel Report, European Communities ­ Refunds on Exports of Sugar (Complaint by Brazil), L5011 ­ 27S/69, adopted 10 November 1980.
+
+WT/DS267/R/Add.1 Page E-76
+FSC,64 that where there is effectively no limit on the provision of a subsidy a permanent source of uncertainty exists that threatens serious prejudice to other WTO Members. In such circumstances there is no check on the provision of a subsidy that would prevent it from causing adverse effects to the interests of other Members.
+3.05 That is the precise situation in the present case. United States legislation requires the provision of the subsidies irrespective of whether or not those subsidies have adverse effects on other Members. In that respect it is important to bear in mind that the present case involves a level of subsidisation of, on average, 95 per cent, with a dollar value of US$12.9 billion, being provided by a country that currently has a 41.6 per cent share of the world market for upland cotton. The possibility that United States subsidies will continue to cause serious prejudice to the interests of Brazil in the future, is a real one ­ it is well removed from the realm of "allegations, conjecture or remote possibility" alluded to by the United States.65
+3.06 In that respect Brazil's second proposed legal standard for determining whether such a threat exists is highly relevant. As Brazil has demonstrated, all of the factors that currently exist that mean that the United States subsidies cause serious prejudice to their interests will continue to exist in the future. Furthermore, United States producers of upland cotton will act in the expectation of future subsidy payments and will make their planting decisions accordingly. Therefore the fact that the legislation creating those subsidies will continue until 2007, and United States producers know that those subsidy programmes will continue until 2007, creates a very strong prima facie case that those subsidies will continue to cause serious prejudice to Brazil for the full term of their existence.
+3.07 Finally New Zealand supports Brazil's request that if the Panel makes a finding of present serious prejudice, it should not feel constrained in making a further finding that the subsidies also create a threat of serious prejudice in the future.66 Firstly, even though the present effects of the subsidies are already being felt, their future effects have not yet eventuated and therefore necessarily remain a threat. Secondly, the purpose of dispute settlement is to assist Members in the resolution of disputes ­ in this case a finding by the Panel on the threat of future serious prejudice is important to resolve this dispute.
+IV. EXPORT CREDIT GUARANTEE PROGRAMMES
+4.01 New Zealand notes that the United States raises further arguments in relation to the negotiating history and appropriate interpretation of Article 10.2 of the Agreement on Agriculture in order to support its claim that there are currently no export subsidy disciplines on the use of export credit guarantee programmes.
+4.02 However the United States does not address the applicability of Article 10.1. As outlined by New Zealand in its First Submission, Article 10.2 does not in any way suggest that it provides an exception from the disciplines of Article 10.1. While Article 10.1 currently provides the only discipline on the use of export credits, it is expected that the work envisaged in Article 10.2 will elaborate further and more specific disciplines that will presumably make identification of the extent to which such export credit programmes constitute export subsidies more straightforward. However it is incorrect to assume that there is a vacuum in the meantime. Item j of the Illustrative List of the SCM Agreement clearly already provides guidance on when export credit guarantee or insurance programmes are to be considered to be `export subsidies' and beyond this the general definition in Articles 1.1 and 3.1(a) of the SCM Agreement also applies.
+64 Appellate Body Report, United States ­ Tax Treatment for "Foreign Sales Corporation", WT/DS108/AB/R, adopted 20 March 2000.
+65 Further Submission of the US, para 115. 66 Further Submission of Brazil, para 291.
+
+WT/DS267/R/Add.1 Page E-77
+V. CONCLUSION
+5.01 In conclusion, New Zealand considers that Brazil has provided the legal and factual basis upon which the Panel should conclude that the United States subsidies cause or threaten to cause serious prejudice to the interests of Brazil within the meaning of Articles 5(c), 6.3(c) and 6.3(d) of the SCM Agreement and violate GATT Article XVI. New Zealand therefore requests the Panel to make the findings and recommendations requested by Brazil.
+
+WT/DS267/R/Add.1 Page E-78
+ANNEX E-8
+SECOND WRITTEN SUBMISSION OF PARAGUAY (THIRD PARTY)
+3 October 2003
+1. Paraguay is grateful for the opportunity to express its views in this dispute.
+2. As already stated, Paraguay maintains that the subsidies and support granted to cotton production of the type at issue are inconsistent with the Agreement on Subsidies and Countervailing Measures and other WTO rules.
+3. The agricultural subsidies cause serious prejudice to the domestic industries of many WTO Members, in violation of Articles 5 and 6 of the Agreement on Subsidies and Countervailing Measures. Indeed, these measures involve a financial contribution which, by conferring a benefit, could adversely affect the determination of the world price of the product.
+4. Article 5(c) stipulates that "no Member should cause, through the use of any subsidy [-specific and not exempted under the Agreement ­] adverse effects to the interests of other Members, i.e.: ... (c) serious prejudice to the interests of another Member."
+5. The threat of serious prejudice takes the form of price undercutting and unfairness in international trade, particularly as regards developing countries like Paraguay, which is highly dependent on its cotton production.
+6. Article 6, which concerns serious prejudice, states that serious prejudice in the sense of paragraph (c) of Article 5 shall be deemed to exist in the case of subsidies to cover operating losses sustained by an enterprise, other than one-time measures which are non-recurrent and cannot be repeated for that enterprise and which are given merely to provide time for the development of long-term solutions and to avoid acute social problems; and direct forgiveness of debt, i.e. forgiveness of government-held debt, and grants to cover debt repayment.
+7. Paraguay submits that the measures adopted by the United States do not fit these descriptions and cause injury to its economy, Paraguay being a predominantly agricultural country.
+8. Because of the amounts involved, the subsidies granted to the cotton industry have a significant impact on the world market as reflected in increased production and export and price variations on the global market.
+9. In the International Cotton Advisory Committee (ICAC) as in other forums, governments have remarked on the critical situation that the world cotton industry is going through and its link to subsidies, stressing the need to submit complaints before the WTO for violation of the applicable rules. The Committee considers that without the subsidization, the average world cotton price would undergo a reasonable increase.
+10. Paraguay's cotton trade is affected by such measures because cotton production has a considerable impact on its economy, and especially on its rural populations which depend on cotton for their livelihood. In the sectors involved, such as transport and related industries, the impact is considerable, with approximately 30 per cent of the population affected.
+
+WT/DS267/R/Add.1 Page E-79
+11. Thus, the impact on trade in countries like Paraguay is devastating and causes the migration of rural populations to the urban areas, further aggravating the economic situation of a country dependent on its agriculture.
+12. As shown in the attached table, cotton fibre exports to the United States was 518 tons, for a value of US$898,000.
+13. The effect is clear: in 2001, the volume of exports to the same market practically doubled, reaching 924 tons, and yet the price decreased in equal proportions, with exports generating US$830,000. The world cotton trade figures reflect the same trend.
+CONCLUSION
+14. There is sufficient evidence to prove that the subsidies are causing problems to the international marketing of cotton and that the American subsidies are further aggravating the situation of cotton exports from Paraguay.
+15. We respectfully request the Panel to find that the measure applied by the United States is inconsistent with the obligations laid down by the WTO in various provisions of the GATT 1994 and the Agreement on Subsidies on Countervailing Measures, and to take account of the arguments put forward by Brazil.
+
+PARAGUAYAN COTTON EXPORTS BY DESTINATION (Tons / ThUS$)
+
+WT/DS267/R/Add.1 Page E-80
+
+GERMANY ARGENTINA BANGLADESH BELGIUM BERMUDA BOLIVIA BRAZIL COLOMBIA SOUTH KOREA NORTH KOREA CHILE NATIONALIST CHINA (TAIWAN)
+CHINA, PEOPLE'S REPUBLIC OF
+DENMARK SLOVAKIA SPAIN UNITED STATES PHILIPPINES FRANCE HONG KONG NETHERLANDS INDIA INDONESIA ITALY MALAYSIA NIGERIA PAKISTAN PANAMA
+
+1997 VOLUME
+0 150
+0 0 473 0 39,898 0 0 0 845 0
+0
+0 0
+518 0 0 0 0 0 0 0 0 0 0 0
+
+VALUE 0 46 0 0
+757 0
+64,492 0 0 0
+1,509 0
+0
+0 0
+898 0 0 0 0 0 0 0 0 0 0 0
+
+1998 VOLUME
+0 4,623
+0 0 0 0 47,267 0 79 0 624 191
+0
+0 0
+0 0 0 0 0 0 0 462 0 0 0 0
+
+VALUE 0
+6,594 0 0 0 0
+64,914 0
+102 0
+938 219
+0
+0 0
+0 0 0 0 0 0 0 550 0 0 0 0
+
+1999 VOLUME
+193 649
+0 0 0 0 47,115 0 0 0 1,107 0
+0
+0 0
+0 102
+0 0 500 0 0 0 0 0 0 0
+
+VALUE 179 759 0 0 0 0
+55,933 0 0 0
+1,208 0
+0
+0 0
+0 119
+0 0 606 0 0 0 0 0 0 0
+
+2000 VOLUME
+1,215 1,250
+461 0 0
+1,200 56,726
+1,660 0 0
+1,183 0
+698
+0 0 313 60 33 0 1,116 0 526 120 25 500 0 68 0
+
+VALUE 1,229 1,460 532 0 0 1,084
+61,113 1,556 0 0 1,309 0
+769
+0 0 364 67 39 0 1,188 0 408 116 23 449 0 65 0
+
+2001 VOLUME
+6,029 250 630 266 0 0
+31,063 200 98 605 424
+2,126
+1,310
+0 100 18 924 569 231 148
+62 33,463
+2,461 360 130 241
+1,006 0
+
+VALUE 4,594 231 568 215 0 0
+29,465 224 92 557 404
+1,865
+1,230
+0 76 19 830 616 187 111 41 28,267 2,295 345 109 229 790 0
+
+2002 VOLUME
+2,877 5,001
+155 149
+0 0 29,599 0 0 0 1,675 579
+0
+128 0 0 0
+155 104 185
+0 3,088
+582 363
+0 0 0 48
+
+VALUE 1,981 4,132 119 128 0 0
+22,877 0 0 0
+1,262 450
+0
+102 0 0 0
+132 83
+123 0
+2,738 453 271 0 0 0 29
+
+PORTUGAL UNITED KINGDOM
+SWITZERLAND THAILAND TURKEY URUGUAY VENEZUELA VIETNAM TOTAL
+
+1997 VOLUME
+0 0
+
+VALUE 0 0
+
+1998 VOLUME
+0 0
+
+VALUE 0 0
+
+1999 VOLUME
+0 0
+
+VALUE 0 0
+
+2000 VOLUME
+0 0
+
+VALUE 0 0
+
+2001 VOLUME
+989 2
+
+VALUE 702 1
+
+2002 VOLUME
+200 0
+
+VALUE 133 0
+
+0 0 0 2,684 720 0 45,288
+
+0 0 0 3,927 1,227 0 72,856
+
+0 0 0 1,165 459 0 54,870
+
+0 0 0 1,453 649 0 75,419
+
+0 0 0 501 1,942 0 52,109
+
+0 0 0 601 2,140 0 61,545
+
+200 397 819 475 4,403
+0 73,448
+
+216 403 886 529 4,687
+0 78,492
+
+592 2,298 2,244
+198 4,035
+602 93,674
+
+551 1,959 2,431
+200 3,731
+533 83,468
+
+251 294
+0 65 632 0 46,130
+
+169 198
+0 53 528 0 35,961
+
+Prepared by the Paraguayan Directorate of Foreign Trade. Source: Central Bank of Paraguay.
+
+WT/DS267/R/Add.1 Page E-81
+
+

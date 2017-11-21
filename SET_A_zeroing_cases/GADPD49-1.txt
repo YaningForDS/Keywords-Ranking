@@ -1,0 +1,468 @@
+WORLD TRADE ORGANIZATION
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 19 June 2003
+(03-3263)
+Original: English
+
+UNITED STATES ­ LAWS, REGULATIONS AND METHODOLOGY FOR CALCULATING DUMPING MARGINS ("ZEROING")
+Request for Consultations by the European Communities
+The following communication, dated 12 June 2003, from the Permanent Delegation of the European Commission to the Permanent Mission of the United States and to the Chairman of the Dispute Settlement Body, is circulated in accordance with Article 4.4 of the DSU.
+_______________
+On behalf of the European Communities (the "EC"), I hereby request consultations with the United States of America pursuant to Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes, Article XXII:1 of the General Agreement on Tariffs and Trade 1994 (the "GATT") and Article 17 of the Agreement on implementation of Article VI of the General Agreement on Tariffs and Trade 1994 (the "ADA").
+This request is with respect to:
+­ the Tariff Act of 1930 (the "Act"), in particular sections 751, 771(35)(A) and 771(35)(B),
+­ the implementing regulation1 of the United States Department of Commerce (the "DOC"), in particular section 351.414(c)(2),
+­ the methodology of the DOC for determining the dumping margin in new investigations on the basis of the comparison of a weighted average normal value with a weighted average export price,
+­ the methodology of the DOC for determining the dumping margin in reviews,
+­ the determinations of dumping by the DOC, the determination of injury by the United States International Trade Commission and the DOC notice for the imposition of the anti-dumping duty in the cases listed in Annex I,
+­ and the final results of the anti-dumping administrative reviews listed in Annex II.
+The matters, which the EC would like to raise in the course of the consultations include, but are not limited to, the following:
+1 19 CFR Section 351.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 2
+(1) in new investigations, the zeroing of negative dumping margins when comparing export prices and normal values on a weighted average to weighted average basis;
+(2) in reviews, the comparison of export prices and normal values on a weighted average to transaction basis and the zeroing of negative dumping margins in circumstances other than those specified in Article 2.4.2 of the ADA;
+(3) the impact of zeroing negative dumping margins in the determination of the "dumped imports" in the injury investigation;
+(4) the determination of dumping margins above de minimis level as a result of zeroing negative dumping margins and the consequent imposition, continuation or collection of an antidumping duty;
+(5) the level of the dumping margins in the absence of zeroing in the cases listed in Annex I and Annex II
+The EC is concerned that the Act, related regulations, US methodologies and determinations in the listed cases appear to be, in several respects, not in conformity with the obligations of the United States under the GATT, and the ADA, in particular under:
+­ Articles 1, 2.4 (including 2.4.2), 3, 5.8, 9.3, 9.5, 11 and 18.3 of the ADA,
+­ Articles VI:1 and VI:2 of the GATT,
+­ Article XVI:4 of the Marrakech Agreement establishing the WTO and Article 18.4 of the ADA.
+We reserve the right to raise additional claims and legal matters regarding the legislation and practice during the course of the consultations.
+We look forward to receiving your reply to this request to setting a mutually convenient date for these consultations.
+
+Product 1. Certain hot-rolled carbon steel
+2. Stainless steel bar 3. Stainless steel bar
+4. Stainless steel bar
+5. Stainless steel bar
+
+ANNEX I
+
+IMPOSITION OF ANTI-DUMPING DUTY
+
+MS
+
+DOC Case Number
+
+DOC Final Determination
+
+ITC Case Number
+
+NL A-421-807 66 FR 50408, October 3, 2001 A-903
+
+(amended: 66 FR 55637,
+
+November 2, 2001)
+
+F A-427-820 67 FR 3143, January 23, 2002
+
+A-913
+
+G A-428-830 I A-475-829 UK A-412-822
+
+67 FR 3159, January 23, 2002 (amended: 67 FR 10382, March 7, 2002) 67 FR 3155, January 23, 2002 (amended: 67 FR 8228, February 22, 2002) 67 FR 3146, January 23, 2002
+
+A-914 A-915 A-918
+
+ITC Determination
+
+AD Order
+
+November 2001
+
+66 FR 59565, November 29, 2001
+
+February 2002 February 2002
+
+67 FR 10385, March 7, 2002 67 FR 10382, March 7, 2002
+
+February 2002
+
+67 FR 10384, March 7, 2002
+
+February 2002
+
+67 FR 10381, March 7, 2002
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 3
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 4
+United States ­ Anti-Dumping duties on Imports of Certain Hot-Rolled Carbon Steel Flat Products from the Netherlands
+Specific Case No. l
+The measure
+This case concerns the imposition of anti-dumping duties on Certain Hot-Rolled Carbon Steel Flat products from the Netherlands (US case number A-421-807, 66 FR 59565 of 29 November 2001). The rate of the ad valorem anti-dumping duty was 2.59% for Corus Staal BV and all others.
+Use of zeroing
+In the United States Department of Commerce's investigation of Hot-Rolled Carbon Steel Flat Products from the Netherlands ("Hot-Rolled Steel"), the Department of Commerce (DOC) utilised a methodology commonly referred to as "zeroing".
+The practice of "zeroing", as applied in this case by the DOC, can briefly be described as follows.
+First, the DOC identified a number of different "models" or "types" of Hot-Rolled Steel, called connums.
+Next, the DOC calculated, for each of these models, a weighted average normal value and a weighted average export price. Then, the DOC compared the weighted average normal value with the weighted average export price for each model. For some models, normal value was higher than export price; by subtracting export price from normal value for these models, the DOC established a "positive dumping margin" for each model. For other models, normal value was lower than export price; by subtracting export price from normal value for these other models, DOC established a "negative dumping margin" for each model. Thus, there is a "positive dumping margin" where there is dumping, and a "negative dumping margin" where there is not. The "positives" and "negatives" of the amounts in this calculation are an indication of precisely how much the export price is above or below the normal value.
+Having made this calculation, the DOC then added up the amounts it had calculated as "dumping margins" for each model of the product in order to determine an overall dumping margin for the product as a whole. However, in doing so, the DOC treated any "negative dumping margin" as zero ­ hence the use of the word "zeroing". Then, finally, having added up the "positive dumping margins" and the zeroes, the DOC divided this sum by the cumulative total value of all the export transactions involving all types and models of that product. In this way, the DOC obtained an overall margin of dumping for the product under investigation.
+This methodology is identical to the methodology that was held in breach of the WTO Anti-Dumping Agreement in European Communities - Anti-Dumping Duties on Imports of CottonType Bed Linen from India, (Panel Report, WT/DS141/R and Appellate Body Report, WT/DS141/AB/R, adopted 12 March 2001).
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 5
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 2.59% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ..%] (negative) and the case would have been terminated.
+United States ­ Anti-Dumping Duties on Imports of Stainless Steel Bar from France
+Specific Case No. 2
+The measure
+This case concerns the imposition of anti-dumping duties on Stainless Steel Bar from France (US case number A-427-820, 67 FR 10385 of 7 March 2002). The rates of the ad valorem anti-dumping duty were 71.83% for Aubert & Duval S.A, 3.90% for Ugine-Savoie Imphy and all others.
+Use of zeroing
+In the United States Department of Commerce's investigation of Stainless Steel Bar from France, the Department of Commerce (DOC) utilised the same "zeroing" methodology as described under Specific Case No. 1.
+Dumping margin without zeroing
+In particular, by using the above methodology, DOC calculated a dumping margin of 3.90% for Ugine-Savoie Imphy SA while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ..%] (negative) and the case would have been terminated with respect to this exporter.
+United States ­ Anti-Dumping Duties on Imports of Stainless Steel Bar from Germany
+Specific Case No. 3
+The measure
+This case concerns the imposition of anti-dumping duties on Stainless Steel Bar from Germany (US case number A-428-830, 67 FR 10382 of 7 March 2002). The rates of the ad valorem anti-dumping duty were 13.63% for BGH, 4.17% for Einsal, 15.40% for EWK, 32.32% for KEP and 16.96% for all others.
+Use of zeroing
+In the United States Department of Commerce's investigation of Stainless Steel Bar from Germany , the Department of Commerce (DOC) utilised the same "zeroing" methodology as described under Specific Case No. 1.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 6
+Dumping margin without zeroing
+In particular, by using the above methodology, DOC calculated a dumping margin:
+­ of 13.63% for BGH. Without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [..%] (lower).
+­ of 4.17% for Einsal. Without the zeroing methodology, the dumping margin would have been of [..%] (de minimis) and the case would have been terminated with respect to this exporter.
+­ of 15.40% for EWK. Without the zeroing methodology the dumping margin would have been [..%] (lower).
+­ of 32.32% for KEP. Without the zeroing methodology the dumping margin would have been [..%] (lower).
+United States ­ Anti-Dumping Duties on Imports of Stainless Steel Bar from Italy
+Specific Case No. 4
+The measure
+This case concerns the imposition of anti-dumping duties on Stainless Steel Bar from Italy (US case number A-475-829, 67 FR 10384 of 7 March 2002). The rates of the ad valorem anti-dumping duty were 2.50% for Acciaierie Valbruna Srl/Acciaierie Bolzano D.p.A, 7.07% for Acciaiera Foroni SpA, 3.83% for Rodacciai S.p.A, 33% for Cogne Acciai Speciali Srl and 3.81% for all others.
+Use of zeroing
+In the United States Department of Commerce's investigation of Stainless Steel Bar from Italy, the Department of Commerce (DOC) utilised the same "zeroing" methodology as described under Specific Case No. 1.
+Dumping margin without zeroing
+In particular, by using the above methodology, DOC calculated a dumping margin:
+­ of 2.50% for Acciaierie Valbruna Srl/Acciaierie Bolzano S.p.A. Without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-..%] (negative) and the case would have been terminated with respect to this exporter.
+­ of 7.07% for Acciaiera Foroni Spa. Without the zeroing methodology the dumping margin would have been [..%] (lower).
+­ of 3.83% for Rodacciai SpA. Without the zeroing methodology the dumping margin would have been [...%] (lower).
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 7
+United States ­ Anti-Dumping Duties on Imports of Stainless Steel Bar from the United Kingdom
+Specific Case No. 5
+The measure
+This case concerns the imposition of anti-dumping duties on Stainless Steel Bar from the United Kingdom (US case number A-412-822, 67 FR 10381 of 7 March 2002). The rates of the ad valorem anti-dumping duty were 4.48% for Corus Engineering Steels, Ltd, 125.77% for Crownridge Stainless Steel, Ltd/Valkia Ltd and Firth Rixson Special Steels, Ltd and 4.48% for all others.
+Use of zeroing
+In the United States Department of Commerce's investigation of stainless steel bar from the United Kingdom, the Department of Commerce (DOC) utilised the same "zeroing" methodology as described under Specific Case No. 1.
+Dumping margin without zeroing
+In particular, by using the above methodology, DOC calculated a dumping margin of 4.48% for Corus Engineering Steels, Ltd while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative) and the case would have been terminated with respect to this exporter.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 8
+
+Product 6. Industrial Nitrocellulose
+
+MS No Case F A-427-009
+
+ANNEX II
+
+ADMINISTRATIVE REVIEWS
+
+Final Results
+
+Amended Final Results
+
+66 FR 54213,
+
+October 26, 2001
+
+Company Bergerac NC
+
+Dumping Period covered by the
+
+Margin
+
+Review
+
+3.26% 1 August 99-31 July 00
+
+7. Industrial Nitrocellulose
+
+UK A-412-803 67 FR 77747, December 19, 2002
+
+Imperial Chemical 3.06% Industries
+
+1 July 00-30 June 01
+
+8. Stainless steel plate in coils B A-423-808 67 FR 64352, October 18, 2002
+
+ALZ NV & TrefilARBED (affiliated US importer)
+
+3.84% 1 May 00-30 April 01
+
+9. Certain pasta
+
+I A-475-818 66 FR 300, January 3, 2002
+
+67 FR 5088, February 4, 2002
+
+Ferrara Pallante PAM
+
+1.25% 1.78% 4.10%
+
+1 July 99-30 June 00
+
+10. Certain pasta
+
+I A-475-818 68 FR 6882, February 11, 2003
+
+Pastifi Garofalo
+
+0.55%
+
+1 July 00-30 June 01
+
+11. Stainless steel sheet strip I A-475-824 67 FR 1715, coils January 14, 2002
+
+Acciai Speciali Terni SpA
+
+0.66% 4 January 99-30 June 00
+
+12. Stainless steel sheet strip I A-475-824 68 FR 6719, coils February 10, 2003
+
+Acciai Speciali Terni SpA
+
+5.84% 1 July 00-30 June 01
+
+13. Granular polytetrafluoenthylene
+
+I A-475-703 67 FR 1960, January 15, 2002
+
+Ausimont SpA
+
+2.15% 1 August 99-31 July 00
+
+14. Granular polytetrafluoenthylene
+
+I A-475-703 68 FR 2007, January 15, 2003
+
+Ausimont SpA
+
+12.08% 1 August 00-31 July 01
+
+15. Stainless steel sheet strip coils
+
+F A-427-814 67 FR 6493,
+
+67 FR 12522,
+
+February 12, 2002 March 19, 2002
+
+Ugine
+
+3.00% 4 January 99-30 June 00
+
+16. Stainless steel sheet strip coils 17. Stainless steel sheet strip coils 18. Stainless steel sheet strip coils 19. Ball bearings
+20. Ball bearings
+21. Ball bearings
+
+F A-427-814 67 FR 78773,
+
+68 FR 4171,
+
+December 26, 2002 January 28, 2003
+
+G A-428-825 67 FR 7668,
+
+67 FR 15178,
+
+February 20, 2002 March 29, 2002
+
+G A-428-825 68 FR 6716, February 10, 2003
+
+F A-427-801 67 FR 55780, August 30, 2002
+
+I A-475-801 67 FR 55780, August 30, 2002
+
+UK A-412-801 67 FR 55780, August 30, 2002
+
+Ugine
+
+1.44% 1 July 00-30 June 01
+
+KTN
+
+2.61% 4 January 99-30 June 00
+
+TKN
+
+4.77% 1 July 00-30 June 01
+
+SKF France SA and 8.51% Sarma
+
+FAG Italia SpA
+
+1.42%
+
+SKF Industrie SpA 3.70%
+
+NSK Bearings Europe Ltd The Barden Corporation UK
+
+16.87% 3.87%
+
+1 May 00-30 April 01 1 May 00-30 April 01 1 May 00-30 April 01
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 9
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 10
+United States ­ Anti-Dumping Administrative Review on Imports of Industrial Nitrocellulose from France
+Specific Case No.6
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Industrial Nitrocellulose from France, produced and exported by Bergerac NC. (US case number A-427-009, 66 FR 54213 of 26 October 2001). The period of review is 1 August 1999 through 31 July 2000 and the rate of anti-dumping duty for Bergerac NC was 3.26% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, can briefly be described as follows. First, the DOC identified with respect to the product under investigation a certain number of different "models" or "types" of that product, what it calls Connum.- a common practice for both investigations and administrative reviews-.
+Then, unlike in a new investigation, in an administrative review the DOC does not compare the average US price (export price) to the average home market price (normal value) for the whole investigation period. Instead, the DOC's practice is to compare the US net price for each individual US transaction to the most contemporaneous monthly average normal value.
+The total value of the dumping margin is then calculated by aggregating only the transactionspecific positive dumped values and then multiplying the quantity sold in the US market for each model by the unit dumped value to arrive at the total dollars dumped. Comparisons of individual US transactions to weighted-average monthly normal value that yield negative margins are ignored (effectively treated as zero). The DOC applies this methodology in circumstances other than those specified in Article 2.4.2 of the ADA.
+Because DOC determines margins on a transaction-specific basis in administrative reviews, no offsetting of negative margins is performed at either the Connum-specific or aggregate level. The DOC's methodology of aggregating the values of only the positive dumping margins based on the individual transactions means that there is no offset against the positive values at any stage.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 3.26%. while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [...%] (lower).
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 11
+United States ­ Anti-Dumping Administrative Review on Imports of Industrial Nitrocellulose from the United Kingdom
+Specific Case No.7
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Industrial Nitrocellulose from the United Kingdom, produced and exported by Imperial Chemical Industries PLC. (US case number A-412-803, 67 FR 77747 of 19 December 2002). The period of review is 1 July 2000 through 30 June 2001 and the rate of anti-dumping duty for Imperial Chemical Industries was 3.06% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 3.06% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Plate in Coils from Belgium
+Specific Case No.8
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Plate in Coils from Belgium, produced and exported by ALZ NV (US case number A-423-808, 67 FR 64352 of 18 October 2002). The period of review is 1 May 2000 through 30 April 2001 and the rate of anti-dumping duty for ALZ NV was 3.84% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 3.84% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ..%] (negative) and no anti-dumping duty would have been collected.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 12
+United States ­ Anti-Dumping Administrative Review on Certain Pasta from Italy
+Specific Case No.9
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Certain Pasta from Italy, produced and exported by Pastificio Guido Ferrara S.r.L. (Ferrara), Pastificio Antonio Pallante S.r.L. (Pallante) and PAM S.r.L. (PAM). (US case number A-475-818, 66 FR 300 of 3 January 2002, 67 FR 5088 of 4 February 2002). The period of review is 1 July 1999 through 30 June 2000 and the rate of anti-dumping duty was, ad valorem, 1.25% for Ferrara, 1.78% for Pallante, 4.10% for PAM.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated for Ferrara a dumping margin of 1.25% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [...%] (lower).
+As for Pallante, DOC calculated a dumping margin of 1.78%, while without the zeroing methodology (i.e. the negative unit margins included), the dumping margin would have been [...%] (lower).
+As for PAM, DOC calculated a dumping margin of 4.10%, while without the zeroing methodology (i.e. the negative unit margins included), the dumping margin would have been de minimis.
+United States ­ Anti-Dumping Administrative Review on Certain Pasta from Italy
+Specific Case No.10
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Certain Pasta from Italy, produced and exported by Pastificio Garofalo S.p.A. (US case number A-475-818, 68 FR 6882 of 11 February 2003). The period of review is 1 July 2000 through 30 June 2001 and the rate of antidumping duty was 0.55% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 13
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 0.55% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [...%] (lower).
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet Strip in Coils from Italy
+Specific Case No.11
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet Strip in Coils from Italy, produced and exported by Acciai Speciali Terni SpA (US case number A-475-824, 67 FR 1715 of 14 January 2002). The period of review is 4 January 1999 through 30 June 2000 and the rate of anti-dumping duty for Acciai Speciali Terni SpA was 0.66% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 0.66% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-...%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet Strip in Coils from Italy
+Specific Case No.12
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet Strip in Coils from Italy, produced and exported by Acciai Speciali Terni SpA (US case number A-475-824, 68 FR 6719 of 10 February 2003). The period of review is 1 July 2000 through 30 June 2001 and the rate of anti-dumping duty for Acciai Speciali Terni SpA was 5.84% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 14
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 5.84% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative).
+United States ­ Anti-dumping Administrative Review on Imports of Granular Polytetrafluoroenthylene Resin from Italy
+Specific Case No.13
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Granular Polytetrafluoroenthylene resin from Italy, produced and exported by Ausimont SpA. (US case number A-475-703, 67 FR 1960 of 15 January 2002). The period of review is 1 August 1999 through 31 July 2000 and the rate of anti-dumping duty for Ausimont SpA SA was 2.15% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 2.15% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [...%] (lower).
+United States ­ Anti-Dumping Administrative Review on Imports of Granular Polytetrafluoroenthylene Resin from Italy
+Specific Case No.14
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Granular Polytetrafluoroenthylene Resin from Italy, produced and exported by Ausimont SpA. (US case number A-475-703, 68 FR 2007 of 15 January 2003). The period of review is 1 August 2000 through 31 July 2001 and the rate of anti-dumping duty for Ausimont SpA SA was 12.08% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 15
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 12.08% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [...%] (lower).
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet and Strip in Coils from France
+Specific Case No.15
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet and Strip in Coils from France, produced and exported by Ugine (US case number A-427-814, 67 FR 6493 of 12 February 2002, 67 FR 12522 of 19 March 2002). The period of review is 4 January 1999 through 30 June 2000 and the rate of anti-dumping duty for Ugine was 3.00% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 3.00% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet and Strip in Coils from France
+Specific Case No.16
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet and Strip in Coils from France, produced and exported by Ugine SA (US case number A-427-814, 67 FR 78773 of 26 December 2002, 68 FR 4171 of 28 January 2003). The period of review is 1 July 2000 through 30 June 2001 and the rate of anti-dumping duty for Ugine SA was 1.44% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 16
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 1.44% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet and Strip in Coils from Germany
+Specific Case No.17
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet and Strip in Coils from Germany, produced and exported by KTN (US case number A-428-825, 67 FR 7668 of 20 February 2002, 67 FR 15178 of 29 March 2002). The period of review is 4 January 1999 through 30 June 2000 and the rate of anti-dumping duty for KTN was 2.61% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 2.61% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ..%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Stainless Steel Sheet and Strip in Coils from Germany
+Specific Case No.18
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Stainless Steel Sheet and Strip in Coils from Germany, produced and exported by TKN (US case number A-428-825, 68 FR 6716 of 10 February 2003). The period of review is 1 July 2000 through 30 June 2001 and the rate of anti-dumping duty for TKN was 4.77% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630
+G/ADP/D49/1 Page 17
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 4.77% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [­ ..%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Ball Bearings from France
+Specific Case No.19
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Ball Bearings from France, produced and exported by SKF France SA and Sarma (US case number A-427-801, 67 FR 55780of 30 August 2002). The period of review is 1 May 2000 through 30 April 2001 and the rate of anti-dumping duty for SKF France SA and Sarma was 8.51% ad valorem.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin of 8.51% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [-..%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Ball Bearings from Italy
+Specific Case No.20
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Ball Bearings from Italy, produced and exported by SKF Industrie SpA and FAG Italia SpA (US case number A-475-801, 67 FR 55780 of 30 August 2002). The period of review is 1 May 2000 through 30 April 2001 and the rate of anti-dumping duty was, ad valorem, 3.70% for SKF Industrie SpAand 1.42% for FAG Italia SpA.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+
+WT/DS294/1 G/L/630 G/ADP/D49/1 Page 18
+Dumping margin without zeroing
+By using the above methodology, DOC calculated a dumping margin for SKF Industrie SpA of 3.70% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [­..%] (negative) and no anti-dumping duty would have been collected.
+As for FAG Italia SpA, DOC calculated a dumping margin of 1.42% while without the zeroing methodology the dumping margin would have been [­ ..%] (negative) and no anti-dumping duty would have been collected.
+United States ­ Anti-Dumping Administrative Review on Imports of Ball Bearings from the United Kingdom
+Specific Case No.21
+The administrative review
+This case concerns the administrative review of anti-dumping duties on Ball Bearings from the United Kingdom, produced and exported by NSK Bearings Europe Ltd and the Barden Corporation UK (US case number A-412-801, 67 FR 55780 of 30 August 2002). The period of review is 1 May 2000 through 30 April 2001 and the rate of anti-dumping duty was, ad valorem, 16.87% for NSK Bearings Europe Ltd and 3.87% for the Barden Corporation UK.
+Methodology
+The practice of "zeroing", as applied in this case by the DOC, is the same as the practice described under Specific Case No. 6.
+Dumping margin without zeroing
+By using the above methodology, DOC calculated for NSK Bearings Europe Ltd a dumping margin of 16.87% while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [- ...%] (negative) and no anti-dumping duty would have been collected.
+As for the Barden Corporation UK, DOC calculated a dumping margin of 3.87%, while without the zeroing methodology (i.e. with the negative unit margins included), the dumping margin would have been [­ ..%] (negative) and no anti-dumping duty would have been collected.
+__________
+
+

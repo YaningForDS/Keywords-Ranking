@@ -1,0 +1,132 @@
+BCI deleted, as indicated [***]
+
+WT/DS353/R Page E-1
+
+ANNEX E
+SELECTED RULINGS OF THE PANEL CONCERNING BCI/HSBI PROCEDURES AND THEIR APPLICATION
+
+Annex E-1 Annex E-2 Annex E-3
+
+Contents Communication of 4 June 2007 Communication of 9 July 2007 Communication of 16 July 2007
+
+Page E-2 E-6 E-7
+
+WT/DS353/R Page E-2
+
+BCI deleted, as indicated [***]
+
+ANNEX E-1
+
+COMMUNICATION OF 4 JUNE 2007
+
+United States ­ Measures Affecting Trade in Large Civil Aircraft (Second Complaint) (DS353)
+
+1. The Panel has carefully considered the letter from the European Communities ("EC") dated 23 April 2007, responding to the comments of the United States ("US") concerning designation of certain BCI and HSBI. In support of its approach to the designation of information as HSBI, the EC draws a distinction between (a) information sought to be protected, and (b) documents that reveal such information. According to the EC, the BCI/HSBI Procedures are concerned with the former, and support for this proposition can be found in paragraph 8 of the BCI/HSBI Procedures which refers to "information ... regardless of whether contained in a document...". The EC contends therefore that "publicly available documents may be classified as HSBI if their disclosure (particularly in light of the context in which they are disclosed) would reveal business information not in the public domain that, in the view of the Party submitting the information, could cause exceptional harm to its originators."1 From this, the Panel understands the EC to be arguing that the "information" which may be protected as BCI or HSBI under the BCI/HSBI Procedures extends beyond information imparted directly in the content of a particular text or speech and comprehends more indirectly the use made of a particular document or utterance, or the context in which a particular document or utterance is obtained, communicated, made or reproduced.
+2. Paragraph 2 of the BCI/HSBI Procedures defines BCI as "any business information that a Party or Third Party has 'Designated as BCI' regardless of whether contained in a document provided by a public or private body because it is not otherwise available in the public domain". Paragraph 8 of the BCI/HSBI Procedures, defines HSBI as "any business information regardless of whether contained in a document provided by a public or private body that a Party or Third Party has 'Designated as HSBI' because it is not otherwise available in the public domain and its disclosure could, in the Party's or Third Party's view, cause exceptional harm to its originators." It is clear that a common feature of both BCI and HSBI is that the information so designated is not otherwise in the public domain. The EC interprets the concept of "information" which may be designated as BCI and HSBI under the BCI/HSBI Procedures in a broad manner. Such interpretation leads to the result that, notwithstanding the clear requirement in both paragraphs 2 and 8 that information in the public domain cannot be designated as BCI or HSBI, it would nonetheless be possible to designate information which is in the public domain as BCI or HSBI where one can derive from that information other "information" (in a more abstract sense) which is distinct from the information that is in the public domain. We do not consider this to be a reasonable interpretation of the BCI/HSBI Procedures. The Panel considers that the "information" with which the BCI/HSBI Procedures is concerned is information which is explicitly communicated in a document,2 as opposed to "information" concerning the use being made of a particular document3 in the context of the present dispute, or "information" as to how a particular document4 came into the possession or knowledge of one of the Parties. The Panel considers that this is evident from a reading of paragraphs 2 and 8 of the BCI/Procedures in conjunction with terms "Designated as BCI" and "Designated as HSBI" in
+1 EC Letter dated 23 April 2007, p. 3. 2 Or electronic file or oral statement. 3 Or electronic file or oral statement. 4 Or electronic file or oral statement.
+
+BCI deleted, as indicated [***]
+
+WT/DS353/R Page E-3
+
+paragraphs 4 and 5, respectively, of the BCI/HSBI Procedures. Paragraphs 4 and 5 refer to the means of designating information as BCI and HSBI, respectively. These paragraphs refer to "information" that is in printed form, electronic form or spoken form and clearly show that the BCI/HSBI Procedures were intended to apply to specific sensitive information appearing within a document or electronic file, or revealed in the course of speech.
+
+1. The fact that a document is being used by the EC in the context of this dispute
+
+3. In relation to the specific issues for determination by the Panel, the Panel notes that the EC argues as follows (italics in original, underlining added):
+
+"In particular, the information being protected through the HSBI designation is the identity of the airlines involved in the sales campaigns selected by the European Communities as evidencing lost sales, displacement and impedance, and price suppression within the meaning of Article 6.3 of the SCM Agreement. While it is true that publicly available documents provide certain information regarding these campaigns, the fact that campaigns involving these airlines are being used by the European Communities to demonstrate lost sales, displacement and impedance, and price suppression is not information in the public domain. It is therefore necessary to classify even publicly available documents related to these sales campaigns as HSBI in order to protect the fact that they are being used by the European Communities in the context of this dispute."5
+
+4. It follows from the view we have expressed in paragraph 2 that the Panel does not agree with the EC that "the fact that {a document is} being used by the European Communities in the context of this dispute" in and of itself is the information which the BCI/HSBI intends to protect ­ be it as BCI or HSBI. It is obvious that the fact the EC is using a particular document in this dispute is not "information in the public domain". In fact, unless a party elects to publicly disclose the fact that it is using certain documents as evidence in support of its claims in a dispute, it is always the case that the identity of the documents being used by a party in an ongoing dispute is confidential ­ that is, information not in the public domain.6 If the EC's argument were correct, it would result in a party being free to designate any document in this dispute as BCI or HSBI unless it voluntarily elects to disclose the fact that it is using a specific document in this dispute. Moreover, to accept the EC's arguments on this issue would be tantamount to classifying a core part of its case as HSBI. We do not consider that the BCI/HSBI Procedures were intended to lead to such a result.
+
+2. Documents obtained on an informal and confidential basis
+
+5. The EC has also sought to (i) designate as HSBI various presentations made by Boeing executives to particular airline clients in the context of sales campaigns, which have been shared with Airbus by those airlines on condition of anonymity; and (ii) designate as BCI presentations made by Boeing at airline conferences which have been shared with Airbus by conference organizers on condition of anonymity. According to the EC, "the information that the European Communities is trying to protect, by classifying these documents as BCI and HSBI is that Airbus is in possession of these documents and that certain airline executives or conference organisers have provided these documents to Airbus."
+
+6. In relation to the information it has sought to designate as HSBI, the EC argues that such information constitutes "information gathered or produced in the context of LCA sales campaigns" within the meaning of subparagraph 8(a)(ii) of the BCI/HSBI Procedures. In addition, the EC argues that failure to designate these documents as HSBI in their entirety (including the titles of the
+
+5 EC Letter of 23 April 2007, p. 4. 6 DSU Article 14.1
+
+WT/DS353/R Page E-4
+
+BCI deleted, as indicated [***]
+
+documents) could cause exceptional harm to Airbus and to the airlines and airline executives that provided the documents to Airbus if Boeing were to learn that these documents had been provided to Airbus by the airlines concerned.
+
+7. In relation to the Boeing presentations at airline conferences, which the EC has designated as BCI, the EC contends that if these documents were not classified as BCI in their entirety, the identity of the conference organizers who provided these documents to Airbus would be readily apparent and this disclosure would cause harm to Airbus as well as to the conference organizers in question.
+
+8. The Panel understands that the EC is in effect arguing that the fact of how it obtained the document/information is the "information" it seeks to protect under the BCI/HSBI Procedures. It follows from the views we have expressed in paragraph 2 that the Panel rejects this argument. As the Panel stated in its communication of 16 April 2007:
+
+"The Panel considers that the standard for determining whether {information contained in Boeing documents} is BCI or HSBI relates to the possibility of harm to the "originator" of the information, which in this case is Boeing, in the event of disclosure. In our view, the originator of a document is entitled, through appropriate channels, to waive BCI or HSBI status where it believes that disclosure of the information would not cause the requisite harm, or where it is prepared to accept such harm. The Panel has, at the very least, strong doubts about how it could be that it would be consistent with fundamental fairness for it to rely on documents originated by a private party where that private party was unaware that those documents were even before the Panel (let alone their content) because they were designated as BCI or HSBI by the other party."
+
+3. Exhibit EC-15
+
+9. The EC has sought to defend its designation of exhibit EC-15 as BCI in its entirety on a somewhat different basis. Exhibit EC-15 comprises an analysis, conducted by Airbus aeronautical engineers, of alleged links between various NASA research and development programs and specific Boeing civil aircraft programs. Concerning exhibit EC-15, the EC states as follows (underlining added):
+
+"Second, disclosure of any portion of exhibit EC-15, including its conclusions, would cause harm to Airbus. As this is a study conducted by Airbus' engineering department, it provides valuable insights into the extent of Airbus' aeronautical engineering expertise, for it is that very expertise that provides the basis for the study's conclusions. Indeed, a Boeing engineer examining this study would be able to ascertain from it how far advanced Airbus' knowledge is with respect to the wide variety of aeronautics technologies covered by the study."7
+
+10. The Panel notes that the conclusions of any expert analysis are necessarily based, at least in part, on the subjective knowledge of the expert, and that such conclusions are therefore inherently revelatory of that expert's subjective state of knowledge. However, it is clear from the approach outlined by the Panel in paragraph 2 that it is incumbent on the EC to specifically identify the Airbus aeronautical engineering expertise, or other Airbus technological information or know-how that is explicit in the document itself.
+
+7 EC Letter of 23 April 2007, p. 8.
+
+BCI deleted, as indicated [***]
+
+WT/DS353/R Page E-5
+
+4. Concluding remarks
+
+11. The Panel clarifies that the views we have expressed above do not mean that the documents the EC is seeking to protect can be made public by the US. As the parties are well aware, panel deliberations are confidential.
+
+12. In the light of the above, the Panel directs the EC to submit, by Monday 11 June, properly bracketed versions of all the paragraphs and exhibits raised by the US ­ including paragraphs 717 and 1361 of the EC submission, which the US identified in footnote 3 of its 10 April letter. In so doing, the EC is directed to perform the re-bracketing in accordance with the Panel's understanding of the HSBI/BCI Procedures as outlined above, as well as indicated in our communication dated 16 April.
+
+13. Other than paragraphs 717 and 1361, the EC need not resubmit the body (i.e. the 678 pagedocument) of the submission at this time. The Panel has noted that the EC stated as follows in its letter:
+
+"The European Communities is willing to re-designate the name and number of exhibit EC-15 as non-BCI in the citations throughout its first written submission."8
+
+The Panel will inform the EC in due course when it must submit a revised version of the body of the submission.
+
+14. Unless the EC makes changes to the text of the specific exhibit/paragraph, the Panel requests the EC to submit the re-bracketed exhibits and paragraphs (i.e. Annexes) in a BCI version.9
+
+_______________
+
+8 Page 8 of the 23 April EC letter. 9 That is, the Panel does not, for example, expect the EC to upload the re-bracketed exhibits onto the
+HSBI laptop. Needless to say, the EC is allowed to redact all information which it deems as HSBI from the BCI
+version.
+
+WT/DS353/R Page E-6
+
+BCI deleted, as indicated [***]
+
+ANNEX E-2 COMMUNICATION OF 9 JULY 2007
+
+United States ­ Measures Affecting Trade in Large Civil Aircraft (Second Complaint) (DS353)
+The Panel confirms receipt of the letter and the documents submitted by the European Communities ("EC") on 18 June, which were submitted in response to the Panel's ruing dated 4 June on the issue of bracketing of certain information. The Panel has also noted the comments of the United States on this issue in its cover letter of the submission made on 6 July. As the parties will recall, this issue was triggered by the comments of the United States ("US"), dated 10 April, on the non-BCI version and on the Redacted Version Appendix submitted by the EC on 3 April.
+The Panel hereby suggests that the revised version submitted by the EC on 18 June be deemed as the basis of the non-BCI version to be serviced to the Third Parties. The Panel requests the EC to service the non-BCI version (i.e. with information between brackets being deleted) by close of business on 10 July.
+In addition, in accordance with paragraph 32 of the BCI/HSBI Procedures1, the Panel proposes that the attached procedures be followed in order for Third Parties to access BCI in the parties' submission. The Panel requests that the parties submit comments, if any, on the attached draft procedures by close of business 11 July. The Panel understands that once the parties agree on the procedures, the revised BCI version of the body of the submission and the revised Redacted Version Appendix submitted from the EC on 18 June is the document that the Third Parties will be granted access at this point of time. The Panel understands that Third Parties will not be granted access to the "BCI exhibits".
+
+_______________
+
+1 "Additional Working Procedures For DS353 ­ Procedures for the Protection of Business Confidential Information and Highly Sensitive Business Information".
+
+BCI deleted, as indicated [***]
+
+WT/DS353/R Page E-7
+
+ANNEX E-3
+
+COMMUNICATION OF 16 JULY 2007
+
+United States ­ Measures Affecting Trade in Large Civil Aircraft (Second Complaint) (DS353)
+
+The Panel informs the Parties and Third Parties that it has amended, after consulting the parties, the BCI/HSBI Procedures1 as attached in accordance with the original paragraph 322 of the BCI/HSBI Procedures.3
+In accordance with paragraph 32 and paragraph 37bis(d) of the amended BCI/HSBI Procedures, the Panel invites Third Parties to submit, if they so wish, the following information to the Panel as well as to the Parties and other Third Parties by close of business of 18 July 2007.
+· A list of the names and titles (including affiliation) of any Representatives and Outside Advisors (including clerical or support staff) who need access to Party-BCI and whom it wishes to have designated as Third Party BCI Approved Persons. (Please note that no more than 5 persons can be designated.)
+· The identity of the "specific room" (including the address and the room number) in which the locked "security container", as referred to in paragraph 37bis(c) of the amended BCI/HSBI Procedures, is located. (Please note that only one "specific room" can be designated.)
+Once the above information is submitted from Third Parties, the Panel invites the Parties to submit any objections based on paragraph 32bis of the amended BCI/HSBI Procedures by close of business of 20 July 2007.
+_________
+
+1 "Additional Working Procedures For DS353 ­ Procedures for the Protection of Business Confidential
+Information and Highly Sensitive Business Information". 2 This paragraph has been amended in the attached latest version. See Panel's communication dated
+19 February 2007 for the original wording of this paragraph. 3 Changes are highlighted in the attachment for ease of reference.
+
+

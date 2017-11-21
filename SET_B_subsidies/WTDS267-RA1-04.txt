@@ -1,0 +1,1390 @@
+WT/DS267/R/Add.1 Page E-1
+ANNEX E
+SUBMISSIONS OF PARTIES AND THIRD PARTIES FOR THE RESUMED SESSION OF THE FIRST SUBSTANTIVE MEETING
+("FURTHER SUBMISSIONS")
+
+Annex E-1 Annex E-2 Annex E-3 Annex E-4 Annex E-5 Annex E-6 Annex E-7 Annex E-8
+
+Contents Executive Summary of Brazil's Further Submission Executive Summary of United States Further Submission Third Party Further Submission of Argentina Third Party Further Submission of Benin and Chad Third Party Further Submission of Canada Third Party Further Submission of the European Communities Third Party Further Submission of New Zealand Third Party Further Submission of Paraguay
+
+Page E-2 E-8 E-17 E-28 E-55 E-56 E-65 E-78
+
+WT/DS267/R/Add.1 Page E-2
+ANNEX E-1
+BRAZIL'S FURTHER SUBMISSION TO THE PANEL
+EXECUTIVE SUMMARY
+Summary Of The Argument Regarding Brazil's Further Claims 1. Brazil demonstrates in its Further Submission that US subsidies from MY 1999-2007 supporting the production, use and export of US upland cotton cause or threaten to cause serious prejudice to the interests of Brazil within the meaning of Article 5(c), 6.3(c) and 6.3(d) of the SCM Agreement as well as violate GATT Article XVI. 2. The measures challenged by Brazil comprise domestic support subsidies including the marketing loan programme1, crop insurance subsidies, market loss assistance payments and their successor counter-cyclical payments, production flexibility contract payments and their successor direct payments, cottonseed payments and "other payments".2 The measures also include prohibited export and local content subsidies including Step 2 export and domestic payments, and the subsidies provided by the US GSM 102 export credit guarantee programme. These collective subsidies are referred to as "the US subsidies". 3. Table 1 summarizes the amounts of US subsidies in terms of US dollar and as a percentage of subsidization in terms of the market value of US upland cotton:
+1 Brazil uses the phrase "marketing loan programme" or "marketing loan payment" to encompass marketing loan gains, loan deficiency payment (or "LDP's") and certificate exchange gains. See US 11 August Answer to Question 67, para. 133.
+2 The United States qualified "other payments" as product-specific support to upland cotton. See US 11 August Answer to Question 67, para. 130-133.
+
+WT/DS267/R/Add.1 Page E-3
+
+Programme
+Marketing Loan Gains and LDP's
+Crop Insurance
+Step 2
+PFC Payments/ Direct Payments Market Loss Assistance/ Counter-Cyclical Payments Cottonseed Payments
+Other Payments
+Total Payments All programmes Value of US Production Average Rate of Subsidization
+
+1999 Amount of Payment
+Rate of Subsidization $1,545 million 43.71per cent $169.6 million 4.79 per cent $422 million 11.94 per cent
+$547.8 million
+15.5 per cent
+$545.1 million
+15.42 per cent
+$79 million 2.23 per cent $216 million 6.11 per cent
+$3,524.5
+97.69 per cent
+$3,534 million
+
+2000 Amount of Payment
+Rate of Subsidization $573 million 14.06 per cent $161.7 million 3.97 per cent $236 million 5.79 per cent
+$541.3 million
+13.28 per cent
+$576.2 million
+14.14 per cent
+$185 million 4.54 per cent $63 million 1.54 per cent
+$2,336.2
+57.32 per cent
+$4,073 million
+
+2001 Amount of Payment
+Rate of Subsidization $2,541 million 82.5 per cent $262.9 million 8.53 per cent $196 million 6.36 per cent
+$453.0 million
+14.7 per cent
+$625.7 million
+
+2002 Amount of Payment
+Rate of Subsidization $918 million 28.23 per cent $194.1 million 5.97 per cent $217 million 6.67 per cent
+$485.1 million
+14.92 per cent
+$998.6 million
+
+20.31 per cent
+No payments No payments $68 million 2.20 per cent $4,146.6 134.6 per cent
+$3,080 million
+
+30.71 per cent
+$50 million 1.54 per cent $65 million 1.99 per cent $2,927.8 90.03 per cent
+$3,252 million
+
+94.91 per cent
+
+Table 13
+
+4. Brazil's actionable subsidy claims fall into two basic temporal and legal categories: first, claims of present serious prejudice resulting from subsidies provided in MY 1999-2002; second, claims of threat of serious prejudice from subsidies that are required to be paid by USDA to the US upland cotton industry during MY 2003-2007 under the Farm Security and Rural Investment Act of 2002 (2002 FSRI Act) and the Agricultural Risk Protection Act of 2000 (2000 ARP Act).
+
+5. Because Brazil's claims involve the adverse effects of "subsidies", Brazil first establishes that each of the US domestic and export programmes is a "subsidy" within the meaning of Article 1.1 of the SCM Agreement. As Table 1 above indicates, each provides a "financial contribution" which confers a "benefit".
+
+3 The amount of payments reflects the amount presented by Brazil in its 22 August Rebuttal Submission, para. 173. The value of the US upland cotton production has been taken from Exhibit Bra-4 ("Fact Sheet: Upland Cotton", USDA, January 2003, p.5). The value of the US production in MY 2002 has been calculated by multiplying the amount of US production as reported in Exhibit Bra-4 ("Fact Sheet: Upland Cotton", USDA, January 2003, p.4) (16.73 million bales * 480 pounds per bale) with the average price received by US farmers of 40.50 cents per pound (see Exhibit Bra-202 (Agricultural Outlook Tables, USDA, August 2003, Table 5). Differences between the sum of individual rates of subsidization and the total rate of subsidization are due to rounding effects.
+
+WT/DS267/R/Add.1 Page E-4
+6. Each of the subsidies is "specific" within the meaning of Article 2.1(a) and/or (c) of the SCM Agreement. The United States and Brazil agree that the specificity test of Article 2.1 was not intended to function as a loophole through which narrowly focused subsidies provided to or used by discrete segments of an economy could escape review. The four direct subsidies ­ the PFC, direct payment, market loss assistance, and CCP payments are de jure specific because the 1996 FAIR Act and the 2002 FSRI Act explicitly limit access of payments to holders of upland cotton base acreage. The per acre upland cotton base acreage payments of the four programmes are single specific subsidies because the payments are based on individual cotton-based criteria and are significantly higher than payments to most other base acres in each program. Alternatively, even if the total payments to all base acres for each of the four direct subsidies are treated as single subsidies, they are specific because the payments are excluded from the significant majority of US farmland and the value of the crops produced with such payments is less than one-quarter the value of total US commodities.
+7. Crop insurance subsidies are specific because there are specific policies and groups of policies available only for upland cotton (or a few other crops) and not for the majority of crops in the programme. Alternatively, crop insurance is not specific because the 2000 ARP Act denies benefits to commodities representing more than half of the value of US agriculture. Further, US crops represent only 0.8 per cent of total US GDP.
+8. Within each of the present serious prejudice and threat of serious prejudice claims, Brazil has asserted three different claims regarding the application of these actionable subsidies.
+9. Present Significant Price Suppression ­ Article 6.3(c) of the SCM Agreement: The US subsidies provided during MY 1999-2002 cause present significant price suppression in the world and Brazilian market, as well as in markets where Brazilian producers export. Brazil first establishes that Brazilian upland cotton is "like" US upland cotton based on common tariff classification, USDA's designation of upland cotton as a separate commodity, and the interchangeability and treatment by the markets of US and Brazilian cotton as like products.
+10. The bulk of Brazil's price suppression analysis involves establishing the causal link between the US subsidies and suppressed prices in the US, world, Brazilian, and other markets. Most of this evidence is also relevant for Brazil's other present and threat of serious prejudice claims. The enormous size of the MY 1999-2002 US subsidies in terms of amount ($12.9 billion) and percentage as market value (95 per cent) coupled with the dominating US world market share of 41.6 per cent of a fungible commodity create a de facto presumption of production, export, and price-suppressing effects. The effects of the subsidies are also seen in the significant increase of US production, exports, and world market share in MY 1999-2002 while US, A-Index, and Brazilian prices fell to record lows and remained suppressed. The causal link is further confirmed by the fact the average total US upland cotton costs of production was 77 per cent higher than market prices received by US farmers in MY 1999-2001, at the same time that US production and exports increased remained at high levels. Another demonstration of the causal link is the 15 per cent increase in the value of the US dollar between MY 1999-2001 at the same time that US export market share increased 68 per cent and A-Index prices declined by 21 per cent.
+11. The link between US subsidies and suppressed A-Index, Brazilian, and other third country upland cotton market prices is further confirmed by the fact that the nature, size and global impact of the US market permits it to drive and suppress world prices. The large size of the US world market share of 41.6 per cent that is generated and sustained by the US subsidies suppresses world market prices. Production and export developments in the US market are widely publicized and impact the New York Cotton Exchange's futures market, which in turn directly influence and impact A-Index and Brazilian prices.
+
+WT/DS267/R/Add.1 Page E-5
+12. The link between the US subsidies and significant price suppression is also confirmed by USDA and other economists' findings of the individual production, export and price-suppressing effects of each of the US subsidies have . USDA and other economists have identified the US marketing loan payments as having the greatest production, exports and A-Index price-suppressing effects. Crop insurance subsidies, like marketing loan payments, are directly tied to production, and have been found to create similar types of effects by USDA and other economists, as they eliminate risk and induce farmers to put marginal land into production. CCP payments (and to a lesser extent market loss assistance, PFC and direct payments) have production impacts as a result of additional income and wealth effects that keep land in production and maintain base acres in production in anticipation of future base updating like that permitted under the 2002 FSRI Act. Step 2 export payments directly stimulate US exports and permit US exporters to export high-cost US upland cotton with the effect of suppressing A-Index prices. The GSM-102 export credit guarantee programme facilitated the export of more than $1 billion worth of US upland cotton between FY 1999 and the present, thereby increasing US exports and suppressing world prices.
+13. A number of econometric studies found that the US subsidies collectively have the effect of increasing US production, exports and suppressing world prices. The ICAC found that world prices would increase by 11 cents per pound price from the removal of US subsidies in MY 2001 and 6 cents in MY 2000. The University of Tennessee found an average 11.4 per cent price suppressive effects from removing US subsidies during MY 2003-2007. The IMF estimated world prices would increase by 4 per cent based on removing $1 billion of US subsidies in MY 1998. The World Bank/IMF found a 25-30 per cent increase in world prices from elimination of US upland cotton subsidies in MY 20032007. The Centre for International Economics found an increase of world price by 13.4 per cent by eliminating US and Chinese subsidies in MY 1998. Professor Daniel Sumner determined that removing the US subsidies in MY 1999-2002 results in an average increase in the A-Index price of 12.6 per cent.
+14. Further, Brazilian prices for domestic Brazilian sales as well as Brazilian export sales are suppressed by the effects of the US subsidies. The small size of the Brazilian market and low applied tariffs mean that Brazilian producers are price takers, not price makers. Negotiations to determine Brazilian domestic and export prices are heavily influenced by New York Cotton Exchange's futures prices and A-Index prices. The movements in prices between the Brazilian prices and prices in these international markets are closely tied. Prices in other third country markets also show a close linkage with Brazilian, New York futures, US spot, US A-Index and other prices included in the A-Index calculation.
+15. Finally, the amount of price suppression between MY 1999-2002 as reflected in various econometric studies of world prices varies from 6 cents per pound to 11 cents per pound. Professor Sumner found the A-Index price suppression to be 6.5 cents per pound between MY 1999-2002. This estimated worldwide price suppression is "significant" because it materially affects producers in Brazil and throughout the world. Total income loss from the price suppression is $3.587 billion and Brazilian producers lost an estimated $478 million from suppressed prices.
+16. Increasing World Market Share in MY 2001 ­ Article 6.3(d) of the SCM Agreement: The US subsidies for upland cotton contributed significantly to the production and export of large quantities of upland cotton in violation of Article 6.3(d) of the SCM Agreement. The three-year average US world market share in MY 1998-2000 was 22.3 per cent. In MY 2001, the subsidyenhanced US world market share increased to 38.3 per cent. This MY 2001 increase follows a consistent trend since the 1996 FAIR Act was enacted with US world market share increasing from 25 per cent to 38.1 per cent. The evidence linking US subsidies and increasing production and exports in the price suppression analysis is also relevant for the Article 6.3(d) claim. Professor
+
+WT/DS267/R/Add.1 Page E-6
+Sumner finds that but for the US subsidies, US exports between MY 1999-2001 would have declined on average by 39 per cent.
+17. Inequitable World Export Share - 1999-2002: Articles XVI:1 and 3 of GATT 1994: US subsidies provided from MY 1999-2002 contributed significantly to the United States having more than an equitable share of world export trade within the meaning of GATT Article XVI:3. The US share of world exports increased from 17.93 per cent in MY 1998 to 38.3 per cent in MY 2001 and increased further to 41.6 per cent in MY 2002. The causal link between the US subsidies and the increased US export market share is based on the evidence of production and export effects of US subsidies set out in the price suppression analysis. Professor Sumner concluded that but for the US subsidies US exports would be 41.2 per cent lower and US production would decline by 28.7 per cent on average between MY 1999-2002. The current US share of world exports of upland cotton is not "equitable" because producers from countries competing with the United States do not receive any or at most only small amounts of subsidies and have costs of productions are far lower than the United States. But for the effects of the US subsidies, these producers, including producers in Brazil, would have increased their share of the world export trade.
+18. Threat of Serious Prejudice: Brazil's second set of adverse effects claims involves the demonstration of a threat of serious prejudice under Article 5(c), 6.3(c), and 6.3(d) of the SCM Agreement and GATT Articles XVI:1 and 3. The record shows that five US subsidies ­ marketing loan payments, crop insurance subsidies, Step 2, CCP and direct payments ­ have no production or expenditure limitations and either no or at best no practical payment limitations. These unlimited subsides are required to be paid by USDA and eligible US producers, users and exporters. These eligible recipients have an enforceable entitlement to receive the payments ­ regardless of the effect of US subsidies on the world upland cotton market. Based on the EC ­ Sugar Exports GATT panel decisions and the US ­ FSC Appellate Body decision, these facts support a finding of a threat of serious prejudice in the form of significant price suppression, increases in US world market share, and inequitable share of world export trade.
+19. A threat of serious prejudice is confirmed by fact that the level of US subsidies has increased by up to 10 cents per pound between MY 2001 and 2002 with the passage of the 2002 FSRI Act. Having established present price suppression, increased world market share and inequitable share of world export trade, this evidence also confirms the existence of a threat of serious prejudice for MY 2003-2007. A University of Tennessee study predicts removal of the US subsidies will increase US prices by 11.4 per cent between 2003-2007. The IMF predicts that removal of US subsidies would increase world market prices by 25-30 per cent in the short term. Professor Sumner predicts that removal of US subsidies would increase world A-Index prices by 5.9 cents per pound, decrease US production by 4.5 million bales, and decrease exports by 4.4 million bales.
+20. A threat of serious prejudice also exists because the US costs of production will increase between MY 2003-2007 with USDA and FAPRI not expecting the large cost-market revenue gap to decline significantly. The most recent FAPRI baseline suggests that marketing loan and CCP payments will be made throughout MY 2003-2007. Additional evidence of a threat of serious prejudice exists from USDA and FAPRI baselines (reflecting mandatory payments under the 2002 FSRI Act) that project that US acreage, production, and exports will continue at existing high levels given the existence of the US subsidies. The increasing export orientation of US production, as US domestic textile production declines, also increases the threat of significant price suppression, increased world market shares, and inequitable shares of world export trade.
+21. The evidence demonstrates that the threat of an increased US world market share in MY 2002 has already materialized, as the US world market share continued to increase in MY 2002 to 41.6 per cent, well above the MY 1999-2001 three-year average of 29.1 per cent. The threat also exists for MY 2003 as recent USDA projections of US exports indicate that the likely US share will be 38.8 per
+
+WT/DS267/R/Add.1 Page E-7
+cent in MY 2003 ­ an increase over the three-year (MY 2000-2002) average of 34.9 per cent. This evidence further supports the finding of a threat that the US share of world export trade will continue to be inequitable for MY 2003-2007.
+22. Per Se Challenges to 2002 FSRI Act and 2000 ARP Act: Brazil also challenges certain provisions of the 2002 FSRI Act and the 2000 ARP Act ­ in as far as they relate to upland cotton ­ as per se violations of Articles 5(c), 6.3(c), 6.3(d) of the SCM Agreement and GATT Article XVI:3. In particular, Brazil challenges the mandatory provisions requiring the executive branch of the US Government to make marketing loan, Step 2 domestic and export, crop insurance, direct and countercyclical payments to eligible upland cotton producers, users and exporters. There is no statutory mechanism in any of the challenged statutes or regulations to limit the guaranteed payments when these payments cause serious prejudice or a threat of serious prejudice. The absence of any statutory upland cotton circuit breaker threatens to cause serious prejudice, including price suppression, increased US export and an inequitable US share of world upland cotton exports.
+
+WT/DS267/R/Add.1 Page E-8
+ANNEX E-2
+EXECUTIVE SUMMARY OF THE FURTHER SUBMISSION OF THE UNITED STATES
+1. Brazil Has Failed to Demonstrate that Crop Insurance Payments Are "Specific". The United States reiterates that the subsidy to any agricultural producer is the premium subsidy paid by the US Government, which is common to all commodities at a chosen coverage level. Thus, Brazil's repetition that certain policies are not available to all commodities is in part true but wholly irrelevant: the particular policies offered to growers of different commodities are issued by private insurers but the subsidy by the US Government on the premiums remains the same. Crop insurance subsidies are available to the US agricultural sector as a whole. It is the position of the United States (reflected in domestic law) that such a widely available subsidy does not satisfy the specificity requirement of Article 2. Thus, pursuant to Article 1.2 of the Subsidies Agreement, US crop insurance payments are not "subject to the provisions of . . . Part III" of the Subsidies Agreement, including Articles 5 and 6 on serious prejudice.
+2. Brazil Has Failed to Demonstrate that Challenged US Measures Caused the Decline in World Upland Cotton Prices Because It Simply Ignores Key Factors Behind Those Price Movements. Brazil has failed to make a prima facie case on its claims on the basis of the mere assertion that large US outlays during marketing years with low prevailing upland cotton prices necessarily establishes causation. Brazil has failed to explain to the Panel key factors that affected world cotton markets during the marketing year 1999 - marketing year 2002 period. These factors and not US subsidies were the causes of the dramatic plunge in cotton prices experienced in recent years.
+3. ­ Persistent weakness in world demand for cotton due to competing, low-priced synthetic fibres and weak world economic growth. The production of competing, synthetic fibres exploded during the 1990's, putting downward pressure on world cotton prices. Asian countries added more polyester production capacity between 1991 and 2001 than existed in the entire world in 1990. Asian polyester prices remained below world cotton prices from 1990 to 2001. By 2002, cotton lost the position as the world's dominant fibre and slipped below polyester's market share. Consumer purchases outside the United States added over 40 million bales to textile fibre consumption since 1990 but virtually the entire amount was claimed by polyester. Consumers outside the United States buy no more cotton today than they did in 1990.
+4. In addition to the price pressure from synthetic production, the world economy grew more slowly since 1997 than any time for many years. Clothing is a semi-durable good, and when income growth slows consumers cut back on current purchases, and postpone replacing clothing until incomes rise more rapidly. Cotton consumption can decline even while income growth remains positive. The 2001-2002 decline in world income occurred just as world cotton production was increasing because of good weather, severely pressuring world prices.
+5. ­ Burgeoning US textile imports, reflecting the strong US dollar and declining US competitiveness in textile and apparel production, have fundamentally shifted the disposition of US cotton production from domestic mills to export markets. The United States has supported world cotton prices through its huge demand for cotton textiles and apparel. Imported textile and apparel products continue to displace US mill use of cotton fibre. From 1997 to 2002, US mill use of cotton dropped 32 per cent. For 2002, US cotton textile and apparel imports rose for the 14th consecutive year, while exports remained essentially unchanged for the fifth straight year. This huge
+
+WT/DS267/R/Add.1 Page E-9
+trade deficit in textiles and clothing has fundamentally changed the pattern of how US-grown cotton is used. As domestic mill use has fallen drastically, more US cotton has been available for use by foreign mills, which then comes back to the US in the form of cotton products.
+6. ­ China, the world's largest cotton producer and consumer, released 14 million bales of government stocks between 1999 and 2002, equalling as much as 7 per cent of world consumption in crop year 2000/01. China's policies were strongly correlated to world cotton price movements through the late 1990's and early 2000's. Through the mid-1990's the Chinese Government was concerned with maintaining farmers' income and directed the state marketing organization to maintain cotton procurement prices at high levels, causing stocks to grow rapidly. At the beginning of the 1999/2000 marketing year, China announced a policy of auctioning cotton from these stockpiles, with the central government accepting the financial loss. China auctioned 11.6 million bales over August 1999 to July 2002 (3 million bales in 1999/2000, 6.5 million in 2000/01, and 2.1 million in 2001/02). Over the entire marketing year in 2000/01, China's auctions equalled 7 per cent of world consumption that year.
+7. ­ Factors Affecting US Cotton Production. Cotton planting decisions are driven by numerous factors, including the expected price of cotton, prices of competing crops, farm programme benefits, technological factors and input costs. Contrary to Brazil's claims, US cotton producers have been responsive to world price movements and are not insulated from the world market. Changes in production technology can affect both the risk and the expected returns from cotton production. In recent years, the boll weevil eradication programmes and the introduction and adoption of genetically modified varieties of cotton have lowered production costs, increased yields, and increased net returns for US cotton production.1
+8. Since 1994 there have only been 2 years when US harvested acres changed from one year to the next in a different fashion than growers in the rest of the world. Those 2 years, 1998 and 1999, are specific to severe drought in the United States. In 1998, US harvested area fell, largely due to disastrous conditions across much of Texas; in 1999, weather was more normal and US harvested acres increased by almost exactly the acres lost in the previous year.
+9. In early calendar year 2000, the futures price for cotton had fallen from the previous year's level while corn and soybean prices had risen on the year. US and world cotton growers reduced harvested acreage from the level in 1999 by virtually identical proportions. While cotton harvest futures prices again declined on the year from 2000 to 2001, soybean and corn harvest futures prices fell by a greater per cent. As a result, US and world cotton growers saw an increase in cotton harvested acres in 2001. In considering planting in 2002, growers saw soybean and corn harvest futures prices showing greater percentage increases than cotton. Thus, both US growers and growers in the rest of the world saw harvested acres of cotton decline from the previous year's level.
+10. Brazil Has Not Established a Prima Facie Case With Respect to US Decoupled Income Support Measures Because These Measures Have No More than Minimal Effects. With respect to US green box measures, namely direct payments under the 2002 Act and expired production flexibility contract payments under the 1996 Act, Annex 2 of the Agriculture Agreement makes clear that these payments have no, or at most minimal, trade-distorting effects or effects on production. Under Article 21.1 of the Agriculture Agreement, the Subsidies Agreement applies "subject to" the Agriculture Agreement. Accordingly, Annex 2 makes it clear that US green box measures do not
+1 Studies indicate that the boll weevil eradication program has lowered the costs of producing cotton and has made cotton a more attractive cropping alternative. US producers have also rapidly expanded plantings of biotech cotton, rising from 25 per cent of plantings during the 1997 crop year, to an estimated 73 per cent of plantings in 2003. Studies suggest that biotech cotton has increased yields and net returns while decreasing pesticide use.
+
+WT/DS267/R/Add.1 Page E-10
+cause serious prejudice. Income payments that vary in amount with market prices, such as counter-cyclical payments under the 2002 Act and expired market loss assistance payments, are also decoupled in the sense of not being linked to current production. Because (according to the economic literature on decoupled payments) the effect on production is negligible, these payments can have no "effect" for purposes of Subsidies Agreement Article 6.3 nor operate to increase exports under GATT 1994 Article XVI:3.
+11. Finally, because no production of upland cotton (or any other crop) is necessary to receive these payments, it would be erroneous to attribute to "upland cotton" or "upland cotton producers" all decoupled payments made with respect to upland cotton base acreage. Those acres may be planted to alternative crops or may be growing no crops at all. Accordingly, there is no basis to include those payments in an analysis of whether "subsidies provided to US producers, users and/or exporters of upland cotton" have caused serious prejudice.
+12. Brazil Has Failed to Demonstrate that Challenged US Measures Have Caused Serious Prejudice to Brazil's Interests Within the Meaning of Article 5(c) and 6.3(c). ­ "Serious Prejudice . . . May Arise": The introductory sentence of Article 6.3 establishes that serious prejudice "may arise" if "one or more" of four specific circumstances is found, indicating that serious prejudice need not arise even if they are found. As serious prejudice "may" arise if one or more of the four conditions under Article 6.3 are satisfied, Brazil must first show that at least one of those conditions is met. Second, if Brazil demonstrates one or more of the criteria in Article 6.3 is met, Brazil must then demonstrate "serious prejudice." In this dispute, Brazil has not established that any prong of Article 6.3 is met.
+13. ­ The "Effect of the Subsidy": Brazil has not made a prima facie case that "the effect of the subsidy" was significant price suppression or depression. Brazil's argument on causation fails because Brazil has simply not demonstrated the causal connection between the US measures and the price effects. Brazil has not even shown there is a necessary correlation between the measures and the effects it claims, let alone that there is a genuine and substantial link between the US measures and the effects claimed. Brazil has failed to separate and distinguish all the different effects from the various factors at play during the marketing year 1999 - marketing year 2002 period and has erroneously attributed to the US measures the effects of these other causes.
+14. ­ "Significant price suppression". The Agreement does not define "significant". The ordinary meaning of significant is "important, notable; consequential," which suggests that the price suppression must reach a level at which it is important, notable, and consequential in order to be inconsistent with Article 6.3(c). The United States further notes that the term "significant" modifies "price suppression or depression"; therefore, it is the effect on prices that must be "significant" and not the direct effect on producers, as Brazil argues.
+15. Under Brazil's interpretation price suppression would be significant at a level of even 1 cent per pound because this could still "meaningfully affect" producers. Brazil's interpretation, however, collapses the concept of "significant price suppression or depression" with the concept of "serious prejudice". It would also greatly expand the effect of Article 6.3(c), which falls under Part III of the Subsidies Agreement on "Actionable Subsidies" rather than Part II on "Prohibited Subsidies", to encompass any subsidy with any production and therefore price effect. Members agreed, however, that any theoretical price effect would not suffice to satisfy Article 6.3(c); they accomplished this by stating that the price suppression or depression had to be "significant" in order to create a situation in which serious prejudice may arise.
+16. Brazil's theory would also create two sets of subsidy rules: one for widely traded products, such as most agricultural products, and another for more differentiated products. The more widely traded a product is, the more any price effect could be deemed to "meaningfully affect" producers.
+
+WT/DS267/R/Add.1 Page E-11
+There is no basis in the text of the Agreement for creating such a distinction. Where Members intended a particular rule to apply to a particular type of product ­ such as a "subsidized primary product or commodity" (Article 6.3(d)) ­ they said so explicitly.
+17. ­ "In the Same Market": Article 6.3(c) requires that the "significant price suppression [or] depression" that is the "effect of the subsidy" occur "in the same market". The use of the same "in the same market" phrase as in the price undercutting portion of this Article suggests that the significant price suppression or depression must occur when "the subsidized product" is found "in the same market" as "a like product of another Member". That is, "in the same market" is meant to require identification of a particular market in which price effects are alleged to have occurred so as to allow a comparison in that market. If a complaining party could merely assert price suppression or depression in the world market, the word "same" in the phrase "the same market" would be rendered inutile because the subsidized and non-subsidized products could always be deemed to be in the same "world market".
+18. ­ Time Period for Demonstrating Causal Effects: The "appropriate representative period" for demonstrating present serious prejudice will depend on the nature of the challenged subsidies. Normally, the most recent period for which data are available will be the appropriate period. In the case of recurring subsidies such as those under the 1996 Act and the 2002 Act, moreover, a past subsidy no longer exists as of the time a new subsidy payment in respect of current production is made and can have no "effect" within the meaning of Article 6.3. As a result, the period for which Brazil must demonstrate present serious prejudice is marketing year 2002. None of the provisions cited by Brazil, moreover, say that the effect of a subsidy 1, 2, or 3 years ago is presently being felt. Thus, at a minimum, the effect of the subsidy must be demonstrated in each year and for each year in which Brazil has alleged effects.
+19. Brazil Has Failed to Demonstrate that Challenged US Measures Have Caused Serious
+Prejudice to Brazil's Interests Within the Meaning of Article 5(c) and 6.3(d) ­ "World Market Share": Contrary to Brazil's interpretation, Article 6.3(d) does not use the phrase "world market for exports"; it uses the phrase "world market share . . . in a particular subsidized primary product or commodity". This broad term would appear to encompass all consumption of upland cotton, including consumption by a country of its own cotton production. Context supports reading "world market share" as distinct from "world export share". In fact, GATT 1994 Article XVI:3 uses the phrase "world export trade", and Brazil interprets Article 6.3(d) and GATT 1994 Article XVI:3 both as applying to "world export trade". Had Members intended that "world export trade" be the relevant concept to apply in Article 6.3(d), one would have expected use of that phrase. Because Brazil has misinterpreted "world market share", and all of Brazil's evidence goes to a comparison of the "world export share" of the United States, Brazil has failed to make a prima facie case.
+20. ­ Appropriate Time Period for Showing Present Serious Prejudice: Brazil has limited its claim under Article 6.3(d) to "the increased US world market share for MY 2001". Thus, there can be no finding that subsidies under the 2002 Act or marketing year 2002 subsidies presently cause serious prejudice. As the United States has previously noted, to demonstrate the "effect of the subsidy" it would normally be appropriate to look to the subsidy provided in the most recent year. Brazil has not explained why it challenges marketing year 2002 subsidies (in addition to 1999-2001) under Article 6.3(c) but only marketing year 2001 under Article 6.3(d). Brazil has stated that the 1996 Act introduced a new subsidy scheme; at a minimum, Brazil should demonstrate that in fact there is a "consistent trend" over a period when subsidies have been granted (1996-2001).
+21. ­ Causation: "The Effect of the Subsidy": Brazil has simply not demonstrated the causal connection between the US measures and the effects on world market share. As explained above, Brazil has failed to separate and distinguish other factors that drove prevailing upland cotton prices to historically low levels.
+
+WT/DS267/R/Add.1 Page E-12
+22. Brazil Has Failed to Demonstrate any Inconsistency with GATT 1994 Article XVI:3 ­ "More than Equitable Share: Brazil argues that in determining what is an "equitable" share, the Panel must look at what the US share of world export trade would have been in the absence of subsidies. Brazil cites to no textual basis for its approach, nor could it since the text does not contain one. There is nothing in Article XVI:3 that says that a Member is banned from using any subsidies, let alone that a Member is denied the ability to have any share in world markets if the Member employs subsidies. Any consideration of what is an "equitable" share needs to take into account the fact that Members are generally permitted to provide subsidies. However, any subsidy that has a production effect may increase exports; if so, according to Brazil, the resulting export share would be "inequitable". This interpretation would turn Article XVI:3 into a prohibition on subsidies that potentially could increase exports. Rather than imposing a prohibition, Article XVI:3 states only that Members "should seek to avoid" export subsidies on primary products, with additional conditions if inequitable shares result.
+23. In considering the difficulties inherent in applying the "more than equitable world market share" language, the United States recalls the discussion of the Tokyo Round Subsidies Code panel on Wheat Flour on the "more than equitable world market share" language. The panel's enumeration of difficulties associated with this concept are the types of considerations that led to the negotiation of the Subsidies Agreement. Brazil now would have the Panel believe that these negotiations were unnecessary, that the disciplines it seeks were all in the language of Article XVI:3 all along. Brazil's approach is in error and should be rejected.
+24. ­ "Any Special Factors": Brazil considers that one "special factor[]" that may be affecting trade or that may have affected trade is the low level or even absence of domestic support in other supplying countries. Again, Brazil's proposed rule would suggest that where no other Member were subsidizing (each because of its own sovereign choice not to use resources in that way), a Member would be prevented from subsidizing in any amount that results in increased exports. However, Article XVI does not contemplate a prohibition on agricultural subsidies, even on export subsidies: under Article XVI:3, Members "should seek to avoid" use of export subsidies on primary products. Therefore, "any special factors" should not be interpreted in a way that introduces a meaning that the provision itself avoids.
+25. Brazil Has Failed to Demonstrate a Threat of Serious Prejudice: Brazil argues that there is no explicit standard for threat of serious prejudice in the Subsidies Agreement nor guidance in WTO reports. The United States considers that the first standard articulated by Brazil is incorrect. Brazil's proposed rule would seemingly transform Articles 5(c) and 6 from actionable subsidy provisions into prohibited subsidy provisions. That is, Brazil's approach would produce a threat determination wherever "subsidies by a large exporter have no effective production or export limitations". There is no such per se threat rule in the Subsidies Agreement, however; a finding of serious prejudice requires a fact-intensive demonstration.2
+2 The United States also considers that this proposed standard has not been met by Brazil. First, as explained above, Brazil has not established a prima facie case of present serious prejudice, and therefore one cannot presume that there is a threat such prejudice will continue. Second, the Appellate Body report in United States ­ FSC cited by Brazil involved export subsidies under the Agriculture Agreement and a completely separate standard. Under the serious prejudice provision of the Subsidies Agreement, the question is the much more complicated issue of what is the clearly foreseen and imminent effect of measures on a Member's interests, which may depend on future market conditions, world prices, and other factors. Third, Brazil has not demonstrated that the challenged measures are mandatory in the sense that they must be given if an application is made. Even though the Department of Agriculture has the obligation to make such payments available, the obligation only attaches when certain market conditions prevail. Thus, to show that the threat of serious prejudice is (in Brazil's words) "real, clear, and imminent," Brazil would have to show predicted prices over the future period complained of (marketing years 2003-07) and the likelihood of that occurring.
+
+WT/DS267/R/Add.1 Page E-13
+26. The United States believes the second standard proposed by Brazil is correct. To demonstrate a threat of serious prejudice a complaining party must show a clearly foreseen and imminent likelihood of future serious prejudice. The use of the elements of serious prejudice set out in Article 6.3 ensures that a complaining party come forward with sufficient credible evidence.3
+27. ­ Threat of Serious Prejudice Via Price Suppression: In addition to the reasons just given, the United States notes that price developments over the past several months and expected price movements do not support a conclusion of a clearly foreseen and imminent likelihood of future serious prejudice. Brazil claims that "[b]ase[d] on MY 2002 prices, current prices in August 2003 and price levels projected by FAPRI's baseline, it is likely that marketing loan and CCP payments will be made during MY2003-2007". However, current market and futures prices (not reflected in Brazil's submission) already indicate that the baseline projection of low prices is wrong.4 Thus, current prices and futures prices do not suggest any clearly foreseen and imminent likelihood of future serious prejudice.
+28. Threat of Serious Prejudice Via Price Suppression: Brazil again reads "world market share" in Article 6.3(d) as the equivalent of "world export share". Thus, Brazil 's threat analysis is wrong for the same reason as its serious prejudice analysis, and Brazil has not established a prima facie case of threat of serious prejudice under Article 6.3(d).
+29. GATT 1994 Articles XVI:1 and XVI:3. Brazil asserts that the 2002 Act and 2000 Agricultural Risk Protection Act threaten a high and inequitable share of world exports between MY2003-07. Brazil nowhere cites the text of GATT 1994 Article XVI:3 (or of the Subsidies Agreement) that would support the notion that there is a valid cause of action for "threat" of a "more than equitable share of world export trade". In the absence of any text relating to Article XVI:3, Brazil's claim of a "threat" of a "more than equitable share" must be rejected.
+30. Brazil Has Failed to Demonstrate that Challenged US Measures Are Per Se Inconsistent with US WTO Obligations. Brazil argues that the marketing loan, counter-cyclical, direct, and step 2 payments as well as the crop insurance subsidies are per se inconsistent with US WTO obligations because they threaten to cause serious prejudice at price levels that require the payment of marketing loan and CCP payments (that is, below 52 cents per pound). For all the reasons set out with respect to Brazil's present serious prejudice claims and its threat of serious prejudice claims, Brazil's argument is in error.
+31. Brazil also argues that even at high price levels where only direct payments and crop insurance payments would be made, there is necessarily a threat of serious prejudice because these payments necessarily will keep marginal land in production because producers face no down-side revenue risk. Brazil has presented no evidence on the extent of any alleged effect of these two subsidies in keeping marginal production on-line at a time of high prices (as the market currently expects). Second, that some marginal lands may be kept in production cannot alone suffice to
+3 A similar concern is addressed for purposes of threat of material injury in countervailing duty investigations by Subsidies Agreement Article 15.7; under this article, "[t]he change in circumstances which would create a situation in which the subsidy would cause injury must be clearly foreseen and imminent." We note the relationship between threat of serious prejudice and threat of material injury, both of which make up part of adverse effects under Article 5.
+4 Instead of continued low prices, the A-Index average for September 2003 has risen to 64.06 cents per pound. New York Cotton Exchange futures prices demonstrate that market participants expect cotton prices to climb even further through the 2003 marketing year, strengthening beyond their 20-year average of 67.86 cents per pound (1983-2002) within the current 2003 marketing year. In fact, if cotton prices reach the levels (over 70 cents per pound) indicated by the futures market, prices would be very close to what Brazil calculates as the A-index average (74 cents per pound) for the period before Brazil alleges serious prejudice.
+
+WT/DS267/R/Add.1 Page E-14
+demonstrate a per se threat of serious prejudice. Otherwise, any subsidy with any production effect would be found to pose a threat, transforming actionable subsidies into prohibited subsidies. Thus, Brazil has not demonstrated that these subsidies per se present a real, clear, and imminent threat of serious prejudice.
+32. Export Credit Guarantees ­ The Negotiating History of Article 10.2 Reveals that the Negotiators Explicitly Deferred the Application of All Export Subsidy Disciplines on Export Credit Guarantees: The negotiating history of Article 10.2 of the Agreement on Agriculture reveals the explicit deferral by the drafters of the application of export subsidy disciplines on export credit guarantees. In particular, the plain difference between the language of the Draft Final Act and that of Article 10.2 shows that the negotiators specifically opted not to impose the disciplines that Brazil now seeks to impose through litigation. The earlier version was an unambiguous prohibition, unless permitted under internationally agreed disciplines. The latter ­ and current ­ version imposes no such prohibition. It only requires Members to work toward the development of yet-to-be-agreed disciplines, and only upon agreement on such disciplines are export credit guarantee programmes required to adhere to them.
+33. Brazil's interpretation of Article 10.2 would require export credit guarantees in agriculture to be subject to more disciplines than any other practice addressed in the Agreement on Agriculture. Under Brazil's view, not only would export credit guarantees constitute export subsidies and be subject to all of the export subsidy disciplines, but Members would also be specifically obligated to work toward and then apply additional disciplines. Brazil's argument would require an interpretation that the negotiators viewed export credits, credit guarantees, and insurance programmes as more malign than the recognized export subsidies themselves. This implausible conclusion is nowhere manifest in the text of the negotiating history.
+34. To the contrary, the text indicates that export credits, credit guarantees, and insurance programmes were not considered export subsidies, because they were explicitly excluded from Article 9.1 of the Agreement on Agriculture, despite their inclusion in negotiating documents culminating in the current text. Brazil argues that the same is true of "[e]xport performance-related taxation concessions or incentives other than the remission of indirect taxes", and yet the Appellate Body has ruled the FSC and ETI measures are subject to the export subsidy disciplines of the Agreement on Agriculture. With respect to those measures, however, no provision like Article 10.2 exists. Export credits, credit guarantees, and insurance programmes were not only removed from the illustrative list evident in Article 9.1 but received the explicit commitment to negotiate disciplines set forth in Article 10.2.
+35. ­ The Application of Government-Wide Accounting Rules under the Federal Credit Reform Act Indicates that the Export Credit Guarantee Programmes are Covering Long-Term Operating Costs and Losses: The United States has demonstrated that over time, as indicated by the government-wide accounting rules mandated under the Credit Reform Act, with respect to those years for which nearly complete experiential data is available, programme revenues exceed operating costs and losses. In those years for which the accounting books are nearest to closing (1994 and 1995), the operation of the programme shows a profit. Similarly, current data for 1992, 1993, 1996, and 1999 also indicate a profit. All of this data is on a cohort-specific basis, a methodology with which Brazil agrees.5
+5 Brazil misapplies the cohort-specific accounting methodology, however, to erroneously argue that "when [the] total lifetime reestimates for all cohorts of guarantees disbursed since 1992 are netted against the total original subsidy estimates adopted each budget year during the period 1992-2002, the resulting loss is nearly $1.75 billion". To arrive at this fanciful figure Brazil begins not with the estimates based on the "actual" level of guarantees issued, but rather with the original subsidy estimate in the budget year, well before virtually any activity in the programmes has occurred in that fiscal year. The "actual" figure is simply a reflection of the
+
+WT/DS267/R/Add.1 Page E-15
+36. The United States has repeatedly noted that CCC has complete discretion at any time not to issue guarantees with respect to any individual application for an export credit guarantee or to suspend the issuance of export credit guarantees under any particular allocation. In addition, the authorizing statute prohibits CCC from making credit guarantees available in connection with sales of agricultural commodities to any country that the Secretary of Agriculture determines cannot adequately service the debt associated with such sale. Third, availability of export credit guarantees is governed by allocations in effect at any one time for specific commodities and specific destinations. Fourth, the ability of CCC to issue guarantees is constrained by the apportionment process of the President's Office of Management and Budget.
+37. ­ Forfaiting is Analogous to the CCC Export Credit Guarantee Programmes: Brazil's argument that forfaiting transactions and CCC export credit guarantee transactions are dissimilar illustrates the comparability of the financing available in these transactions. As Brazil points out, in both cases "the exporter wants to get paid immediately on a cash basis, and the importer wants credit that it can repay on a deferred basis". From the importer's perspective, the export credit guarantee transactions are less favourable than forfaiting, because although the importer's bank can repay its obligation over time, the CCC has no control over the terms of the arrangement between the importer and its bank, which may not extend the deferred payment terms to the importer. In forfaiting, the importer "can repay on a deferred basis". In both cases, the transaction (in Brazil's words) "enables the exporter to convert a credit sale into a cash sale." Brazil recognizes that as the complaining party it carries the burden of demonstrating that a "benefit" is conferred with respect to the GSM-102 programme. Brazil has failed to carry this burden.
+38. The Step 2 Programme Does Not Violate Article 3.1(b) of the Subsidies Agreement or Article III:4 of GATT 1994: Brazil has rotundly stated: "There are no circumstances in which a `local content subsidy' would comply with Article 3.1(b)". In effect, Brazil's argument would delete the application of the introductory clause of Article 3 to Article 3.1(b) entirely. But the phrase "except as provided in the Agreement on Agriculture" by its terms applies to both export subsidies under Article 3.1(a) and local content subsidies under Article 3.1(b).
+39. Brazil would require the Step 2 programme to permit payments for the use of all cotton, whether domestic or imported, but only payments for domestic cotton would be included in the AMS. Such a programme would no longer be in favour of domestic producers. The Step 2 programme provides a benefit to producers because it serves to maintain the price competitiveness of US cotton vis-a-vis foreign cotton through a payment to capture some differential between prevailing foreign and domestic cotton prices. Brazil's hypothetical programme would cause the benefit to US producers to evaporate. Rather than a subsidy "in favour of agricultural producers", the programme would become a simple input subsidy in favour of textile manufacturers outside the coverage of the Agreement on Agriculture altogether. Brazil's interpretation would render Paragraph 3 of Annex 7 of the Agreement on Agriculture inutile.
+actual level of guarantees issued in the particular fiscal year. The original subsidy estimate, in contrast, begins with what is an historically overly optimistic projection of actual use of the programme and then is required to use the government-wide estimation rules without regard to the actual experience specific to the CCC export credit guarantee programmes.
+Actual guarantee issuance can first be reflected only in the budget two fiscal years after the original subsidy estimate. Once the actual use of the program is determined all subsequent reestimates are based on that figure, not on the original subsidy estimate. Other than with respect to interest (because of independent market forces), a downward reestimate never occurs based on the original subsidy estimate. It only occurs subsequent to establishment of the actual program use. Consequently, it is wholly inappropriate to calculate net reestimates based on the original subsidy estimate for a particular cohort, as Brazil has done. For these reasons, the United States' calculation indicating increasing profitability within the program is accurate, and the Brazilian calculation is not.
+
+WT/DS267/R/Add.1 Page E-16
+40. Brazil argues that since the Peace Clause provisions for domestic subsidies do not reference Article 3, the Agreement on Agriculture envisioned that local content subsidies would be prohibited. Brazil's conclusion does not necessarily follow from the structure of the text. Indeed, a contrary conclusion is more appropriate. Article 13(b) does not refer to Subsidies Agreement Article 3 because the substantive obligation of Article 3.1(b) does not apply in the case of domestic content subsidies in favour of agricultural producers. Article 13(b) applies to "domestic support measures that conform fully to the provisions of Article 6 of this Agreement". The character of the domestic subsidy is not relevant to the disciplines. The Agriculture Agreement never defines "domestic support", which is permitted in any form so long as the Member adheres to its reduction commitments.
+
+WT/DS267/R/Add.1 Page E-17
+ANNEX E-3
+SECOND WRITTEN THIRD-PARTY SUBMISSION BY ARGENTINA
+3 October 2003
+TABLE OF CONTENTS
+I. INTRODUCTION .................................................................................................................. 17 II. IMPACT OF THE US SUBSIDIES ON THE WORLD COTTON MARKET
+SITUATION ............................................................................................................................ 18 III. INCONSISTENCY WITH ARTICLES 5(C) AND 6.3(C) AND (D) OF THE
+SCM AGREEMENT .............................................................................................................. 20 III.1 ARTICLE 5(C) OF THE SCM AGREEMENT.................................................................................. 20 III.2 ARTICLE 6.3(C) OF THE SCM AGREEMENT............................................................................... 20 III.3 ARTICLE 6.3(D) OF THE SCM AGREEMENT .............................................................................. 24 III.4 THREAT OF SERIOUS PREJUDICE: ARTICLE 6.3(C) AND (D) ..................................................... 25 IV. CONCLUSION ....................................................................................................................... 26
+I. INTRODUCTION
+1. Argentina thanks the Panel for the renewed opportunity to present its views as a third party to these proceedings.
+2. Argentina reaffirms the arguments put forward in its written Third-Party Submission and at the meeting of the Panel with the third parties, of 15 and 24 July respectively. It accordingly reiterates its position that the United States has no basis for claiming protection under Article 13 of the Agreement on Agriculture (AoA) and that the US subsidies are therefore actionable under Article XVI of the GATT 1994 and Articles 3, 5 and 6 of the Agreement on Subsidies and Countervailing Measures (SCM Agreement). Argentina further reiterates that the US cotton export subsidies are inconsistent with Articles 3.3, 8 and 10.1 of the AoA and constitute prohibited subsidies within the meaning of Article 3.1(a) and (b) and 3.2 of the SCM Agreement.
+3. Argentina will now address the claims put forward by Brazil in its recent Further Submission dated 9 September, regarding the inconsistency of the US cotton subsidies1 with Articles 5(c) and 6.3(c) and (d) of the SCM Agreement to the extent that, in the case of the subsidies provided in marketing years (MY) 1999-2002, they cause serious prejudice to the interests of other Members, including Argentina. Argentina further proposes to argue that such subsidies threaten to cause serious prejudice2 in MY 2003-2007.
+1 The US subsidies the consistency of which is being challenged include both the domestic support measures and the prohibited subsidies and export credit guarantee programme cited at paragraph 7 of Brazil's Further Submission to the Panel of 9 September 2003.
+2 Within the meaning footnote 13 of the SCM Agreement.
+
+WT/DS267/R/Add.1 Page E-18
+4. Given the little time available between the receipt on 30 September of the responding party submission of the United States and the date fixed for this third-party submission, Argentina will comment on the US submission at the meeting of the Panel with the parties and third parties scheduled on 8 October next.
+II. IMPACT OF THE US SUBSIDIES ON THE WORLD COTTON MARKET SITUATION
+5. In the first line of the Introduction to its Further Submission of 9 September, Brazil points out that this is a case involving basic economic principles of supply and demand. Indeed, according to the basic principles of a market economy, in an open market prices would follow the costs of the more efficient producers. Thus, higher-cost (i.e. less efficient) producers are gradually compelled to reduce production. In the world cotton market, however, these principles are turned on their head: many highly efficient global producers have been cutting production, while the less efficient US producers are insulated from changes in market prices. Worse still, there is an inverse relationship between the world price of cotton and US production.
+6. In the words of US Senator Fred Thompson,
+"These policies defy logic and they defy the most basic laws of economics. The result is that farmers know that they are guaranteed to receive a certain price regardless of market conditions, so they ignore market signals and overproduce. The overproduction further depresses commodity prices, leading to the need for ever increasing government subsidies".3
+7. Argentina already emphasized this point in the consultations held in December of last year when it addressed the following questions, inter alia, to the United States:
+Could the US explain the reasons behind the fact that in 2001 -fifth year of falling prices- US cotton producers did obtain a record harvest of 20.3 million tons -an increase of 42 per cent compared to 1998- and that the cotton planted area did increase by 6 per cent during the same period?
+Why does the USDA estimate a 10 per cent drop in the world production for 2002 reflecting the impact of world prices in investment-, and at the same time estimates for this year another record harvest in the U.S. -the fourth biggest ever recorded-?
+Could the US please explain the reasons for the increase in the volume of US exports from 946,000 tons in 1998 to 1.8 million tons in 2001, while there is a drop in the international prices?
+According to international standards, the US is not a low-cost producer4. Additionally, US productivity levels are lower than those of other exporting countries5. However, while international prices fell about 54 per cent since the mid1990s, the US did expand its cotton area and did increase the production: Could the
+3 Exhibit Bra-200 (Congressional Record 107th Congress, Senate) S3990; Brazil's Further Submission, 9 September 2003, Section 4.9.
+4 The USDA estimates the average production cost in the USA at about US$0.73 per pound. Nevertheless, one third of its production has higher production costs. On the other hand, the average production cost in Burkina Faso, for instance, is US$0.21 per pound (Data from International Cotton Advisory Committee, "Survey of the Cost of Production of Raw Cotton", 2001).
+5 About 20 per cent lower than in Brazil or China, for instance.
+
+WT/DS267/R/Add.1 Page E-19
+US please explain the lack of correlation between world price for cotton and US production? 8. At the time, the United States' only response to Argentina's questions was that production was affected by a multiplicity of factors, including the development of fibres, biotechnology, demand, quality, technical progress, the price of inputs, and so forth, without in any way explaining how it could achieve such expansion amidst such a spectacular fall in international cotton prices and high domestic production costs. 9. In this respect, Argentina has already extensively discussed the impact of the decline in international cotton prices on its own cotton economy. As already mentioned, since 1997/98 slumping international prices and increased US government support have consistently driven cotton producer prices down, which in turn has entailed ongoing reductions in cultivated acreage and production.6 10. As Argentina stated at the 61st Plenary Meeting of the International Cotton Advisory Committee7 (ICAC), planted and harvested acreage in MY 2001/02 plummeted to its lowest level since MY 1933/34 ­ that is, the lowest in the past 68 years ­ as a result of the continuing fall in international prices. 11. Argentina believes that without the subsidies granted by the United States to its cotton sector, U.S. cultivated acreage and production would diminish, as would US exports, and that there would be an ensuing rise in international prices. 12. Argentina further believes that if the United States ­ being one of the world's leading suppliers ­ had not increased its world market share as a result of the subsidies, the international price of cotton would have been higher, and hence third-country producers, including in Argentina, would not have been so adversely affected by artificially depressed prices. 13. The following table shows the steady increase in US cotton exports since 1995, whereas Argentina's cotton exports have been shrinking in a general context of declining world cotton prices, as discussed in paragraphs 23 to 25 below.
+6 Since 1997/98, cultivated acreage has in fact shrunk by 76 per cent, with 174,000 hectares planted to cotton, and production by 63 per cent, with an estimated 73,000 tons of fibre produced. Argentina: Economic Injury to the Cotton Sector as a Result of Low Prices, Working Group on Government Measures of the International Cotton Advisory Committee, 2002.
+7 Held in Cairo, Egypt, from 20 to 25 October 2002.
+
+WT/DS267/R/Add.1 Page E-20
+
+Marketing Year
+
+US Exports
+
+Argentine Exports
+
+(in 1,000 metric tons) (in 1,000 metric tons)
+
+1995/96
+
+1,671
+
+274
+
+1996/97
+
+1,495
+
+269
+
+1997/98
+
+1,633
+
+202
+
+1998/99 946 213
+
+1999/00
+
+1,481
+
+70
+
+2000/01
+
+1,467
+
+97
+
+2001/02
+
+2,395
+
+51
+
+2002/03*
+
+2,351
+
+6
+
+* Estimate. Source: ICAC and Instituto Nacional de Estadística y Censos (INDEC) (National Institute of Statistics and Censuses).
+
+III. INCONSISTENCY WITH ARTICLES 5(C) AND 6.3(C) AND (D) OF THE SCM AGREEMENT
+III.1 ARTICLE 5(C) OF THE SCM AGREEMENT
+14. Argentina contends that the United States has failed to meet its obligations under Article 5(c) of the SCM Agreement, which stipulates that "[n]o Member should cause, through the use of any subsidy referred to in paragraphs 1 and 2 of Article 1, adverse effects to the interests of other Members, i.e.: ... serious prejudice to the interests of another Member...".
+15. In fact Argentina contends that through the granting of subsidies ­ understood in the sense of paragraphs 1 and 2 of Article 1 of the SCM Agreement8 ­ the United States has caused and is threatening to cause serious prejudice to the interests of other Members, including Argentina.
+III.2 ARTICLE 6.3(C) OF THE SCM AGREEMENT
+16. Article 6.3(c) establishes that "[s]erious prejudice in the sense of paragraph (c) of Article 5 may arise in any case where... the effect of the subsidy is a significant... price suppression, price depression...".
+17. Thus, the existence and threat of serious prejudice to the interests of other Members ­ including Argentina ­ is based on the fact that, as established in Article 6.3(c) of the SCM Agreement, the effect of the subsidies provided by the United States to its cotton sector is and will be significant suppression and depression of international cotton prices.
+18. Argentina fully concurs with Brazil that the sheer magnitude and percentage of U.S. cotton subsidization suggests a de facto presumption that the cotton subsidies are the decisive factor for the high levels of US production and exports as well as the low international cotton prices.9 Argentina emphasizes that such was precisely the presumption implicit in its questions to the United States during the consultations. (See paragraphs 7 and 8 above.)
+
+8 As Brazil demonstrates in Section 3.2 of its Further Submission of 9 September 2003. 9 On the basis of information in the USDA's Fact Sheet: Upland Cotton, January 2003, Exhibit Bra-4, Brazil points out that the total amount of US cotton subsidies was nearly US$13 billion, with an average subsidization rate of 95 per cent. Brazil's Further Submission, 9 September 2003, Section 3.3.4.1.
+
+WT/DS267/R/Add.1 Page E-21
+19. Argentina also agrees that there is a strong temporal link between the increase in the US subsidies over the MY 1999-2002 period and the significant suppression and depression of international cotton prices during that period.10
+20. Argentina believes that but for the US subsidies international cotton prices would have been higher in MY 1999-2002. By stimulating US cotton production11 and exports, the subsidies drove international prices down through excess, low-priced US supply ­ not in fact generated by efficient low-cost production but precisely thanks to the distorting effect of the subsidies.
+21. It should be noted in this respect that Argentina (like or perhaps to an even greater extent than Brazil) is a "price-taker" in the world cotton market, which is heavily influenced by the enormous US subsidies that generate a growing world supply.
+22. It should also be emphasized that the price movements of US, Cotlook "A" Index and third country (e.g. Brazilian and Argentine) market prices are directly interconnected. US ­ as indeed Brazilian ­ cotton forms part of Cotlook's "A" Index "basket". Likewise, US ­ as indeed Brazilian and Argentine ­ cotton forms part of Cotlook's "B" Index "basket".12 Moreover, US, Brazilian and Argentine cotton are varieties of the same species, namely Gossypium hirsutum.
+23. As in the Brazilian market, domestic price quotes for cotton have suffered a significant downturn.
+24. The table below shows the direct relationship between the decline in the "A" Index world price of cotton and the drop in the domestic price quotes for cotton issued by the Cámara Algodonera Argentina (CAA) for the MY 1995/96-2001/02 period (in US cents/lb):
+
+Marketing
+
+"A" Index
+
+Year 1995/96 1996/97 1997/98 1998/99 1999/00 2000/01 2001/02
+
+World Price* 0.86 0.79 0.72 0.59 0.53 0.57 0.42
+
+* CIF Northern European ports ** FREE MILL, grade C 1/2
+
+CAA Price
+Quote** 0.72 0.69 0.65 0.55 0.54 0.49 0.37
+
+25. The following chart clearly shows the trends in the "A" Index world price of cotton and the domestic price quotes for cotton in recent years:
+
+10 Brazil's Further Submission, 9 September 2003, Section 3.3.4.2. 11 Argentina agrees with Brazil (Section 3.3.4.7.7) that without the additional income provided by the subsidies granted by the US to its cotton farmers, acreage devoted to cotton would have been, and would be, much smaller, since US cotton production costs are among the highest in the world. (See Third-Party Submission by Argentina, 15 July 2003, para. 17.) 12 In addition, the average values of national standards for the technical characteristics of Argentine cotton fibre show that the length, strength and micronaire value of the fibre are considered in the median range at international level.
+
+WT/DS267/R/Add.1 Page E-22
+
+26. The similarity in the trends in world prices and domestic price quotes for cotton further
+
+0.9
+0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1
+0
+1995/96
+
+1996/97
+
+1997/98
+
+1998/99
+
+1999/00
+
+2000/01
+
+2001/02
+
+"A" Index world price CAA price quote
+
+supports Brazil's point13 that the US subsidies have a suppressing and depressing effect on international cotton prices. In other words, in the absence of US subsidies that generate excess global supply, international cotton prices would have been higher, as would the domestic price quotes for cotton in Argentina, which are entirely influenced by the former.
+
+27. To an even greater extent than Brazil because of the smaller scale of its cotton economy, Argentina is basically a "price-taker" in the international cotton market, unlike the United States, which, given the size and global impact of the US cotton market and its 41.6 per cent world market share, is the international market "price-setter" par excellence.
+
+28. In concrete terms, the amount of the US cotton subsidies and the scale of US production and exports are decisive when it comes to determining the extent to which the subsidies impact the fixing of both international and third market prices.
+
+29. As economic theory would suggest and Brazil points out, increased supplies of US cotton in the world market tend to lower international prices since demand remains relatively inelastic.14
+
+30. The chart below illustrates the relationship between US cotton exports and the international price of cotton:
+
+13 Brazil's Further Submission, 9 September 2003, Section 3.3.4.2. 14 Brazil's Further Submission, 9 September 2003, Section 3.3.4.6; Exhibit Bra-I, para.22.
+
+WT/DS267/R/Add.1 Page E-23
+
+Tons (thousands)
+2500
+
+COTTON
+Relationship between U.S. exports and the decline in the international price
+US cents
+0.9
+0.8
+
+2000 1500
+
+0.7 0.6 0.5
+
+1000
+500
+0 95/96
+
+96/97
+
+97/98
+
+98/99
+
+99/00
+
+00/01
+
+01/02
+
+0.4 0.3 0.2 0.1 0
+
+U.S. exports
+
+World price
+
+31. According to a study carried out by the Brazilian National Cotton Exporters' Association (ANEA),15 the impact of the US subsidies is one of the reasons why cotton production in Argentina has dropped by more than 60 per cent.
+32. The study reinforces Brazil's view that an increase in the world price of cotton would enable least-developed and developing countries such as Argentina, Brazil, Benin, Burkina Faso and Chad, inter alia, to recover the historically competitive position they enjoyed in the international market.
+33. As Argentina indicated previously, the present collapse of the Argentine cotton sector is reflected in the extremely high level of indebtedness of producers, estimated at US$600 million and equivalent to twice the size of agricultural GDP of Chaco Province, the country's largest cotton producing region, which accounts for between 60 and 65 per cent of domestic cotton production.16
+34. As regards the effects of the US subsidies on the international price of cotton, Argentina considers that the number and quality of the empirical and econometric analyses presented by Brazil, which were carried out by both international organizations and various prestigious US economic research institutions such as the USDA, provide irrefutable evidence of the collective and individual effects of each subsidy programme on the price of cotton.
+
+15 Características del Mercado Mundial de Algodón (Features of the World Cotton Market), ANEA, 15 February 2002.
+16 Third-Party Submission by Argentina, 15 July 2003, para. 28.
+
+WT/DS267/R/Add.1 Page E-24
+35. Argentina agrees with the conclusions reached by various studies presented by Brazil in its Further Submission17 and repeats that an increase in the world price of cotton would enable countries such as Brazil and Argentina to recover their competitive position in the world cotton market.
+36. Over and above any endorsement that may be given to the conclusions of any one of those studies (and each study's estimate of the price effect of the subsidies), Argentina emphasizes Brazil's point18 that the suppressing and depressing effect on international cotton prices is significant, even if international prices were to decrease by only 1 cent per pound, for even such a level of decline implies highly prejudicial consequences for the cotton economies of many countries, including Argentina.
+III.3 ARTICLE 6.3(D) OF THE SCM AGREEMENT
+37. The existence and threat of serious prejudice to the interests of other Members, including Argentina, is also based on the following provision of the SCM Agreement:
+Article 6.3 "Serious prejudice in the sense of paragraph (c) of Article 5 may arise in any case where one or several of the following apply:
+...
+(d) the effect of the subsidy is an increase in the world market share of the subsidizing Member in a particular subsidized primary product or commodity as compared to the average share it had during the previous period of three years and this increase follows a consistent trend over a period when subsidies have been granted."
+38. As regards the serious prejudice claim, Argentina proposes on the one hand to refer to the U.S. levels of domestic support for cotton, as detailed at paragraph 64 of Argentina's first Third-Party Submission of 15 July 2003. Thus, the US budgetary outlays for support for the cotton sector in marketing years 1999 to 2002 were US$3.445 million, 2.311 million, 4.093 million and 3.113 million respectively, according to data supplied by the USDA.19
+39. Such being the US levels of domestic support for cotton, Argentina will now give the US level of cotton exports over that same period, in order to demonstrate that the effect of the subsidies has been to increase the US world export market share for cotton.
+40. The US level of cotton exports in recent years ­ according to data drawn from a USDA report other than the documents on which Brazil based its Article 6.3(d) claim20 ­ is as follows:
+17 Brazil's Further Submission, 9 September 2003, Section 3.3.4.8.1. 18 Brazil's Further Submission, 9 September 2003, Section 3.3.5. 19 See Exhibits Bra-6, Bra-76, Bra-4, Bra-57, Bra-55, Bra-47, and footnotes 301 and 321. The budgetary outlays for US cotton export credits and credit guarantees have not been taken into account. 20 Cotton: World Markets and Trade, USDA, March 2003, Table 1 (http://www.fas.usda.gov/exportsales/esrd1.html).
+
+WT/DS267/R/Add.1 Page E-25
+
+WORLD TOTAL US TOTAL US WORLD SHARE (percentage)
+
+COTTON EXPORTS (in 1,000 metric tons)
+
+1998/99
+
+1999/00
+
+5,153 936
+
+5,950 1,470
+
+18.16
+
+24.70
+
+2000/01 5,789 1,467
+25.34
+
+2001/02 (Estimate)
+6,323 2,395
+37.87
+
+41. In chart form, the US share of world cotton exports is as follows:
+
+WORLD AND US COTTON EXPORTS (in 1,000 metric tons)
+
+5153 936
+1998/99
+
+5950 1470
+1999/00
+
+WORLD TOTAL US TOTAL
+
+5789
+
+6323
+
+1467
+
+2395
+
+2000/01
+
+2001/02 (Estimate)
+
+42. Argentina thus contends that there has been an increase in the world market share of the United States as compared to the average share it had during the previous period of three years and that this increase has followed a consistent trend over a period when the subsidies have been granted, since the average world market share of the United States was 22.73 per cent between 1998/99 and 2000/01 and 37.87 per cent in MY 2001/02, recording a more than 15 percentage point increase over the average share during the immediately preceding three-year period.
+43. In conclusion, Argentina asserts that, in the absence of subsidies, US cotton production would naturally have been lower than that actually recorded and consequently the volume of US exports and ultimately the impact of the US world market share would also have been smaller.
+III.4 THREAT OF SERIOUS PREJUDICE: ARTICLE 6.3(C) AND (D)
+44. Having established the existing serious prejudice caused by the US cotton subsidies, Argentina agrees with Brazil that the threat of serious prejudice is clearly foreseeable and imminent because of the effects of the even larger subsidies provided under US legislation for the MY 2003 2007 period.
+
+WT/DS267/R/Add.1 Page E-26
+
+45. As discussed in detail by Brazil,21 the marketing loan payments, crop insurance subsidies, CCP, direct payments and Step 2 Payments programmes are mandatory in terms of the US budget for the MY 2003-2007 period, with no limitations on the volume of production and exports or on budgetary expenditure for cotton.
+46. By way of example that confirms the above, and subsequently to Brazil's Further Submission, the USDA announced on 17 September 2003 that it would begin issuing counter-cyclical payments for final 2002-crop cotton.22 The counter-cyclical payment rate for cotton is U$S303.09/ton. This is the amount by which the target price (U$S1,596.1/ton23) exceeds the effective price (the national average market price producers received or the loan rate ­ whichever is higher).
+As can be seen from the table below, these payments represent a major portion of the price.
+
+Cotton
+
+Current price Counter-cyclical Percentage (counter-
+
+(US$/t)
+
+payment rate cyclical payments)
+
+(US$/t)
+
+1,235
+
+303.09
+
+24.54%
+
+47. Counter-cyclical payments for 2002-crop cotton are at their maximum levels because of this season's low market prices. In other words, the reason why counter-cyclical payments are so high is because this MY's prices are very low. The fact that the target price is maintained regardless of market price fluctuations confirms Argentina's point that US producers are insulated from such changes in market prices (see paragraph 5 above).
+48. Argentina contends that this guaranteed flow of subsidies will undoubtedly lead to a higher level of US cotton production and exports. This will inevitably result in price suppression and depression as well as an increasing and inequitable US world market share for cotton, thus creating a source of permanent uncertainty that confirms the threat of serious prejudice generated by the subsidies.
+49. Moreover, Argentina also agrees with Brazil24 that the link between the US cotton subsidies and the threat of significant price suppression and depression and of an increase in the US world market share for cotton stems from the fact that that the future subsidies will be as necessary as the current ones for U.S. producers to bridge the gap between market prices and their total production costs. This will enable U.S. producers to continue competing with more efficient third-country producers, especially considering that the USDA forecasts an increase in total production costs.25
+II. CONCLUSION
+50. In view of the foregoing, Argentina considers that the subsidies granted by the United States to the US cotton sector over the MY 1999-2002 period have caused and still cause serious prejudice to the interests of other Members, including Argentina, in that:
+
+21 Brazil's Further Submission, 9 September 2003, Section 4.2. 22 USDA Release: USDA ISSUES FINAL 2002-CROP UPLAND COTTON, RICE AND PEANUT COUNTER-CYCLICAL PAYMENTS. 23 Monitoring and Evaluation 2003, OECD. 24 Brazil's Further Submission, 9 September 2003, Section 4.5. 25 See Exhibits Bra-7 (ERS Data: Commodity Costs and Returns); Bra-257 (Cost of Farm Production Up in 2003, USDA, 6 May 2003) and Bra-82 (USDA Agricultural Baseline Projections until 2012, USDA, February 2003, p.48).
+
+WT/DS267/R/Add.1 Page E-27
+- They have a significant suppressing or depressing effect on international cotton prices, within the meaning of Articles 5(c) and 6.3(c) of the SCM Agreement; and
+- they have the effect of increasing the U.S. world market share for cotton, within the meaning of Articles 5(c) and 6.3(d) of the SCM Agreement.
+51. Furthermore, Argentina considers that the subsidies provided under US legislation for the MY 2003-2007 period threaten to cause serious prejudice to the interests of other Members, including Argentina, insofar as:
+- they will have a significant suppressing or depressing effect on international cotton prices, within the meaning of Article 5(c), its footnote 13, and Article 6.3(c) of the SCM Agreement; and
+- they will have the effect of increasing the US world market share for cotton, within the meaning of Article 5(c), its footnote 13 and Article 6.3(d) of the SCM Agreement.
+52. Argentina accordingly requests the Panel to find that the aforementioned subsidies granted by the United States to the US cotton sector are inconsistent with Articles 5(c) and 6.3(c) and (d) of the SCM Agreement.
+
+WT/DS267/R/Add.1 Page E-28
+ANNEX E-4
+FURTHER THIRD PARTY SUBMISSION OF BENIN THIRD PARTY SUBMISSION OF CHAD
+3 October 2003
+TABLE OF CONTENTS Page
+I. INTRODUCTION ............................................................................................................... 29 II. SERIOUS PREJUDICE UNDER THE SCM AGREEMENT......................................... 29 III. THE COTTON SECTOR IN BENIN ................................................................................ 29 IV. THE COTTON SECTOR IN CHAD ................................................................................. 30 V. US COTTON SUBSIDIES ­ SERIOUS PREJUDICE TO BENIN AND CHAD .......... 31 VI. CONCLUSION .................................................................................................................... 34
+
+WT/DS267/R/Add.1 Page E-29
+I. INTRODUCTION
+1. This dispute marks the first time that either Benin or Chad ­ two least-developed, subSaharan African countries ­ have participated in a WTO dispute. Benin and Chad have taken this unprecedented step in response to the serious threat posed to their economic and social stability by massive, WTO-inconsistent US subsidies on upland cotton.
+2. As indicated below, subsidies provided by the United States to its relatively small and prosperous group of cotton farmers exceed the gross national income of Benin, Chad, and every other country in the West African region.
+3. Cotton plays a critical role in the economic development of West Africa. The cotton farmers of the region are highly vulnerable to changes in the world price of cotton. These small, subsistence farmers have no ability to influence the international cotton market ­ they are "price takers", not "price makers".
+4. When US subsidies cause or contribute to a dramatic fall in world prices, the consequences for Africa are severe: hundreds of thousands of people are pushed from basic subsistence living to stark poverty.
+II. SERIOUS PREJUDICE UNDER THE SCM AGREEMENT
+5. US subsidies have caused, and are causing, adverse effects to the interests of Benin and Chad within the meaning of Article 5(c) and 6.3 of the SCM Agreement. The United States has caused, and is causing, serious prejudice to the interests of Benin and Chad through the use of WTO-inconsistent subsidies on upland cotton. The serious prejudice to the interests of Benin and Chad arises because the effect of the US subsidies has been the significant price suppression and/or price depression for cotton in the same market, within the meaning of Article 6.3(c).1
+6. Benin and Chad agree with Brazil that for the purposes of Article 6.3(c), the term "market" could encompass an individual country, a region, or the world market for cotton.2 In addition, in the view of Benin and Chad, the Further Submission of Brazil has clearly established the causal link between US subsidies and suppressed prices in the world market.
+7. Therefore, for the purposes of this Third Party submission, Benin and Chad accept that the causal link has been established by Brazil, and will focus instead on the impact of such suppressed prices on the economies and cotton sectors of Benin and Chad.
+III. THE COTTON SECTOR IN BENIN
+8. Benin's Third Party Submission of 15 July 2003, provided the basic facts about its cotton sector. While Benin does not wish to repeat all of this information, it would recall that:
+- cotton is the most important cash crop in the national economy, accounting for about 90 per cent of agricultural exports;
+1 As a threshold matter, upland cotton from Benin and Chad is clearly "like" US upland cotton within the meaning of Article 6.3. Benin and Chad agree with the analysis set out by Brazil in Part 3.3.2 of its Further Submission. Applying the tests set out in previous GATT and WTO cases, the Panel should have little difficulty in concluding that these are "like products".
+2 Further Submission of Brazil, paragraph 98.
+
+WT/DS267/R/Add.1 Page E-30
+- cotton has provided 75 per cent of the country's export earnings over the past four years;
+- cotton generates a quarter of the country's revenues;
+- a third of all households depend on the cultivation of cotton, and a fifth of wageearning workers are employed in the cotton sector; and
+- overall, about a million people in Benin ­ out of a population of six million ­ are dependent on cotton, or cotton-related activities.
+IV. THE COTTON SECTOR IN CHAD
+9. Since Chad did not file an earlier submission, it takes this opportunity to provide the Panel with brief essential information about the national economy of Chad, and the cotton sector.
+10. Chad, like Benin, is one of the poorest countries in the world. Of the 175 countries listed in the 2003 United Nations Human Development Index, Chad is ranked 165th.3 It is estimated that 80 per cent of the population of Chad lives on less than US $1 per day. Average life expectancy is 48 years. Nearly a third of all children in Chad under the age of five suffer from chronic malnutrition.4
+11. The cotton-producing region of Chad is located in the southern part of the country, in an area covering about 127,000 square kilometres. Cotton is generally grown on small farms, usually no more than one or two hectares. Farmers have to rely on rain for irrigation and animals for traction when working the cotton fields during the sowing season.
+12. Cotton production in Chad affects approximately 1.5 million people, out of a total population of about 8.1 million.5 Cotton exports account for 5.1 per cent of GDP in Chad, and represents 25 per cent of all exports.6 Cotton is therefore one of Chad's main sources of income, and sustains the livelihood of a large portion of its population.
+13. A recent World Bank report on the cotton sector in Chad stated that:
+"Revenue from cotton constitutes the only source of community development for villages in the cotton-producing area to meet their needs and improve their quality of life [original emphasis]....[C]otton payments are received in two ways: as individual lump sums and as rebates/ balances (restourne), depending on the realized level of prices internationally [emphasis added]. Rebates constitute the only source farmers have to invest in village-level public goods such as schools, health centres, credit
+3 Human Development Report 2003, United Nations Development Programme, http://undp.org/hdr2003.
+4 Chad at a Glance, World Bank Group, 20 August 2003. 5 According to the World Bank, there are roughly 400,000 farm households in the cotton-producing areas of Chad, of which about 60 per cent grow cotton. An average farm household has 5 to 6 people. World Bank, Chad Cotton Sector Reform: A Case Study on Poverty and Social Impact Analysis. Document available at http://poverty.worldbank.org/files/13138_chadcottonreform.pdf 6 P. Fortucci, The Contributions of Cotton to Economy and Food Security in Developing Countries. Food and Agriculture Organization of the United Nations. July 2002.
+
+WT/DS267/R/Add.1 Page E-31
+institutions, storage facilities, clean water pumps and wells, radiers to limit village isolation during rainy season, and so forth."7
+14. Rather more succinctly, the World Bank observed that: "Cotton was introduced in Chad during the colonial period and has dominated the economy since then."8
+V. US COTTON SUBSIDIES ­ SERIOUS PREJUDICE TO BENIN AND CHAD
+15. Brazil's Further Submission of 9 September 2003 provides compelling evidence of the serious prejudice Brazil has sustained as a result of massive, WTO-inconsistent cotton subsidies. Yet the serious prejudice to the countries of West Africa, including Benin and Chad, has been far worse.9
+16. The subsidies paid by the United States to its relatively prosperous 25,000 cotton farmers dwarf the economies of West Africa. As indicated in Benin's Third Party submission of 15 July US cotton subsidies exceed the gross national income of Benin (population 6 million), as well as Chad (population 8 million).
+17. US cotton subsidies also exceed the gross national income of Burkina Faso (11 million), Mali (11 million), Togo (5 million) and the Central African Republic (4 million). As the respected international NGO Oxfam noted, "no region is more seriously affected by unfair competition in world cotton markets than sub-Saharan Africa".10
+18. The Oxfam report notes that:
+"Central and West African countries have suffered far graver injury than any other developing region....The crop...occupies a pivotal position in the macro-economy of many countries....[Cotton] exports are a vital source of foreign exchange, financing essential imports such as food, fuel, and new technologies. They also underpin government revenues, providing the funds needed to invest in health and education....
+High levels of poverty and limited government provision of basic services make Central and West Africa acutely vulnerable to adverse trends in world prices. Falling world prices mean that farmers have less to spend on health, education, and investment. Wages for agricultural labour also decline, as does the government's capacity to provide basic social services.
+Prospects for economic growth ­ a key requirement for poverty reduction ­ have also been damaged."11
+19. The Oxfam report ­ using data from the International Cotton Advisory Committee - estimates that in 2001 alone, sub-Saharan exporters lost $302 million as a direct consequence of US cotton subsidies. It notes that Benin's actual cotton export earnings in 2001/02 were $124 million.
+7 World Bank Report on Poverty and Social Impact Analysis ­ Chad Cotton Sector Reform ­ Ex-Ante Qualitative Analysis ­ First Phase. Document available at http://poverty.worldbank.org/files.
+8 Id. 9 Benin and Chad also welcome, and endorse, the arguments set out in Part 7 of Brazil's Further Submission, "Serious Prejudice to the Interests of African Countries by Reason of the US Subsidies on Upland Cotton." 10 Cultivating Poverty: The Impact of US Cotton Subsidies on Africa. Oxfam Briefing Paper 30. 27 September 2002. Brazil has filed the full Oxfam report as exhibit Bra-15. 11 Id., pages 8-9.
+
+WT/DS267/R/Add.1 Page E-32
+However, had US subsidies been withdrawn, Benin's export earnings are estimated to have been $157 million. Therefore, the value lost to Benin as a result of US subsidies was $33 million.12
+20. Chad's cotton export earnings in 2001/02 were $63 million, although in the absence of US subsidies, Chad would have earned $79 million, thus reflecting a loss of $16 million.13
+21. For the period from 1999/2000 to 2001/2002, Oxfam estimates a total cumulative loss of export earnings of $61 million for Benin and $28 million for Chad.14 As Oxfam rightly emphasizes, "the small size of several West African economies and their high levels of dependence on cotton inevitably magnify the adverse effects of US subsidies. For several countries, US policy has generated what can only be described as a major economic shock".15
+22. Indeed, for the subsistence cotton farmers of Benin and Chad, already highly vulnerable to fluctuations in the world price of cotton, the price suppression caused by US subsidies can and does have a highly destabilizing effect. According to the empirical data analyzed by two US economists, Nicholas Minot of the International Food Policy Research Institute and Lisa Daniels of Washington College:
+"A 40 per cent reduction in farm-level prices of cotton is likely to result in a reduction in rural per capita income of 7 per cent in the short-run and 5-6 per cent in the long-run. Furthermore, poverty rises 8 percentage points in the short-run, equivalent to an increase of 334 thousand in the number of individuals in families below the poverty line. In the long run, as households adjust to the new prices, the poverty rate settles down somewhat, remaining 6-7 percentage points higher than originally....
+Overall, the results in this paper challenge the stereotype of the rural poor in developing countries as consisting of subsistence farmers that are relatively unconnected to, and thus unaffected, by swings in world commodity markets. At least in the case of Benin, to the extent that fluctuations in world cotton prices are transmitted to farmers, they will have a significant effect on rural incomes and poverty."16 [emphasis added]
+23. Thus, as the Minot/Daniels paper indicates, a drop in world cotton prices of 40 per cent pushes an additional 334,000 people below the poverty line in Benin. Moreover, the Minot/Daniels study adopted a relative poverty line, equivalent to US$123 per person per year, far below the US$1 per day used by the World Bank. 17
+24. The Minot/Daniels paper describes what this means in human terms. The detailed household surveys carried out in Benin describe the living conditions for cotton farmers:
+ 85 per cent of the cotton farmers in Benin have houses with mud or mud-brick walls.
+ 62 per cent live in houses with a dirt floor.
+12 Id., page 17-18. 13 Id., page 17-18. 14 Id., page 32. 15 Id., pages 17 and 32. 16 Nicholas Minot and Lisa Daniels, Effect of Falling Cotton Prices on Rural Poverty in Benin. Exhibit BEN-CHA 1, paragraphs 36 and 38. 17 Id., paragraph 13.
+
+WT/DS267/R/Add.1 Page E-33
+ 72 per cent have corrugated metal roofs and 28 per cent have straw roofs.
+ 53 per cent of the cotton farmer households get drinking water from a public well, while another 18 per cent use water from a river or lake.
+ Less than 2 per cent have electric lights, and 98 per cent use oil or kerosene lamps.
+ On average, the nearest source of potable water is 430 m away, and the nearest paved road is 36 km away.
+ About 34 per cent of the cotton farmers do not own a chair, 38 per cent do not own a table, and 34 per cent do not own a bed.18
+25. Needless to say, farmers living in such conditions are "price takers", not "price makers" in the global cotton market.
+26. While comparable household surveys have not been conducted in Chad, conditions in Chad are, if anything, worse than in Benin. Moreover, as in Benin, the cotton farmers of Chad are highly vulnerable to changes in the international price of cotton.
+27. Yet despite this situation of poverty, cotton farmers in both Benin and Chad are, and remain, efficient producers. As noted in Benin's submission of 15 July the cost of producing cotton in West Africa is 50 per cent lower than comparable costs in the United States. Indeed, a recent World Bank Policy Research Working Paper found that West African countries were among the world's lowest cost producers of cotton.19
+28. Moreover, as Benin noted in its Submission of 15 July the IMF reported that Benin's reform process in the cotton sector is among the most advanced in the region. However, to re-iterate a key point of Benin's earlier submission, these economic efficiencies have been vitiated by the plunge in world cotton prices caused in no small part by US subsidies.
+29. Similarly, since 1999, Chad has undertaken major reforms in its cotton production system. The aim of these reforms has been to improve production and productivity with a view to generating supplementary income, which could then be used to reduce widespread poverty in cotton-growing areas, and indeed in the country as a whole. The method for achieving this goal is a progressive liberalization of the cotton industry, similar to methods employed in other African cotton-producing countries.
+30. However, as in Benin, the reforms in Chad are being seriously undermined by huge US subsidies. As stated by the World Bank:
+This analysis20 appears to be all the more urgent today, given the current situation on the international market and the low price of cotton deriving from the recentlyintroduced US subsidies. These can have the effect of thwarting the reform and of having a considerable social and poverty impact. Unless the international situation
+18 Id., paragraph 23. 19 Cotton Sector Strategies in West and Central Africa. World Bank Policy Research Paper 2867, July 2002, page 9. Brazil has filed this Working Paper as exhibit Bra-265. 20 The report's analysis was: "the findings ... suggest that privatisation and liberalization will not automatically lead to price competition nor will they automatically solve some of the structural problems that plague the current cotton system in Chad".
+
+WT/DS267/R/Add.1 Page E-34
+changes and the US subsidies are removed, any liberalization and privatization of the cotton sector is unlikely to be successful. [original emphasis].21
+31. The World Bank Policy Paper adds that:
+"...subsidies to cotton farmers in major cotton producing countries increase artificially the supply in international markets and depress export prices for WCA [West and Central Africa] countries. Downward pressures on export prices have been exacerbated by generous (and in the case of the United States, rapidly increasing) subsidies for cotton production in the United States, China and the European Union."22
+32. The Policy Paper ultimately concluded that:
+"Removal of these subsidies would benefit WCA countries, and allow them to better exploit their comparative advantage in cotton production for growth and poverty reduction."23
+VI. CONCLUSION
+33. On 10 June 2003, the President of Burkina Faso, H.E. Blaise Compaoré, presented the joint proposal on cotton to the Trade Negotiations Committee on behalf of Benin, Burkina Faso, Chad and Mali.24 In presenting the proposal, President Compaoré remarked that:
+"More than ten millions of people in West and Central Africa directly depend on cotton production, and several other millions of people are indirectly affected by the distortion of world market prices due to production and export subsidies to this agricultural product....
+While cotton accounts for only a small portion of economic activity in industrialized countries, in all our States, it represents a determining and critical factor for poverty reduction policies as well as for political and social stability. Through induced effects on infrastructure development, education and basic health services, cotton production acts as an essential link within our countries' development strategies....
+Arguments in favour of sector-based modalities for cotton are straightforward: our countries are not asking for charity, neither are we requesting preferential treatment or additional aid. We solely demand that, in conformity with WTO basic principles, the free market rule be applied. Our producers are ready to face competition on the world cotton market ­ under the condition that it is not distorted by subsidies."25 [emphasis added]
+34. Similar remarks were made following the Cancun Ministerial by Dr. Kipkorir Aly Azad Rana, a Deputy Director-General of the WTO. Speaking to the Second East African Business Summit in Kenya (18-21 September 2003), he stated that:
+21 World Bank Report on Poverty and Social Impact Analysis ­ Chad Cotton Sector Reform ­ Ex-Ante Qualitative Analysis ­ First Phase. Op cit., page 35.
+22 Cotton Sector Strategies in West and Central Africa. World Bank Policy Research Paper 2867, July 2002.
+23 Id. 24 Poverty Reduction: Sectoral Initiative in Favour of Cotton. WT/MIN(03)/W/2. 25 WTO News: Address by President Blaise Compaoré to the Trade Negotiations Committee, 10 June 2003. www.wto.org.
+
+WT/DS267/R/Add.1 Page E-35
+"A strong call for action in addressing subsidy issues in cotton was made earlier this year by Benin, Burkina Faso, Mali and Chad....West African negotiators put the spotlight, before and at Cancún, on cotton subsidies leading to overproduction by less efficient farmers in rich countries and depressing global market prices....The countries who brought this issue to the table do not have a broad range of export possibilities to choose from, but in cotton, they produce high quality merchandise at competitive prices. In recognition of the benefits of export-led growth for development, they have turned, at the highest level, to the WTO. They do not ask for aid, which is the World Bank's remit, nor do they make political appeals that belong to the United Nations. They have just asked that WTO rules and disciplines apply also in sectors of interest to the poor - that a fair and market-oriented system be established in agriculture and that rich countries' wasteful export and production subsidies be abolished and cease to undermine their comparative advantage." 26 [emphasis added] 35. Both President Compaoré and Deputy Director General Rana were speaking about WTO negotiations, not dispute settlement. Yet their messages are equally valid for the purposes of this Panel proceeding. In this dispute, Benin and Chad are not seeking charity or preferential treatment. Similarly, Benin and Chad do not wish to make political appeals. 36. In the context of this proceeding, Benin and Chad ask the Panel simply to find that the United States must adhere to the WTO rules and disciplines on subsidies that it accepted at the conclusion of the Uruguay Round. This includes the clear prohibition in Part III of the SCM Agreement against causing serious prejudice to the interests of other Members. US subsidies on upland cotton have demonstrably caused serious prejudice to the interests of Benin and Chad by suppressing world prices for upland cotton. The results have been devastating for West Africa. 37. Benin and Chad therefore respectfully request the Panel to grant the relief requested by Brazil in Part 9 of its Further Submission.
+26 WTO News: Address by Dr. Kipkorir Aly Azad Rana, Deputy Director-General to the Second East African Business Summit, "The Multilateral Trading System: Why East Africa Must Remain Engaged." 1821 September 2003. www.wto.org.
+
+WT/DS267/R/Add.1 Page E-36
+
+Exhibit Ben-Cha 1
+Nicholas Minot Research Fellow Markets, Trade, and Institutions Division International Food Policy Research Institute 2033 K St. NW Washington, D.C. 20006 USA
+Lisa Daniels Associate Professor Department of Economics Washington College Chestertown, MD 21620 USA
+
+26 September 2003
+
+Contact information: The authors may be contacted by mail using the first address listed above, by phone at +1 202 862-8199, or by email at n.minot@cgiar.org.
+Acknowledgements: This original version of this paper was prepared for The World Bank. The field research was funded by the German Bundesministerium für Wirtshaftliche Zusammenarbeit (BMZ). The authors also wish to acknowledge useful comments and assistance from Ousmane Badiane at the World Bank, Karen Macours and others at the Northeast Universities Development Consortium conference at Williams College in October 2002, and an anonymous reviewer at IFPRI.
+
+WT/DS267/R/Add.1 Page E-37
+Effect of falling cotton prices on rural poverty in Benin
+Summary
+This paper combines farm survey data from Benin with assumptions about the decline in farm-level prices to estimate the direct and indirect effects of cotton price reductions on rural income and poverty in Benin. The results indicate that there is a strong link between cotton prices and rural welfare in Benin. A 40 per cent reduction in farm-level prices of cotton results in an increase in rural poverty of 8 percentage points in the short-run and 6-7 percentage points in the long run. The shortrun impact is equivalent to an increase of 334 thousand in the number of individuals in families below the poverty line.
+The results in this paper challenge the stereotype of the rural poor in developing countries as consisting of subsistence farmers that are relatively unconnected to, and thus unaffected, by swings in world commodity markets. At least in the case of Benin, to the extent that fluctuations in world cotton prices are transmitted to farmers, they will have a significant effect on rural incomes and poverty.
+
+WT/DS267/R/Add.1 Page E-38
+Introduction
+1. From January 2001 to May 2002, world cotton prices fell almost 40 per cent, from 64 cents per pound to 39 cents/pound1. Since then, prices have rebounded to about 60 cents/pound, but cotton prices still show a long-term downward trend from the mid-1990s when cotton prices were over 80 cents/pound (see Figure 1). One reason for the long-term decline is that world demand for cotton has been stagnant at 20 million tons since the mid-1990s, in part due to competition with synthetic fibers. Short-term fluctuations in cotton prices are often driven by shifts in the net trade of China, the largest cotton producer and consumer in the world.
+2. In addition to these two effects, cotton prices are pushed below what they otherwise would be by government support to cotton growers. The International Cotton Advisory Committee (ICAC) estimates that world-wide direct assistance to cotton growers was US$ 4.9 billion in 2001/02. Of this amount, the United States accounted for US$ 2.3 billion, equivalent to 24 cents per pound of cotton produced. Other sources, using a broader definition of assistance, estimate that the government provides US$ 3.9 billion to the cotton sector (Oxfam, 2002). Until 2002, US cotton policy consisted of various programs2, including two (the marketing loan program and loan deficiency payments) that ensure that farmers receive at least 52 cents/pound. This has the effect of insulating US farmers from the falling world prices. In 2001, in spite of low world prices, the US posted record cotton production and near-record export volumes. Furthermore, US subsidies to cotton have increased since these studies were carried out. The 2002 Farm Bill introduced target prices for the major commodities and programs that effectively pay farmers most of the difference between market prices and the target price. For upland cotton, the target price is 72 cents/pound. In addition, by allowing farmers to update their "base acreage", the new policy provides incentives for farmers to expand production3.
+3. Several recent studies have attempted to assess the impact of subsidies on world prices. The Centre for International Economics in Canberra uses a five-region world model of fibre, textile, and garment markets in 2000-01 to simulate the impact of US and European subsidies on cotton production and export. They find that removing US and European subsidies to cotton growers would raise the world cotton price by 6 cents/pound or 11 per cent. Another study, carried out by ICAC, estimates that removing US production subsidies would have increased the world price by 11 cents/pound in 2001/02 (ICAC, 2002). And most recently, Sumner (2003) estimates that, in the
+1 These prices are based on the A-Index cotton price, calculated as the average of the five lowest prices for US cotton in Northern European markets based on a grade of middling 1-3/32 inch fibre length.
+2 The 1996 Farm Bill introduced production flexibility contract (PFC) payments, which were related to historical (not current) production and would decline over time as part of an effort to phase out farm subsidies. PFC payments to cotton farmers fell steadily from US$ 700 million in 1996 to US$ 474 million in 2002. Loan deficiency payments and marketing loan gains are, on the other hand, tied to current output and market prices. Low commodity prices over the last 3-4 years have sharply increased the cost of these programs. Payments to cotton growers were negligible in 1997, but rose to US$ 1.5 billion in 1999 and almost US$ 2.5 billion in 2002. In addition, Congress has authorized ad hoc market loss assistance (MLA) payments almost annually. MLA payments to cotton farmers were US$ 600 million in 1999 and US$ 650 million in 2002. Cotton exporters and US mills also receive roughly US$ 200 million per year in "Step 2" payments, designed to keep US cotton exports competitive (USDA, 2002b and Oxfam, 2002).
+3 The 2002 Farm Bill introduces two new commodity programs: direct fixed payments and countercyclical payments. In the case of upland cotton, the fixed direct payment is set at 6.7 cents/pound and is paid on the basis of 85 per cent of the "base acreage". The counter-cyclical payments involve payments of up to 13 cents/pound on 85 per cent of the base acreage depending on the gap between the market price (or the loan rate, whichever is higher) and the target price. These programs replace the production flexibility contract system and (supposedly) eliminate the need for the market loss assistance. The marketing loan and loan deficiency payments continue under the new Farm Bill with the same loan rate: 52 cents/pound for upland cotton. In addition, farmers are allowed to update their base acreage, providing them incentive to maintain or increase acreage in the event future opportunities to update acreage (USDA, 2002c).
+
+WT/DS267/R/Add.1 Page E-39
+absence of US subsidies, the world cotton price would have been 12.6 percent higher over 1999-2002. This estimate is probably the most authoritative because it takes into account the 2002 Farm Bill, it incorporates a detailed treatment of various US subsidy programs, and it uses a standard modelling framework and parameter estimates.
+4. The World Bank estimates that removing US cotton subsidies would generate US$250 million per year in additional revenues for West African cotton farmers (Badiane et al, 2002). An Oxfam report calculates the losses to three West African nations at 1-2 per cent of gross domestic product. It points out that, in Mali and Benin, losses in export revenue associated with US cotton subsidies are greater than US development assistance to those countries (Oxfam, 2002).
+5. The adverse impact of lower cotton prices on export revenue and GDP in cotton exporting nations is clear, but does this translate into higher incidence of rural poverty? If cotton is grown mainly by larger farmers with relatively high incomes, then the effect of changes in cotton prices on rural poverty may be modest. Even if cotton is grown primarily by small farmers, the magnitude of the effect on rural poverty will be small if few farmers grow cotton or if it accounts for a small share of rural income. Assessing the direct impact of changes in cotton prices on rural poverty requires detailed household-survey data on incomes and expenditures.
+6. This paper examines the impact of changes in cotton prices on rural poverty in Benin. In particular, it has two objectives:
+ to describe the living conditions and level of poverty for cotton growers and other farmers in Benin; and
+ to estimate the short- and long-run impact of lower cotton prices on the income of cotton growers and on the incidence of poverty in rural Benin.
+Background
+7. The Republic of Benin is a small West African nation of about 6.0 million inhabitants, 59 per cent of whom live in rural areas. Its rural economy is based on maize, sorghum, millet, yams, cotton, and livestock production. The per capita gross national product is US$ 380, placing Benin among the poorest 20 per cent of countries. The per capita income of Benin is lower than the average for subSaharan Africa (World Bank, 2000).
+8. In 1989, Benin entered a period of economic and political reform. Elections were held in which the military government was voted out of office, and Benin entered into the first of several structural adjustment programs with the International Monetary Fund and the World Bank. In the agricultural sector, state farms and cooperatives were disbanded, food crop prices and marketing were liberalized, and many state-owned enterprises, including agro-processing enterprises, were privatized or closed (République du Benin, 1997). In January 1994, the CFA franc (FCFA) was devalued by 50 per cent, effectively doubling the price of imports and the returns to exports. Although this imposed hardship on manufacturing firms and consumers that had become accustomed to cheap imports, it stimulated the local production of cotton, rice, and other tradable goods.
+9. Although the cotton sector benefited from the 1994 devaluation, structural reform in cotton marketing was limited. The cotton sector in Benin remained under the control of the state-owned Societé Nationale pour la Promotion Agricole (SONAPRA). In the past two years, Benin has begun to implement reforms to reduce the role of SONAPRA and introduce competition in the distribution of inputs and the marketing of cotton. The fall in world cotton prices has led to political pressure for the government to support the domestic price or even to re-assume control of the sector to protect
+
+WT/DS267/R/Add.1 Page E-40
+farmer interests. According to ICAC (2002), the government provides modest support for the cotton price, equivalent to 5 cents/pound. Currently, cotton represents 90 percent of agricultural exports and 60-70 per cent of its total exports (excluding re-exports4).
+10. The economic reforms carried out in the 1990s and the growth in cotton production during this period resulted in concrete benefits for rural households. The 1994-95 Enquête sur les Conditions de Vie en Milieu Rural (Survey on Living Conditions in Rural Areas) estimated the poverty rate at 33 per cent (UNDP-MDR, 1996: 13). Adopting a similar definition of expenditure and the same poverty line (adjusted for inflation), the poverty rate in the 1998 survey had fallen to 21 per cent. Qualitative questions in the latter survey appear to support the view that rural conditions improved in the 1990s. According to the IFPRI-LARES survey, 52 percent of the households reported that they were better off at the time of the survey (1998) than in 1992 and only 28 per cent reported being worse off . Furthermore, those reporting improvement tended to attribute these gains to economic factors such as crop prices and off-farm income opportunities, while those reporting worsening conditions tended to cite health and weather factors. Cotton farmers, those in the north of the country, and poor households were more likely to report improved conditions than others. (IFPRI, 2001)
+11. These results suggest that there is a strong link between market-oriented policies and cotton expansion on the one hand and the living conditions of farmers in Benin on the other hand. The analysis presented in this paper will further examine this link, focusing on the impact of changes in cotton prices on rural income and poverty.
+Methods
+12. The data used in this paper come from the Enquête des Petits Agriculteurs (EPP) or Small Farmer Survey, carried out in 1998 by the International Food Policy Research Institute (IFPRI) and the Laboratoire d'Analyse Régionale et d'Expertise Sociale (LARES). The survey used a 24-page questionnaire, divided into 16 sections5. The households were selected using a two-stage stratified random sample procedure based on the 1997 Pre-Census of Agriculture. In each of the six departments6, villages were randomly selected, with the number of villages proportional to the volume of agricultural production, subject to a minimum of 10 villages per department. In total, one hundred villages were selected. In each village, nine households were randomly selected using household lists prepared for the pre-Census of Agriculture. The survey was carried out from August to November 1998. In a few villages, the number of interviewed households was eight or ten, resulting in a final sample size of 899 agricultural households. Sampling weights are used in calculating the results presented here (see IFPRI, 2001 for more detail).
+13. In this study, we adopt a relative poverty line, set at the 40th percentile of per capita consumption expenditure. Per capita expenditure is calculated as cash expenditure on consumption goods, the imputed value of home-produced food, and the rental equivalent of owner-occupied housing. The resulting poverty line is equivalent to US$ 123 per person per year. It is worth noting that this poverty line is far below the US$ 1 per day frequently used by the World Bank.
+4 Re-exports of manufactured goods to Nigeria and other countries accounts for a large share of total exports.
+5 The 16 sections are household characteristics, housing characteristics, land, agricultural production, labour use, input use, changes regarding input use, credit, crop marketing, storage, sources of information, food and non-food consumption, allocation of time, asset ownership, sources of income, and perceptions of farmers.
+6 Since this study was carried out, an administrative reorganization has resulted in an increase in the number of departments from 6 to 12. The analysis in this report retains the old definitions of departments because this was the basis for the sampling design of the survey.
+
+WT/DS267/R/Add.1 Page E-41
+
+14. We simulate the impact of various percentage reductions in cotton prices on the incomes of rural households. In the short run (before the household responds to lower prices), the change in income of each household is simply the change in the value of cotton production, assuming the farmer grows the same amount of cotton. This can be calculated as follows:
+
+y1i  y0i  (Qci Pc ) / Hi
+
+(1)
+
+where y1i is per capita income7 of household i after the shock, y0i is per capita income before the shock, Qc is the quantity of cotton produced by household i, Pc is the change in the price of cotton, and Hi is the number of members in household i.
+
+15. In the long run, lower cotton prices will lead farmers to substitute away from cotton and reduce input use, so the long-run direct impact is smaller than the short-run direct impact of the change in cotton prices. In this analysis, we use the concept of producer surplus to measure the welfare impact of the change in cotton price. This is calculated using the following equation:
+
+y1i
+
+ y0i
+
+ (Qci Pc ) / Hi
+
+
+
+
+
+1 2
+
+(Pc
+
+)
+
+2
+
+
+
+c
+
+Q ci Pc
+
+ / Hi
+
+where c is the general equilibrium supply elasticity of cotton and Pc is the price of cotton8.
+
+(2)
+
+16. In the absence of estimated elasticities of supply for cotton in Benin, we use a range of plausible elasticities to calculate the range of plausible welfare impacts9. The elasticities used are 0.5, 1.0, and 1.5. As in the analysis of the short-run effect, we simulate the impact of these changes on the income of each household in the sample (micro-simulation) in order to estimate the impact on different types of households in terms of income and poverty.
+
+17. The simulations are run with farm-level reductions in cotton price (Pc) of 10%, 20%, 30%, and 40%. The other variables (yoi and Qci ) are all defined at the household level, allowing the changes in per capita income to be calculated for each household in the sample. This "microsimulation" approach allows us to estimate the change in income for any sub-group in rural areas, defined by income, farm-size, or other variables.
+
+18. The impact of price changes on poverty is measured using the Foster-Greer-Thorbecke measures of poverty10, the most widely used of which are known as P0, P1, and P2. P0 is just the
+
+7 As mentioned above, we use per capita expenditure as a proxy for per capita income 8 This expression is more accurate for small changes in price than large ones. These are third-order effects in that they would be captured by the third term in a Taylor-series expansion. It will be shown later that the results are not very sensitive even to second-order effects (alternative assumptions about supply elasticities). 9 Two studies have estimated the supply elasticity of cotton in Tanzania. Dercon (1993) estimated an elasticity of 0.63, while Delgado and Minot (2000), using more recent data, obtained an estimate of 1.0. 10 The Foster-Greer-Thorbecke measures of poverty are calculated as
+
+P
+
+
+
+1 N
+
+i
+
+  yi    
+
+where Pa is the poverty measure, N is the number of households,  is the poverty line, and yi is the income or expenditure of poor household i (the summation occurs only over poor households). When =0, the poverty measure, P0, is the incidence of poverty, that is, the proportion of households whose income is below the poverty line. When =1, the poverty measure, P1, is the poverty-gap measure. The poverty gap is equal to the incidence of poverty multiplied by the average gap between the poverty line and the income of a poor household, expressed as a percentage of the poverty line. Thus, it takes into account the depth of poverty as
+
+WT/DS267/R/Add.1 Page E-42
+proportion of the population below the poverty line. P1, sometimes called the poverty gap measure, takes into account how far below the poverty line the poor are, on average. And P2, sometimes called the poverty gap squared, takes into account the degree of inequality among poor households, giving greater weight to extreme poverty.
+Characteristics of Cotton Farmers in Benin
+19. Before estimating the impact of changing cotton prices on rural households, it is useful to describe the role of cotton in the rural economy and the characteristics of cotton growers. According to the IFPRI-LARES Small Farmer Survey, cotton is grown by roughly one third of the farm households. Cotton accounts for about 18 per cent of the area planted by farm households and 22 per cent of the gross value of crop production. In value terms, cotton is the second most important crop, after maize. Among cotton farmers, the average area planted with cotton is 2.3 hectares, producing 2.7 tons of seed cotton11. The value of this output is US$ 901 per cotton farm12.
+20. Another measure of the importance of cotton in the rural economy is its contribution to cash income. Farmers in Benin are quite market oriented, selling over half the output of cowpeas, groundnuts, manioc, and sweet potatoes, and selling almost half of the output of the "staple" foodcrop, maize. Nonetheless, cotton accounts for about one-third of the value of crop sales carried out by farm households in Benin (IFPRI, 2002).
+21. Who are the cotton growers in Benin and how do they differ from other farmers? As mentioned earlier, cotton production is concentrated in the north and center of Benin. About twothirds of the farmers in the large northern department of Borgou grow cotton, as do 37 per cent of those in nearby Atacora and 64 per cent of those in the central department of Zou. By contrast, in the three departments in the south (Atlantique, Mono, and Ouémé), the percentage ranges from zero to 25 per cent. If we divide the farm households into quintiles, the proportion of farmers growing cotton does not seem to vary consistently across quintiles. If anything, the proportion of cotton growers is lower (28 per cent) in the richest quintile (see Table 1).
+22. Cotton growers tend to have farms that are, on average, twice as large as those of nongrowers (5.3 hectares compared to 2.3 hectares). Nonetheless, cotton growers are similar to other farmers in terms of various measures of well-being. The incidence of poverty rate is slightly lower among cotton farmers (37 per cent) than among other farmers (42 percent), but the per capita expenditure of cotton growers is about 8 per cent lower than that of others, and the budget share allocated to food is almost identical to that of non-growers (see Table 2). The reason that the larger farms do not translate into a higher standard of living is that cotton growers are concentrated in the more arid north, where the agricultural potential is lower and where there are fewer opportunities for non-farm employment.
+23. To give a more concrete idea of the living standards of cotton growers, it is useful to describe some indicators of living conditions, according to the farm surveys:
+well as the percentage of the households that are poor. If =2, then the poverty measure, P2, takes into account the degree of inequality among poor households, as well as the depth of poverty and the number of poor households. P2, sometimes called the poverty-gap squared, will be referred to as a measure of the severity of poverty (see Foster, Greer, and Thorbecke, 1984).
+11 It is worth noting that the average yield is calculated at the household level and aggregated, so it is not necessarily equal to the average quantity divided by the average area. A similar qualification applies to production, price, and value of output.
+12 When the Small Farmer Survey was carried out, the exchange rate was around 630 FCFA/US$, so that the value of cotton production was US$ 901 per cotton farm.
+
+WT/DS267/R/Add.1 Page E-43
+ 85% of the cotton farmers in Benin have houses with mud or mud-brick walls,  62% live in houses with a dirt floor,  72% have corrugated metal roofs and 28% have straw roofs,  53% of the cotton farmer households get drinking water from a public well, while another
+18% use water from a river or lake,  Less than 2 percent have electric lights,  On average, the nearest source of potable water is 430 m away, and the nearest paved road is
+36 km away,  About 34% of the cotton farmers do not own a chair, 38% do not own a table, and 34% do not
+own a bed.
+These figures are fairly typical of farmers in Benin. Thus, it is not that cotton farmers are poorer than average, but rather that almost all farmers in Benin, including cotton farmers, are quite poor.
+Effect of lower cotton prices
+24. In this section, we use the data from the IFPRI-LARES Small Farmer Survey to estimate the impact of lower cotton prices in Benin. First, we examine the impact of lower prices on the income and poverty of cotton farmers in the short-run, before they have an opportunity to respond to the lower prices. Next, we estimate the impact on cotton farmers in the longer run, after they have responded to the shock of reduced prices.
+Short-term direct effects of lower cotton prices
+25. As described earlier, we estimate the short-term change in income associated with lower cotton prices using household-level information on per capita expenditures and the volume of cotton production, combined with different assumptions about the reduction in cotton price. A 40 per cent reduction in the farm-gate price of cotton reduces the income of cotton growers 21 per cent. Taking into account the incomes of non-growers, which do not change in this simulation, the average income falls 7 per cent. Smaller reductions in the cotton price cause roughly proportionate changes in income (see Table 3).
+26. With a 40 per cent fall in the cotton price, the average incidence of poverty, including both cotton growers and other farmers rises 8 percentage points, from 40 per cent to 48 per cent (see Table 3). In absolute terms, this implies that about 334 thousand people would fall below the poverty line as a result of a 40 per cent reduction in cotton prices.13 A 40 per cent decrease in the price of cotton results in a 40% increase in the poverty gap for all farm households in Benin, while the poverty gap squared (P2) or severity of poverty increases 61 per cent.
+27. This analysis can be broken down by department to evaluate regional differences in the impact of falling cotton prices14 (see Table 3). In Atlantique and Ouémé, the reduction in cotton prices has negligible effects on income and poverty because there are virtually no cotton farmers in these departments. On the other hand, the impact on the departments of Borgou and Zou are large. In Zou, a 40 per cent reduction in cotton prices results a 15 percent fall in per capita income and a 17 percentage point increase in the incidence of poverty. In Borgou, the same decrease in cotton
+13 This estimate is obtained by multiplying the percentage point increase in poverty (.08), the number of farm households in Benin based on the sum of the sampling weights (474,964), and the average household size of farms in Benin according to the survey (8.8).
+14 As mentioned earlier, since the survey was carried out, the number of departments has increased from 6 to 12. The sample size of the survey is too small to allow disaggregation of results by the newly defined departments.
+
+WT/DS267/R/Add.1 Page E-44
+prices causes an 18 per cent reduction in per capita income and a 18 percentage point increase in the incidence of poverty. In fact, the department of Borgou moves from having an "average" poverty rate (greater than in two departments and less than in two others) to having the highest incidence of poverty, 62 per cent. Similarly, the poverty-gap (P1) in Borgou increases by a factor of three and the severity of poverty (P2) doubles as a result of the 40 percent reduction in cotton prices.
+28. Finally, we look at the effect of falling cotton prices on the cumulative distribution of income per capita (see Figure 2). Among other things, it gives us information about the sensitivity of the results to alternative poverty lines, an important consideration given that our poverty lines is relative (set at the 40th percentile in the base distribution). The point where the cumulative distribution cross the poverty line is the poverty rate (note that the base distribution cross the poverty line at the 40th percentile). It is clear from the graph that similar results would have been obtained for higher and lower poverty lines.
+Long-term direct effect of lower cotton prices
+29. Because of uncertainty regarding the supply elasticity of cotton, we carry out this analysis using three elasticities: 0.5, 1.0, and 1.5. In order to simplify the discussion, we present only the impact of a 40 percent reduction in cotton prices. These results are presented with the base levels and with the short-run impact. Since the assumption behind the short-run impact is that the supply elasticity is zero (=0)., they are labelled as such.
+30. As described earlier, the short-run impact of the lower cotton price is to reduce average per capita income by 7 per cent. If the general equilibrium supply elasticity of cotton is 0.5, the average income after the price reduction falls 6 percent from the base. At the other extreme, if the supply elasticity is 1.5, then the average income falls 5 per cent from the base (see Table 4 ).
+31. In the long run, a reduction of 40 percent in the price of cotton is associated with a 67 percentage point increase in the overall rural poverty rate, depending on the assumption regarding the supply elasticity. The poverty gap measure (P1) rises from 0.10 to 0.12 - 0.13, again depending on the elasticity assumption. And the poverty gap squared (P2) increases from 0.036 to 0.047 - 0.058 (see Table 4). As expected, the long-run impact of the 40 per cent reduction in cotton prices is somewhat less adverse than the short-run impact. It is notable, however, that the results are not very sensitive to the elasticity assumption.
+32. The long-run effects on each department are given in Table 4. For example, in Borgou, per capita income falls 18 percent in the short-run, but rebounds 4 percentage points if the supply elasticity is 1.0 and 7 percentage points if the elasticity is 1.5. Similarly, the per capita income in Zou falls 15 per cent in the short-run, but rebounds 3 percentage points in the long-run if the elasticity is 1.0.
+33. The poverty rates in each department follow the same pattern in reverse. In the short-run, they rise as a result of the 40 percent fall in cotton prices, but in the long-run they fall back down part of the way. In Borgou, the poverty rate rises from 44 per cent to 62 per cent in the short run, falling back to 58-60 per cent in the long run, depending on which elasticity assumption is used. Similarly, the incidence of poverty in Zou increases from 33 per cent to 50 per cent in the short run, then falls to 47-49 per cent in the long run. As described above, there is little or no change in poverty in the three southern departments (Atlantique, Mono, and Ouémé) because there are very few cotton growers in these departments.
+34. In Figure 3, we show the cumulative distribution of income in the base scenario, with a 40 per cent reduction in cotton prices in the short run (=0), and with a 40 per cent reduction in cotton prices in the long run (=1.5). Although the long-run supply elasticity used in this figure is at the upper end
+
+WT/DS267/R/Add.1 Page E-45
+of what we believe is plausible, the difference between the short-run and long-run results is not very large. In other words, the long-term results are not very sensitive to the assumption regarding the supply elasticity of cotton. Even with a relatively elastic supply (=1.5), the response of farmers only offsets about one-third of the initial negative short-run impact.
+Conclusions
+35. This paper analyzes the impact of changes in world cotton prices on farmers in Benin. Both quantitative measures of per capita expenditure from household surveys and qualitative responses to a nationally representative survey suggest that rural living conditions improved over the 1990s. Furthermore, farmers tend to attribute this improvement in rural living conditions to economic factors such as crop prices, availability of food, and access to non-farm employment. Although the causal link is difficult to establish with certainty, it appears the economic reforms of the 1990s (including the 1994 devaluation) and the growth of cotton production during this period contributed to a noticeable improvement in rural standards of living.
+36. The link between cotton markets and rural living conditions can, however, work against farmers as well. The analysis in this paper is motivated by the 39 percent decline in the world price of cotton between January 2001 and May 2002. We combine farm survey data from 1998 with assumptions about the decline in farm-level prices to estimate the short- and long-term direct effects of cotton price reductions on rural income and various measures of poverty. We also use the survey data to study two types of indirect effects: the impact of lower cotton production on the demand for agricultural labour by cotton growers and the impact of lower cotton prices on other households through the multiplier effect.
+37. The results indicate that there is a strong link between cotton prices and rural welfare in Benin. A 40 per cent reduction in farm-level prices of cotton is likely to result in a reduction in rural per capita income of 7 per cent in the short-run and 5-6 per cent in the long-run. Furthermore, poverty rises 8 percentage points in the short-run, equivalent to an increase of 334 thousand in the number of individuals in families below the poverty line. In the long run, as households adjust to the new prices, the poverty rate settles down somewhat, remaining 6-7 percentage points higher than originally.
+38. Furthermore, these estimates may well underestimate the actual effect of lower cotton prices on rural poverty in Benin. First, in an economy with unemployed resources and excess capacity, an external shock affecting income (such as a change in cotton prices) has a multiplier effect. Changes in cotton farmer income result in changes in demand for goods and services produced by their noncotton-growing neighbours, which in turn influences the demand for goods and services these neighbours consume. Estimates for four countries in sub-Saharan Africa suggest that the multiplier is in the range of 1.7 to 2.2, meaning that the total effect on income (positive or negative) is 1.7 to 2.2 times greater than the direct impact. Second, we assume that farm prices change by the same proportion as world prices. In competitive markets with a fixed marketing margin, the percentage change in farm prices will be greater than the percentage change in world prices15. Third, our estimates do not take into account other indirect effects associated with declining cotton production. An earlier analysis of the Small Farmer Survey data from Benin indicated that cotton farmers are three times more likely to apply fertilizer to their maize crops compared to non-cotton farmers (see Minot et al, 2001). This is because growing cotton gives farmers access to fertilizer on credit, some of which they "divert" to their maize fields. The implication is that lower cotton prices will indirectly reduce the yields of food crops.
+15 Until recently, the effect of changes in world prices on farm-level prices in Benin was muted by government regulation of the market which stablized prices. Under market reforms being carried out in Benin and elsehwere in West Africa, markets are becoming more competitive and changes in farm prices will closely match changes in world prices.
+
+WT/DS267/R/Add.1 Page E-46
+39. Overall, the results in this paper challenge the stereotype of the rural poor in developing countries as consisting of subsistence farmers that are relatively unconnected to, and thus unaffected, by swings in world commodity markets. At least in the case of Benin, to the extent that fluctuations in world cotton prices are transmitted to farmers, they will have a significant effect on rural incomes and poverty. The broader implication is that policies that subsidize cotton production in the United States and elsewhere, dampening world prices, have an adverse impact on rural poverty in Benin and (by extension) other poor cotton-exporting countries.
+
+References
+
+WT/DS267/R/Add.1 Page E-47
+
+Badiane, O., D. Ghura, L. Goreaux, and P. Masson. 2002. Cotton sector strategies in West and Central Africa. Policy Research Working Paper No. 2867. The World Bank. Washington, D.C.
+Centre for International Economics. 2002. Trade distortions and cotton markets: Implications for global cotton producers. Prepared for the World Bank. Canberra.
+Delgado, C., J. Hopkins, and V. Kelly with P. Hazell, A. McKenna, P. Gruhn, B. Hojjati, J. Sil, and C. Courbois. 1999. Agricultural Growth Linkages in Sub-Saharan Africa. Research Report No. 107. International Food Policy Research Institute. Washington, D.C.
+Delgado, C. and N. Minot. 2000. Agriculture in Tanzania since 1986: Follower or Leader of Growth. World Bank Country Study. The World Bank and the International Food Policy Research Institute. Washington, D.C.
+Dercon, S. 1993. Peasant supply response and macroeconomic policies: Cotton in Tanzania. Journal of African Economies 2 (2):157-193.
+Dorosh, P. and S. Haggblade. 1993. Agriculture-led growth: Foodgrains versus export crops in Madagascar. Agricultural Economics. 9 (August): 165-180.
+Foster, J., J. Greer, and E. Thorbecke. 1984. A class of decomposable poverty measures. Econometrica 52 (3): 761-66.
+Hazell, P. 1984. Rural growth linkages and rural development strategy. Paper presented at the Fourth European Congress of Agricultural Economics, September 3­7, Kiel, Germany.
+Hazell, P. and A. Roell. 1983. Rural growth linkages: Household expenditure patterns in Malaysia and Nigeria. Research Report 41. International Food Policy Research Institute. Washington, D.C.
+Haggblade, S., J. Hammer, and P. Hazell. 1991. Modeling agricultural growth multipliers. American Journal of Agricultural Economics 73 (May): 361­374.
+International Food Policy Research Institute (IFPRI) and Laboratoire d'Analyse Régionale et d'Expertise Sociale (LARES). 2001. Impact des Réformes Agricoles sur les Petits Agriculteurs au Bénin. Volume 1. Report prepared for the Deutsche Gesellschaft Für Technische Zussammenarbeit (GTZ). Project 97.7860.6-001.00.
+Just, R., D. Hueth, and A. Schmitz. 1982. Applied welfare economics and public policy. PrenticeHall, Englewood Cliffs, N.J.
+Minot, N., M. Kherallah, B. Soulé, and P. Berry. 2001. Impact des réformes agricoles sur les petits agriculteurs au Bénin. Volume 1: Résultats des Enquêtes des Petits Agriculteurs, des Communautés, et des Groupements Villageois. Washington, D.C.: International Food Policy Research Institute, Washington, D.C.
+Mushtaq, K. and P. Dawson. 2000. Supply response of wheat, cotton, and sugarcane in Pakistan. Presented at International Food and Agribusiness Management Association conference, 2628 June 2000, Chicago, Illinois.
+Oxfam. 2002. Cultivating poverty: The impact of US cotton subsidies on Africa. Briefing Paper No. 30. Washington, D.C.
+République du Bénin. 1997. Rapport sur l'Etat de l'Economie Nationale ­ Développements récents et perspectives à Moyen Terme. Cellule Macroéconomique de la Présidence de la République du Bénin. Cotonou, Bénin.
+
+WT/DS267/R/Add.1 Page E-48
+Sumner, D. 2003. "A quantitative simulation analysis of the impacts of US cotton subsidies on cotton prices and quantities." Prepared for DS 267 Brazil vs US Cotton Subsidies, World Trade Organization, Geneva.
+United Nations Development Programme and Ministère du Développement Rural (UNDP-MDR). 1996. Profil de la Pauvreté Rurale et Caractéristiques Socio-Economique des Ménages. United Nations Development Programme and the Ministère du Développement Rural. Cotonou, Bénin.
+US Department of Agriculture. 2001. Cotton and Wool Situation and Outlook Yearbook. Economic Research Service. CWS-2001 (November 2001). Washington, D.C.
+US Department of Agriculture. 2002a. Cotton and Wool Outlook. Economic Research Service. CWS-05-02 (June 2002). Washington, D.C.
+US Department of Agriculture. 2002b. Briefing room: cotton policy Economic Research Service. http://www.ers.usda.gov/briefing/cotton/policy.htm. Accessed on 12 September 2002.
+US Department of Agriculture. 2002c. Farm Bill 2002 (http://www.usda.gov/farmbill/). Accessed 25 October 2002.
+World Bank. 2000. World Development Report 1999/2000 ­ Entering the 21st Century. The World Bank. Washington, D.C.
+World Bank. 2002. Subsidies hurt cotton producers. http://web.worldbank.org/WBSITE/EXTERNAL/NEWS/0,,contentMDK:20054420~menuPK :34459~pagePK:34370~piPK:34424~theSitePK:4607,00.html. Accessed 14 October 2002.
+
+ Table 1. Proportion of farm households
+
+ growing maize and cotton
+
+Maize
+
+Cotton
+
+Department
+
+Atacora
+
+76 37
+
+Atlantique
+
+100 0
+
+Borgou
+
+96 68
+
+Mono
+
+83 25
+
+Ouémé
+
+91 4
+
+Zou 95 64
+
+Quintile
+
+Poorest
+
+91 35
+
+2nd 93 30
+
+3rd 90 44
+
+4th 88 38
+
+Richest
+
+90 28
+
+Benin
+
+89 34
+
+Source: IFPRI-LARES Small Farmer Survey.
+
+Table 2. Characteristics of cotton growers and other farmers Cotton Other
+
+growers farmers Total
+
+Household size
+
+10.1 8.1 8.8
+
+Dependency ratio
+
+49 48 48
+
+Sown area (ha)
+
+6.5 3.2 4.4
+
+Farm size (ha)
+
+5.3 2.3 3.3
+
+Expenditure (FCFA/person/year)
+
+99,437 108,315 105,203
+
+Food share
+
+57 56 57
+
+Home production share
+
+35 24 28
+
+Percent growing cotton
+
+100 0 35
+
+Cotton area (ha)
+
+2.3 0 0.8
+
+Cotton output (kg)
+
+2,559
+
+0 897
+
+Cotton yield (kg/ha)
+
+1,084
+
+1,084
+
+Cotton sales (FCFA)
+
+505,584
+
+0 177,217
+
+Poverty measures
+
+P0 0.37 P1 0.095 P2 0.033 Source: IFPRI-LARES Small Farmer Survey.
+
+0.42 0.103 0.037
+
+0.40 0.100 0.036
+
+WT/DS267/R/Add.1 Page E-49
+
+WT/DS267/R/Add.1 Page E-50
+
+Table 3. Short-run direct impact of reductions in cotton prices by department
+
+Atacora Atlantique Borgou Mono Ouémé
+
+Zou
+
+Per capita expenditure
+
+Base
+
+84,672 139,290 94,803 88,034 116,479 110,108
+
+10% reduction
+
+83,559 139,290 90,455 87,547 116,414 106,115
+
+20% reduction
+
+82,446 139,290 86,106 87,060 116,349 102,123
+
+30% reduction
+
+81,333 139,290 81,758 86,573 116,284 98,130
+
+40% reduction
+
+80,219 139,290 77,409 86,086 116,219 94,137
+
+Incidence of poverty (P0)
+
+Base 0.54 0.14 0.44 0.50 0.44 0.33
+
+10% reduction
+
+0.55 0.14 0.46 0.50 0.44 0.37
+
+20% reduction
+
+0.56 0.14 0.53 0.50 0.44 0.43
+
+30% reduction
+
+0.56 0.14 0.58 0.52 0.44 0.47
+
+40% reduction
+
+0.57 0.14 0.62 0.53 0.44 0.50
+
+Poverty gap (P1)
+
+Base
+
+0.161
+
+0.034
+
+0.098
+
+0.131
+
+0.110
+
+0.071
+
+10% reduction
+
+0.166
+
+0.034
+
+0.114
+
+0.134
+
+0.110
+
+0.081
+
+20% reduction
+
+0.172
+
+0.034
+
+0.137
+
+0.137
+
+0.111
+
+0.097
+
+30% reduction
+
+0.178
+
+0.034
+
+0.167
+
+0.140
+
+0.111
+
+0.118
+
+40% reduction
+
+0.185
+
+0.034
+
+0.202
+
+0.143
+
+0.111
+
+0.144
+
+Severity of poverty (P2)
+
+Base
+
+0.065
+
+0.012
+
+0.031
+
+0.046
+
+0.042
+
+0.022
+
+10% reduction
+
+0.068
+
+0.012
+
+0.039
+
+0.048
+
+0.042
+
+0.025
+
+20% reduction
+
+0.070
+
+0.012
+
+0.052
+
+0.050
+
+0.042
+
+0.031
+
+30% reduction
+
+0.074
+
+0.012
+
+0.071
+
+0.052
+
+0.042
+
+0.041
+
+40% reduction
+
+0.078
+
+0.012
+
+0.100
+
+0.055
+
+0.042
+
+0.057
+
+Source: IFPRI-LARES Small Farmer Survey.
+
+Total
+105,203 103,388 101,574
+99,759 97,944
+0.40 0.42 0.44 0.46 0.48
+0.100 0.106 0.115 0.126 0.138
+0.036 0.038 0.042 0.049 0.058
+
+WT/DS267/R/Add.1 Page E-51
+
+Table 4. Long-run direct impact of a 40% reduction in cotton price by department
+
+Atacora Atlantique Borgou Mono Ouémé
+
+Zou
+
+Per capita expenditure
+
+Base
+
+84,672 139,290 94,803 88,034 116,479 110,108
+
+=0
+
+80,219 139,290 77,409 86,086 116,219 94,137
+
+ = 0.5
+
+80,665 139,290 79,149 86,280 116,245 95,734
+
+ = 1.0
+
+81,110 139.290 80,888 86,475 116,271 97,331
+
+ = 1.5
+
+81,555 139,290 82,627 86,670 116,297 98,928
+
+Incidence of poverty (P0)
+
+Base 0.54 0.14 0.44 0.50 0.44 0.33
+
+=0
+
+0.57 0.14 0.62 0.53 0.44 0.50
+
+ = 0.5
+
+0.57 0.14 0.60 0.53 0.44 0.49
+
+ = 1.0
+
+0.57 0.14 0.59 0.52 0.44 0.48
+
+ = 1.5
+
+0.56 0.14 0.58 0.52 0.44 0.47
+
+Poverty gap (P1)
+
+Base
+
+0.161
+
+0.034
+
+0.098
+
+0.131
+
+0.110
+
+0.071
+
+=0
+
+0.185
+
+0.034
+
+0.202
+
+0.143
+
+0.111
+
+0.144
+
+ = 0.5
+
+0.182
+
+0.034
+
+0.188
+
+0.142
+
+0.111
+
+0.133
+
+ = 1.0
+
+0.179
+
+0.034
+
+0.174
+
+0.140
+
+0.111
+
+0.123
+
+ = 1.5
+
+0.177
+
+0.034
+
+0.161
+
+0.139
+
+0.111
+
+0.113
+
+Severity of poverty (P2)
+
+Base
+
+0.065
+
+0.012
+
+0.031
+
+0.046
+
+0.042
+
+0.022
+
+=0
+
+0.078
+
+0.012
+
+0.100
+
+0.055
+
+0.042
+
+0.057
+
+ = 0.5
+
+0.077
+
+0.012
+
+0.088
+
+0.054
+
+0.042
+
+0.050
+
+ = 1.0
+
+0.075
+
+0.012
+
+0.076
+
+0.053
+
+0.042
+
+0.044
+
+ = 1.5
+
+0.073
+
+0.012
+
+0.067
+
+0.052
+
+0.042
+
+0.039
+
+Source: IFPRI-LARES Small Farmer Survey.
+
+Total
+105,203 97,944 98,670 99,396 100,122
+0.40 0.48 0.47 0.47 0.46
+0.100 0.138 0.133 0.128 0.123
+0.036 0.058 0.054 0.050 0.047
+
+A-index cotton price (US cents/pound)
+
+WT/DS267/R/Add.1 Page E-52
+ Figure 1. Cotton prices in Northern Europe (A-Index)
+140 120 100
+80 60 40 20
+-
+ Source: USDA, 2002; USDA, 2001.  Note: The A-Index is the average of the five lowest prices of cotton in Northern European markets for middling 1 3/32 inch fiber length. For June and July 1995, there was no A-Index quotation; the dotted line represents a simple linear interpolation.
+
+Jan-91 Jan-92 Jan-93 Jan-94 Jan-95 Jan-96 Jan-97 Jan-98 Jan-99 Jan-00 Jan-01 Jan-02 Jan-03 Jan-04
+
+WT/DS267/R/Add.1 Page E-53
+
+ Figure 2. Short-run impact of lower cotton prices on the cumulative distribution of income
+
+Cumulative proportion of households
+
+1
+
+0.9
+
+0.8 Poverty line 0.7
+
+0.6
+0.5 Base
+20% reduction
+0.4
+40% reduction
+0.3
+Poverty line
+0.2
+
+0.1
+
+0 40,000
+
+60,000
+
+80,000
+
+100,000 120,000 140,000
+Income per capita
+
+160,000
+
+180,000
+
+200,000
+
+WT/DS267/R/Add.1 Page E-54
+ Figure 3. Long-run impact of a 40% reduction in cotton prices on the cumulative distribution of income
+
+Cumulative proportion of households
+
+1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1
+0 40,000
+
+60,000
+
+Short run (e=0) Long run (e=1.5) Base Poverty line
+
+80,000
+
+100,000
+
+120,000
+
+140,000
+
+Income per capita (FCFA)
+
+160,000
+
+180,000
+
+200,000
+
+
